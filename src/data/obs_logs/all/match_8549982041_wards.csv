@@ -1,0 +1,108 @@
+match_id,radiant_or_dire,team_id,team_name,ward_type,account_id,personal_name,player_slot,time,removed_time,lifetime,type,x,y,z,entityleft,ehandle,key,_matched_by,slot
+8549982041,radiant,8291895,Tundra Esports,obs,346412363,Ari,1,-26,334.0,360.0,obs_log,119.1,139.3,129.0,False,8864479,"[119,139]",json_ehandle,1
+8549982041,radiant,8291895,Tundra Esports,obs,346412363,Ari,1,317,677.0,360.0,obs_log,182.2,95.6,129.0,False,15451732,"[182,96]",json_ehandle,1
+8549982041,radiant,8291895,Tundra Esports,obs,346412363,Ari,1,399,759.0,360.0,obs_log,102.1,159.5,130.0,False,3426456,"[102,160]",json_ehandle,1
+8549982041,radiant,8291895,Tundra Esports,obs,346412363,Ari,1,782,1143.0,361.0,obs_log,152.1,95.8,130.0,False,13454080,"[152,96]",json_ehandle,1
+8549982041,radiant,8291895,Tundra Esports,obs,346412363,Ari,1,1254,1614.0,360.0,obs_log,136.2,94.4,130.0,False,8898800,"[136,94]",json_ehandle,1
+8549982041,radiant,8291895,Tundra Esports,obs,346412363,Ari,1,1367,1727.0,360.0,obs_log,175.2,67.3,129.0,False,6899898,"[175,67]",json_ehandle,1
+8549982041,radiant,8291895,Tundra Esports,obs,346412363,Ari,1,1738,2098.0,360.0,obs_log,146.3,133.6,129.0,False,14567369,"[146,134]",json_ehandle,1
+8549982041,radiant,8291895,Tundra Esports,obs,346412363,Ari,1,2148,,,obs_log,122.8,145.9,129.9,False,8701830,"[123,146]",,1
+8549982041,radiant,8291895,Tundra Esports,obs,346412363,Ari,1,2288,,,obs_log,150.7,126.9,130.0,False,10846468,"[151,127]",,1
+8549982041,radiant,8291895,Tundra Esports,sen,346412363,Ari,1,27,447.0,420.0,sen_log,164.9,100.3,129.0,False,4491070,"[165,100]",json_ehandle,1
+8549982041,radiant,8291895,Tundra Esports,sen,346412363,Ari,1,113,533.0,420.0,sen_log,156.2,88.4,129.0,False,1099309,"[156,88]",json_ehandle,1
+8549982041,radiant,8291895,Tundra Esports,sen,346412363,Ari,1,780,1200.0,420.0,sen_log,151.7,90.8,130.0,False,788748,"[152,91]",json_ehandle,1
+8549982041,radiant,8291895,Tundra Esports,sen,346412363,Ari,1,982,1144.0,162.0,sen_log,132.5,108.7,130.0,False,3310853,"[133,109]",json_ehandle,1
+8549982041,radiant,8291895,Tundra Esports,sen,346412363,Ari,1,1117,1537.0,420.0,sen_log,176.1,103.3,129.0,False,4327503,"[176,103]",json_ehandle,1
+8549982041,radiant,8291895,Tundra Esports,sen,346412363,Ari,1,1191,1296.0,105.0,sen_log,94.2,159.7,129.0,False,14779909,"[94,160]",json_ehandle,1
+8549982041,radiant,8291895,Tundra Esports,sen,346412363,Ari,1,1357,1778.0,421.0,sen_log,158.8,71.7,129.0,False,3623772,"[159,72]",json_ehandle,1
+8549982041,radiant,8291895,Tundra Esports,sen,346412363,Ari,1,1740,2160.0,420.0,sen_log,144.5,134.6,129.0,False,16074771,"[145,135]",json_ehandle,1
+8549982041,radiant,8291895,Tundra Esports,sen,346412363,Ari,1,1799,2219.0,420.0,sen_log,143.7,86.3,130.0,False,11913763,"[144,86]",json_ehandle,1
+8549982041,radiant,8291895,Tundra Esports,sen,346412363,Ari,1,2145,2565.0,420.0,sen_log,118.6,151.3,130.0,False,8178096,"[119,151]",json_ehandle,1
+8549982041,radiant,8291895,Tundra Esports,obs,136829091,NongMon,2,257,495.0,238.0,obs_log,122.3,157.4,130.0,False,16139527,"[122,157]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,obs,136829091,NongMon,2,874,1234.0,360.0,obs_log,109.8,172.8,129.0,False,3591004,"[110,173]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,obs,136829091,NongMon,2,1011,1372.0,361.0,obs_log,184.2,100.4,129.0,False,2837076,"[184,100]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,obs,136829091,NongMon,2,1372,1732.0,360.0,obs_log,109.7,155.5,130.0,False,16681033,"[110,156]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,obs,136829091,NongMon,2,1540,1901.0,361.0,obs_log,118.2,94.5,131.2,False,5098224,"[118,95]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,obs,136829091,NongMon,2,1569,1602.0,33.0,obs_log,131.8,144.5,129.0,False,8555429,"[132,145]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,obs,136829091,NongMon,2,2086,2123.0,37.0,obs_log,135.7,156.3,131.1,False,13288130,"[136,156]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,obs,136829091,NongMon,2,2136,2556.0,420.0,obs_log,144.0,165.7,129.0,False,1592018,"[144,166]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,39,92.0,53.0,sen_log,99.4,163.5,129.0,False,11896773,"[99,164]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,165,214.0,49.0,sen_log,99.1,163.8,129.0,False,10864309,"[99,164]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,322,564.0,242.0,sen_log,119.5,136.5,128.2,False,379296,"[120,137]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,394,814.0,420.0,sen_log,91.2,181.9,129.0,False,4196674,"[91,182]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,518,805.0,287.0,sen_log,166.5,110.2,129.0,False,6916668,"[167,110]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,753,1173.0,420.0,sen_log,83.9,153.0,129.0,False,6998028,"[84,153]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,828,1248.0,420.0,sen_log,65.7,142.2,132.2,False,10701809,"[66,142]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,868,1288.0,420.0,sen_log,97.3,164.3,129.0,False,10455731,"[97,164]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,950,1370.0,420.0,sen_log,108.5,134.5,128.0,False,3606352,"[109,135]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,999,1419.0,420.0,sen_log,171.7,88.6,129.0,False,6539531,"[172,89]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,1024,1444.0,420.0,sen_log,71.6,184.0,130.0,False,6424151,"[72,184]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,1034,1454.0,420.0,sen_log,73.2,164.2,129.0,False,14273199,"[73,164]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,1088,1508.0,420.0,sen_log,127.7,124.3,128.0,False,11520440,"[128,124]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,1360,1780.0,420.0,sen_log,97.3,156.5,129.0,False,10782405,"[97,157]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,1369,1789.0,420.0,sen_log,111.1,164.1,130.0,False,1804538,"[111,164]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,1526,1946.0,420.0,sen_log,107.6,99.4,129.0,False,14403515,"[108,99]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,1540,1960.0,420.0,sen_log,121.7,100.4,129.0,False,706345,"[122,100]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,1565,1985.0,420.0,sen_log,125.5,137.5,129.0,False,8145727,"[126,138]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,1882,2302.0,420.0,sen_log,160.0,137.0,130.0,False,15256515,"[160,137]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,1964,2384.0,420.0,sen_log,189.4,136.4,130.0,False,16746569,"[189,136]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,2070,2490.0,420.0,sen_log,131.7,153.2,129.0,False,14568179,"[132,153]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,2087,2507.0,420.0,sen_log,135.9,156.4,131.1,False,12093077,"[136,156]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,2136,2556.0,420.0,sen_log,144.0,165.7,129.0,False,1346250,"[144,166]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,2279,2699.0,420.0,sen_log,136.9,131.3,129.0,False,117155,"[137,131]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,sen,136829091,NongMon,2,2289,2709.0,420.0,sen_log,150.1,127.4,130.0,False,2689351,"[150,127]",json_ehandle,2
+8549982041,radiant,8291895,Tundra Esports,obs,93618577,BRUCE-,3,-28,332.0,360.0,obs_log,129.6,104.2,130.0,False,13697756,"[130,104]",json_ehandle,3
+8549982041,radiant,8291895,Tundra Esports,obs,93618577,BRUCE-,3,487,847.0,360.0,obs_log,110.0,130.1,129.0,False,9668556,"[110,130]",json_ehandle,3
+8549982041,radiant,8291895,Tundra Esports,sen,93618577,BRUCE-,3,191,342.0,151.0,sen_log,125.2,126.1,128.0,False,11864121,"[125,126]",json_ehandle,3
+8549982041,dire,9247354,Team Falcons,obs,10366616,Sneyking,128,384,744.0,360.0,obs_log,98.5,156.6,129.0,False,13207343,"[99,157]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,obs,10366616,Sneyking,128,591,951.0,360.0,obs_log,140.4,90.7,130.0,False,2640857,"[140,91]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,obs,10366616,Sneyking,128,797,1001.0,204.0,obs_log,170.5,89.8,129.0,False,461760,"[171,90]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,obs,10366616,Sneyking,128,917,1277.0,360.0,obs_log,184.4,65.5,130.0,False,8947865,"[184,66]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,obs,10366616,Sneyking,128,996,1356.0,360.0,obs_log,97.3,155.6,129.0,False,12421632,"[97,156]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,obs,10366616,Sneyking,128,1325,1685.0,360.0,obs_log,96.8,184.2,128.9,False,14830493,"[97,184]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,obs,10366616,Sneyking,128,1466,1819.0,353.0,obs_log,131.6,109.9,130.0,False,2689623,"[132,110]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,obs,10366616,Sneyking,128,2150,,,obs_log,168.8,103.3,129.0,False,7474134,"[169,103]",,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,81,181.0,100.0,sen_log,102.5,167.7,130.0,False,6768826,"[103,168]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,212,632.0,420.0,sen_log,100.3,168.9,129.0,False,12388739,"[100,169]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,348,768.0,420.0,sen_log,98.9,137.3,130.0,False,12863893,"[99,137]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,375,795.0,420.0,sen_log,113.0,161.2,130.0,False,13617236,"[113,161]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,492,912.0,420.0,sen_log,121.0,153.0,130.0,False,13993408,"[121,153]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,546,558.0,12.0,sen_log,117.7,128.5,128.0,False,1411783,"[118,129]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,561,981.0,420.0,sen_log,118.4,133.0,128.0,False,1772315,"[118,133]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,787,1004.0,217.0,sen_log,170.2,89.1,129.0,False,8833721,"[170,89]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,915,1335.0,420.0,sen_log,180.8,69.8,130.0,False,11486456,"[181,70]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,942,1250.0,308.0,sen_log,73.2,186.0,130.0,False,624334,"[73,186]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,997,1362.0,365.0,sen_log,97.3,155.6,129.0,False,16075772,"[97,156]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1014,1434.0,420.0,sen_log,120.7,152.1,130.0,False,1051028,"[121,152]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1031,1102.0,71.0,sen_log,123.9,124.3,128.0,False,1214445,"[124,124]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1133,1553.0,420.0,sen_log,130.3,113.9,129.0,False,1083043,"[130,114]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1326,1747.0,421.0,sen_log,91.8,182.3,129.0,False,1492230,"[92,182]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1372,1576.0,204.0,sen_log,131.1,139.8,129.0,False,16270901,"[131,140]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1456,1824.0,368.0,sen_log,122.7,116.3,129.0,False,9063164,"[123,116]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1523,1943.0,420.0,sen_log,106.6,130.2,129.0,False,9635848,"[107,130]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1532,1952.0,420.0,sen_log,90.0,136.6,129.0,False,10193401,"[90,137]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1599,2019.0,420.0,sen_log,131.9,143.6,129.0,False,6801590,"[132,144]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1805,1807.0,2.0,sen_log,118.4,93.9,131.2,False,11684693,"[118,94]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1919,2339.0,420.0,sen_log,165.6,153.7,130.0,False,6882216,"[166,154]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1922,2342.0,420.0,sen_log,159.1,159.7,130.0,False,14518211,"[159,160]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,2110,2530.0,420.0,sen_log,164.0,134.2,132.1,False,640971,"[164,134]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,2144,2564.0,420.0,sen_log,174.7,105.8,129.0,False,10880709,"[175,106]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,2223,2643.0,420.0,sen_log,157.1,176.1,130.0,False,6785850,"[157,176]",json_ehandle,5
+8549982041,dire,9247354,Team Falcons,obs,898455820,Буська,130,-21,325.0,346.0,obs_log,124.9,138.2,129.0,False,525561,"[125,138]",json_ehandle,7
+8549982041,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,-21,339.0,360.0,obs_log,114.6,157.7,130.0,False,7635268,"[115,158]",json_ehandle,9
+8549982041,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,334,694.0,360.0,obs_log,129.1,118.4,129.0,False,8701569,"[129,118]",json_ehandle,9
+8549982041,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,881,1241.0,360.0,obs_log,151.8,71.9,129.0,False,16074617,"[152,72]",json_ehandle,9
+8549982041,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,1165,1208.0,43.0,obs_log,78.7,159.2,129.0,False,11503234,"[79,159]",json_ehandle,9
+8549982041,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,1327,1361.0,34.0,obs_log,154.7,74.2,129.0,False,4164099,"[155,74]",json_ehandle,9
+8549982041,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,1616,1641.0,25.0,obs_log,143.7,62.2,130.0,False,12569338,"[144,62]",json_ehandle,9
+8549982041,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,1778,2138.0,360.0,obs_log,144.3,108.9,128.0,False,9029785,"[144,109]",json_ehandle,9
+8549982041,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,2003,2304.0,301.0,obs_log,157.3,147.8,129.0,False,15665877,"[157,148]",json_ehandle,9
+8549982041,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,2268,2309.0,41.0,obs_log,136.6,135.7,129.0,False,15485919,"[137,136]",json_ehandle,9
+8549982041,dire,9247354,Team Falcons,sen,25907144,ik lavet penge,132,42,118.0,76.0,sen_log,158.0,91.2,129.0,False,15828954,"[158,91]",json_ehandle,9
+8549982041,dire,9247354,Team Falcons,sen,25907144,ik lavet penge,132,334,754.0,420.0,sen_log,130.3,121.3,128.0,False,1066941,"[130,121]",json_ehandle,9
+8549982041,dire,9247354,Team Falcons,sen,25907144,ik lavet penge,132,684,1104.0,420.0,sen_log,162.4,116.7,129.0,False,6800988,"[162,117]",json_ehandle,9
+8549982041,dire,9247354,Team Falcons,sen,25907144,ik lavet penge,132,744,1128.0,384.0,sen_log,173.2,101.6,129.0,False,1330018,"[173,102]",json_ehandle,9
+8549982041,dire,9247354,Team Falcons,sen,25907144,ik lavet penge,132,1160,1580.0,420.0,sen_log,87.6,169.7,129.0,False,9504404,"[88,170]",json_ehandle,9
+8549982041,dire,9247354,Team Falcons,sen,25907144,ik lavet penge,132,1607,1660.0,53.0,sen_log,162.9,72.8,129.0,False,3262505,"[163,73]",json_ehandle,9
+8549982041,dire,9247354,Team Falcons,sen,25907144,ik lavet penge,132,2002,2422.0,420.0,sen_log,158.4,150.6,129.0,False,14567907,"[158,151]",json_ehandle,9
+8549982041,dire,9247354,Team Falcons,sen,25907144,ik lavet penge,132,2117,2180.0,63.0,sen_log,136.1,155.7,131.1,False,8946679,"[136,156]",json_ehandle,9

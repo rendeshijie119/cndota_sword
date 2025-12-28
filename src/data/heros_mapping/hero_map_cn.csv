@@ -1,0 +1,129 @@
+```csv
+id,localized_name,hero_name,hero_name_cn
+1,Anti-Mage,Anti-Mage,敌法师
+2,Axe,Axe,斧王
+3,Bane,Bane,贝恩
+4,Bloodseeker,Bloodseeker,嗜血狂魔
+5,Crystal Maiden,Crystal Maiden,水晶室女
+6,Drow Ranger,Drow Ranger,卓尔游侠
+7,Earthshaker,Earthshaker,撼地者
+8,Juggernaut,Juggernaut,剑圣
+9,Mirana,Mirana,米拉娜
+10,Morphling,Morphling,变体精灵
+11,Shadow Fiend,Shadow Fiend,影魔
+12,Phantom Lancer,Phantom Lancer,幻影长矛手
+13,Puck,Puck,帕克
+14,Pudge,Pudge,屠夫
+15,Razor,Razor,剃刀
+16,Sand King,Sand King,沙王
+17,Storm Spirit,Storm Spirit,风暴之灵
+18,Sven,Sven,斯温
+19,Tiny,Tiny,小小
+20,Vengeful Spirit,Vengeful Spirit,复仇之魂
+21,Windranger,Windranger,风行者
+22,Zeus,Zeus,宙斯
+23,Kunkka,Kunkka,昆卡
+25,Lina,Lina,莉娜
+26,Lion,Lion,莱恩
+27,Shadow Shaman,Shadow Shaman,暗影萨满
+28,Slardar,Slardar,斯拉达
+29,Tidehunter,Tidehunter,潮汐猎人
+30,Witch Doctor,Witch Doctor,巫医
+31,Lich,Lich,巫妖
+32,Riki,Riki,力丸
+33,Enigma,Enigma,艾尼格玛
+34,Tinker,Tinker,修补匠
+35,Sniper,Sniper,狙击手
+36,Necrophos,Necrophos,死灵法师
+37,Warlock,Warlock,术士
+38,Beastmaster,Beastmaster,野兽大师
+39,Queen of Pain,Queen of Pain,痛苦女王
+40,Venomancer,Venomancer,剧毒术士
+41,Faceless Void,Faceless Void,虚空假面
+42,Wraith King,Wraith King,不朽尸王
+43,Death Prophet,Death Prophet,死亡先知
+44,Phantom Assassin,Phantom Assassin,幻影刺客
+45,Pugna,Pugna,帕格纳
+46,Templar Assassin,Templar Assassin,圣堂刺客
+47,Viper,Viper,毒蛇
+48,Luna,Luna,露娜
+49,Dragon Knight,Dragon Knight,龙骑士
+50,Dazzle,Dazzle,戴泽
+51,Clockwerk,Clockwerk,发条技师
+52,Leshrac,Leshrac,莱什拉克
+53,Nature's Prophet,Nature's Prophet,先知
+54,Lifestealer,Lifestealer,噬魂鬼
+55,Dark Seer,Dark Seer,黑暗贤者
+56,Clinkz,Clinkz,克林克兹
+57,Omniknight,Omniknight,全能骑士
+58,Enchantress,Enchantress,魅惑魔女
+59,Huskar,Huskar,胡斯卡
+60,Night Stalker,Night Stalker,夜魔
+61,Broodmother,Broodmother,蜘蛛女王
+62,Bounty Hunter,Bounty Hunter,赏金猎人
+63,Weaver,Weaver,编织者
+64,Jakiro,Jakiro,杰奇洛
+65,Batrider,Batrider,蝙蝠骑士
+66,Chen,Chen,陈
+67,Spectre,Spectre,幽鬼
+68,Ancient Apparition,Ancient Apparition,远古冰魄
+69,Doom,Doom,末日使者
+70,Ursa,Ursa,熊战士
+71,Spirit Breaker,Spirit Breaker,魂之挫击
+72,Gyrocopter,Gyrocopter,直升机/火箭骑士
+73,Alchemist,Alchemist,炼金术士
+74,Invoker,Invoker,祈求者
+75,Silencer,Silencer,沉默术士
+76,Outworld Destroyer,Outworld Destroyer,深渊领主
+77,Lycan,Lycan,莱坎
+78,Brewmaster,Brewmaster,酿酒师
+79,Shadow Demon,Shadow Demon,影魔鬼
+80,Lone Druid,Lone Druid,孤狼德鲁伊
+81,Chaos Knight,Chaos Knight,混沌骑士
+82,Meepo,Meepo,米波
+83,Treant Protector,Treant Protector,树精守卫
+84,Ogre Magi,Ogre Magi,牛头人酋长
+85,Undying,Undying,不朽尸王者
+86,Rubick,Rubick,卢比克
+87,Disruptor,Disruptor,干扰者
+88,Nyx Assassin,Nyx Assassin,奈克萨刺客
+89,Naga Siren,Naga Siren,娜迦海妖
+90,Keeper of the Light,Keeper of the Light,光之守护
+91,Io,Io,艾欧
+92,Visage,Visage,维萨吉
+93,Slark,Slark,斯拉克
+94,Medusa,Medusa,美杜莎
+95,Troll Warlord,Troll Warlord,巨魔战将
+96,Centaur Warrunner,Centaur Warrunner,半人马战行者
+97,Magnus,Magnus,麦格纳斯
+98,Timbersaw,Timbersaw,伐木机
+99,Bristleback,Bristleback,刚背猪
+100,Tusk,Tusk,塔斯克
+101,Skywrath Mage,Skywrath Mage,天怒法师
+102,Abaddon,Abaddon,亚巴顿
+103,Elder Titan,Elder Titan,古代巨神
+104,Legion Commander,Legion Commander,军团指挥官
+105,Techies,Techies,地精科技
+106,Ember Spirit,Ember Spirit,灰烬之灵
+107,Earth Spirit,Earth Spirit,土灵
+108,Underlord,Underlord,低语者
+109,Terrorblade,Terrorblade,恐怖利刃
+110,Phoenix,Phoenix,凤凰
+111,Oracle,Oracle,神谕者
+112,Winter Wyvern,Winter Wyvern,冬之守护
+113,Arc Warden,Arc Warden,电炎绝手
+114,Monkey King,Monkey King,孙悟空
+119,Dark Willow,Dark Willow,黑暗柳树
+120,Pangolier,Pangolier,穿山甲骑士
+121,Grimstroke,Grimstroke,格林斯特罗克
+123,Hoodwink,Hoodwink,胡德温克
+126,Void Spirit,Void Spirit,虚空之灵
+128,Snapfire,Snapfire,斯耐普火
+129,Mars,Mars,马尔斯
+131,Ringmaster,Ringmaster,驯环师
+135,Dawnbreaker,Dawnbreaker,破晓之光
+136,Marci,Marci,玛尔西
+137,Primal Beast,Primal Beast,原始巨兽
+138,Muerta,Muerta,墨尔塔
+145,Kez,Kez,Kez
+```

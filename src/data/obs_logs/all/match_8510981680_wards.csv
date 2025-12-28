@@ -1,0 +1,98 @@
+match_id,radiant_or_dire,team_id,team_name,ward_type,account_id,personal_name,player_slot,time,removed_time,lifetime,type,x,y,z,entityleft,ehandle,key,_matched_by,slot
+8510981680,radiant,2163,Team Liquid,obs,16497807,tOfu,0,-32,328.0,360.0,obs_log,138.0,123.9,128.9,False,8390160,"[138,124]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,obs,16497807,tOfu,0,382,743.0,361.0,obs_log,142.4,102.3,130.0,False,9046786,"[142,102]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,obs,16497807,tOfu,0,932,987.0,55.0,obs_log,111.0,129.1,129.0,False,10666200,"[111,129]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,obs,16497807,tOfu,0,1083,1444.0,361.0,obs_log,141.0,113.0,128.0,False,4391192,"[141,113]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,obs,16497807,tOfu,0,1445,1805.0,360.0,obs_log,142.2,102.4,130.0,False,2738783,"[142,102]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,obs,16497807,tOfu,0,1542,1902.0,360.0,obs_log,76.9,160.1,129.0,False,6343655,"[77,160]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,obs,16497807,tOfu,0,1791,2118.0,327.0,obs_log,119.2,138.6,128.9,False,15404419,"[119,139]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,obs,16497807,tOfu,0,2126,2197.0,71.0,obs_log,94.3,120.2,132.2,False,5785964,"[94,120]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,sen,16497807,tOfu,0,-24,397.0,421.0,sen_log,151.5,116.3,130.0,False,2524708,"[152,116]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,sen,16497807,tOfu,0,60,480.0,420.0,sen_log,162.2,96.4,129.0,False,8783978,"[162,96]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,sen,16497807,tOfu,0,236,656.0,420.0,sen_log,157.5,85.3,129.0,False,8308697,"[158,85]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,sen,16497807,tOfu,0,307,345.0,38.0,sen_log,131.7,120.0,128.0,False,4639180,"[132,120]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,sen,16497807,tOfu,0,364,784.0,420.0,sen_log,131.3,121.6,128.0,False,10603174,"[131,122]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,sen,16497807,tOfu,0,624,1044.0,420.0,sen_log,114.7,108.1,129.0,False,3410629,"[115,108]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,sen,16497807,tOfu,0,699,1119.0,420.0,sen_log,131.3,103.4,130.0,False,1771921,"[131,103]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,sen,16497807,tOfu,0,880,1300.0,420.0,sen_log,87.9,138.8,129.0,False,1902953,"[88,139]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,sen,16497807,tOfu,0,934,985.0,51.0,sen_log,117.9,131.1,128.0,False,13961099,"[118,131]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,sen,16497807,tOfu,0,999,1419.0,420.0,sen_log,121.5,90.6,129.1,False,1722279,"[122,91]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,sen,16497807,tOfu,0,1019,1439.0,420.0,sen_log,147.9,78.3,129.0,False,4672277,"[148,78]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,sen,16497807,tOfu,0,1407,1541.0,134.0,sen_log,98.5,120.7,130.0,False,9094940,"[99,121]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,sen,16497807,tOfu,0,1442,1862.0,420.0,sen_log,142.4,102.3,130.0,False,10438711,"[142,102]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,sen,16497807,tOfu,0,1630,2050.0,420.0,sen_log,98.1,92.9,130.0,False,3638926,"[98,93]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,sen,16497807,tOfu,0,1673,2093.0,420.0,sen_log,90.0,100.0,130.0,False,8178762,"[90,100]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,sen,16497807,tOfu,0,1793,2114.0,321.0,sen_log,118.5,131.4,128.0,False,855513,"[119,131]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,sen,16497807,tOfu,0,1812,2004.0,192.0,sen_log,118.2,94.2,131.2,False,15517275,"[118,94]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,sen,16497807,tOfu,0,2128,2193.0,65.0,sen_log,98.9,121.6,130.0,False,4066152,"[99,122]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,sen,16497807,tOfu,0,2197,2617.0,420.0,sen_log,97.2,81.3,130.0,False,13272910,"[97,81]",json_ehandle,0
+8510981680,radiant,2163,Team Liquid,obs,201358612,мусор,2,345,705.0,360.0,obs_log,119.1,123.0,129.0,False,5687884,"[119,123]",json_ehandle,2
+8510981680,radiant,2163,Team Liquid,sen,201358612,мусор,2,276,337.0,61.0,sen_log,123.2,126.0,128.0,False,13829757,"[123,126]",json_ehandle,2
+8510981680,radiant,2163,Team Liquid,obs,77490514,Boxi,3,-18,343.0,361.0,obs_log,141.2,92.6,130.0,False,6555204,"[141,93]",json_ehandle,3
+8510981680,radiant,2163,Team Liquid,obs,77490514,Boxi,3,406,766.0,360.0,obs_log,95.7,128.8,130.0,False,12176241,"[96,129]",json_ehandle,3
+8510981680,radiant,2163,Team Liquid,obs,77490514,Boxi,3,1043,1403.0,360.0,obs_log,167.2,93.9,129.0,False,5376979,"[167,94]",json_ehandle,3
+8510981680,radiant,2163,Team Liquid,obs,77490514,Boxi,3,1429,1789.0,360.0,obs_log,120.6,108.8,129.0,False,9423156,"[121,109]",json_ehandle,3
+8510981680,radiant,2163,Team Liquid,obs,77490514,Boxi,3,1984,,,obs_log,187.1,64.1,130.0,False,804992,"[187,64]",,3
+8510981680,radiant,2163,Team Liquid,obs,77490514,Boxi,3,2063,2262.0,199.0,obs_log,92.6,87.9,130.0,False,11257651,"[93,88]",json_ehandle,3
+8510981680,radiant,2163,Team Liquid,obs,77490514,Boxi,3,2237,,,obs_log,100.4,72.6,130.0,False,1985168,"[100,73]",,3
+8510981680,radiant,2163,Team Liquid,sen,77490514,Boxi,3,57,268.0,211.0,sen_log,98.2,165.1,129.0,False,12552285,"[98,165]",json_ehandle,3
+8510981680,radiant,2163,Team Liquid,sen,77490514,Boxi,3,349,769.0,420.0,sen_log,120.2,134.9,128.0,False,6556261,"[120,135]",json_ehandle,3
+8510981680,radiant,2163,Team Liquid,sen,77490514,Boxi,3,833,1253.0,420.0,sen_log,74.6,129.9,129.0,False,11011585,"[75,130]",json_ehandle,3
+8510981680,radiant,2163,Team Liquid,sen,77490514,Boxi,3,911,1331.0,420.0,sen_log,65.0,135.7,130.0,False,4655650,"[65,136]",json_ehandle,3
+8510981680,radiant,2163,Team Liquid,sen,77490514,Boxi,3,928,1115.0,187.0,sen_log,100.0,131.5,130.0,False,4868887,"[100,132]",json_ehandle,3
+8510981680,radiant,2163,Team Liquid,sen,77490514,Boxi,3,1075,1113.0,38.0,sen_log,164.3,125.2,130.0,False,4474448,"[164,125]",json_ehandle,3
+8510981680,radiant,2163,Team Liquid,sen,77490514,Boxi,3,1172,1321.0,149.0,sen_log,96.5,126.4,130.0,False,9407404,"[97,126]",json_ehandle,3
+8510981680,radiant,2163,Team Liquid,sen,77490514,Boxi,3,1552,1567.0,15.0,sen_log,110.9,116.8,129.0,False,15436344,"[111,117]",json_ehandle,3
+8510981680,radiant,2163,Team Liquid,sen,77490514,Boxi,3,1710,2130.0,420.0,sen_log,91.9,89.6,130.0,False,4689285,"[92,90]",json_ehandle,3
+8510981680,radiant,2163,Team Liquid,sen,77490514,Boxi,3,1992,2412.0,420.0,sen_log,71.8,184.1,130.0,False,7785233,"[72,184]",json_ehandle,3
+8510981680,radiant,2163,Team Liquid,sen,77490514,Boxi,3,2220,2257.0,37.0,sen_log,87.7,98.3,130.0,False,8570102,"[88,98]",json_ehandle,3
+8510981680,radiant,2163,Team Liquid,sen,77490514,Boxi,3,2239,2659.0,420.0,sen_log,104.7,73.3,129.0,False,5098598,"[105,73]",json_ehandle,3
+8510981680,radiant,2163,Team Liquid,obs,152962063,yondaime,4,509,869.0,360.0,obs_log,141.7,82.0,129.0,False,4639266,"[142,82]",json_ehandle,4
+8510981680,dire,8255888,BetBoom Team,obs,165564598,rare,130,1621,1814.0,193.0,obs_log,117.9,94.0,131.2,False,14026933,"[118,94]",json_ehandle,7
+8510981680,dire,8255888,BetBoom Team,sen,165564598,rare,130,526,946.0,420.0,sen_log,161.3,97.2,129.0,False,13404907,"[161,97]",json_ehandle,7
+8510981680,dire,8255888,BetBoom Team,obs,317880638,Black & White,131,-22,338.0,360.0,obs_log,102.3,134.2,129.8,False,8226350,"[102,134]",json_ehandle,8
+8510981680,dire,8255888,BetBoom Team,obs,317880638,Black & White,131,333,693.0,360.0,obs_log,126.5,114.1,129.0,False,5195463,"[127,114]",json_ehandle,8
+8510981680,dire,8255888,BetBoom Team,obs,317880638,Black & White,131,717,1077.0,360.0,obs_log,90.5,123.2,130.0,False,461774,"[91,123]",json_ehandle,8
+8510981680,dire,8255888,BetBoom Team,obs,317880638,Black & White,131,973,1333.0,360.0,obs_log,132.8,63.3,129.0,False,11568743,"[133,63]",json_ehandle,8
+8510981680,dire,8255888,BetBoom Team,obs,317880638,Black & White,131,1525,1885.0,360.0,obs_log,94.1,119.7,132.2,False,15796291,"[94,120]",json_ehandle,8
+8510981680,dire,8255888,BetBoom Team,sen,317880638,Black & White,131,57,239.0,182.0,sen_log,156.8,88.4,129.0,False,3491941,"[157,88]",json_ehandle,8
+8510981680,dire,8255888,BetBoom Team,sen,317880638,Black & White,131,334,381.0,47.0,sen_log,126.8,119.0,129.0,False,16222352,"[127,119]",json_ehandle,8
+8510981680,dire,8255888,BetBoom Team,sen,317880638,Black & White,131,557,977.0,420.0,sen_log,153.4,121.6,130.0,False,969565,"[153,122]",json_ehandle,8
+8510981680,dire,8255888,BetBoom Team,sen,317880638,Black & White,131,959,1379.0,420.0,sen_log,164.5,69.2,128.0,False,11242473,"[165,69]",json_ehandle,8
+8510981680,dire,8255888,BetBoom Team,sen,317880638,Black & White,131,1110,1530.0,420.0,sen_log,164.8,127.1,130.0,False,280297,"[165,127]",json_ehandle,8
+8510981680,dire,8255888,BetBoom Team,sen,317880638,Black & White,131,1120,1540.0,420.0,sen_log,153.6,121.9,130.0,False,11225385,"[154,122]",json_ehandle,8
+8510981680,dire,8255888,BetBoom Team,sen,317880638,Black & White,131,1315,1410.0,95.0,sen_log,98.3,124.3,130.0,False,13256525,"[98,124]",json_ehandle,8
+8510981680,dire,8255888,BetBoom Team,sen,317880638,Black & White,131,1520,1940.0,420.0,sen_log,99.7,120.0,130.0,False,6736637,"[100,120]",json_ehandle,8
+8510981680,dire,8255888,BetBoom Team,sen,317880638,Black & White,131,1619,1816.0,197.0,sen_log,118.1,94.2,131.2,False,14419839,"[118,94]",json_ehandle,8
+8510981680,dire,8255888,BetBoom Team,sen,317880638,Black & White,131,2010,2430.0,420.0,sen_log,117.9,94.0,131.2,False,9178378,"[118,94]",json_ehandle,8
+8510981680,dire,8255888,BetBoom Team,sen,317880638,Black & White,131,2255,2675.0,420.0,sen_log,86.7,108.0,129.0,False,12372832,"[87,108]",json_ehandle,8
+8510981680,dire,8255888,BetBoom Team,obs,196878136,sp5der,132,-17,343.0,360.0,obs_log,76.8,157.9,129.0,False,12093004,"[77,158]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,obs,196878136,sp5der,132,298,659.0,361.0,obs_log,108.5,144.0,128.0,False,3688393,"[109,144]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,obs,196878136,sp5der,132,683,1043.0,360.0,obs_log,115.7,141.6,130.0,False,15452985,"[116,142]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,obs,196878136,sp5der,132,913,1273.0,360.0,obs_log,134.0,112.5,130.0,False,9422985,"[134,113]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,obs,196878136,sp5der,132,1077,1137.0,60.0,obs_log,77.2,137.7,129.0,False,12274109,"[77,138]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,obs,196878136,sp5der,132,1315,1675.0,360.0,obs_log,87.5,131.8,130.0,False,3132003,"[88,132]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,obs,196878136,sp5der,132,1521,1881.0,360.0,obs_log,134.1,112.2,130.0,False,6228213,"[134,112]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,obs,196878136,sp5der,132,1692,1738.0,46.0,obs_log,95.5,96.7,129.9,False,12324123,"[96,97]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,obs,196878136,sp5der,132,1911,2271.0,360.0,obs_log,67.2,120.3,130.0,False,6146245,"[67,120]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,obs,196878136,sp5der,132,2060,2199.0,139.0,obs_log,97.4,82.5,130.0,False,16107367,"[97,83]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,obs,196878136,sp5der,132,2195,2197.0,2.0,obs_log,93.9,120.0,132.2,False,11357014,"[94,120]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,obs,196878136,sp5der,132,2266,,,obs_log,85.8,89.0,130.0,False,3246107,"[86,89]",,9
+8510981680,dire,8255888,BetBoom Team,sen,196878136,sp5der,132,250,279.0,29.0,sen_log,120.5,126.2,128.0,False,15108066,"[121,126]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,sen,196878136,sp5der,132,267,687.0,420.0,sen_log,98.9,170.0,129.0,False,6915861,"[99,170]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,sen,196878136,sp5der,132,600,1020.0,420.0,sen_log,126.8,113.5,129.0,False,2672664,"[127,114]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,sen,196878136,sp5der,132,719,931.0,212.0,sen_log,98.7,137.0,130.0,False,14729446,"[99,137]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,sen,196878136,sp5der,132,818,937.0,119.0,sen_log,114.3,125.1,129.0,False,985698,"[114,125]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,sen,196878136,sp5der,132,984,1404.0,420.0,sen_log,118.2,128.2,128.0,False,16697944,"[118,128]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,sen,196878136,sp5der,132,1066,1486.0,420.0,sen_log,90.4,147.7,128.0,False,8865928,"[90,148]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,sen,196878136,sp5der,132,1113,1213.0,100.0,sen_log,96.5,131.4,130.0,False,3787441,"[97,131]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,sen,196878136,sp5der,132,1122,1217.0,95.0,sen_log,101.0,121.5,130.0,False,3262420,"[101,122]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,sen,196878136,sp5der,132,1300,1720.0,420.0,sen_log,73.4,140.7,129.0,False,11027969,"[73,141]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,sen,196878136,sp5der,132,1408,1828.0,420.0,sen_log,158.6,93.0,129.0,False,12552193,"[159,93]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,sen,196878136,sp5der,132,1515,1935.0,420.0,sen_log,128.5,113.2,129.0,False,13601669,"[129,113]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,sen,196878136,sp5der,132,1554,1974.0,420.0,sen_log,113.4,122.8,129.0,False,4097677,"[113,123]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,sen,196878136,sp5der,132,1789,2209.0,420.0,sen_log,108.6,162.6,130.0,False,16304815,"[109,163]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,sen,196878136,sp5der,132,2058,2201.0,143.0,sen_log,98.5,81.0,130.0,False,16255714,"[99,81]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,sen,196878136,sp5der,132,2194,2614.0,420.0,sen_log,98.3,121.0,130.0,False,16074686,"[98,121]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,sen,196878136,sp5der,132,2199,2619.0,420.0,sen_log,96.6,131.4,130.0,False,10620016,"[97,131]",json_ehandle,9
+8510981680,dire,8255888,BetBoom Team,sen,196878136,sp5der,132,2256,2676.0,420.0,sen_log,92.2,94.0,130.0,False,16647924,"[92,94]",json_ehandle,9

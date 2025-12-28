@@ -1,0 +1,72 @@
+match_id,radiant_or_dire,team_id,team_name,ward_type,account_id,personal_name,player_slot,time,removed_time,lifetime,type,x,y,z,entityleft,ehandle,key,_matched_by,slot
+8559906209,radiant,8255888,BetBoom Team,obs,480412663,............................,1,-35,326.0,361.0,obs_log,123.3,136.6,129.0,False,902713,"[123,137]",json_ehandle,1
+8559906209,radiant,8255888,BetBoom Team,obs,480412663,............................,1,366,726.0,360.0,obs_log,121.5,137.3,129.0,False,7801834,"[122,137]",json_ehandle,1
+8559906209,radiant,8255888,BetBoom Team,sen,480412663,............................,1,366,786.0,420.0,sen_log,118.6,131.5,128.0,False,445426,"[119,132]",json_ehandle,1
+8559906209,radiant,8255888,BetBoom Team,obs,317880638,Black & White,3,335,695.0,360.0,obs_log,94.5,120.0,132.2,False,9734872,"[95,120]",json_ehandle,3
+8559906209,radiant,8255888,BetBoom Team,obs,317880638,Black & White,3,979,1169.0,190.0,obs_log,149.4,126.8,130.0,False,16451276,"[149,127]",json_ehandle,3
+8559906209,radiant,8255888,BetBoom Team,obs,317880638,Black & White,3,1282,1296.0,14.0,obs_log,188.3,115.5,132.1,False,13682332,"[188,116]",json_ehandle,3
+8559906209,radiant,8255888,BetBoom Team,obs,317880638,Black & White,3,1618,,,obs_log,156.4,176.3,130.0,False,14517453,"[156,176]",,3
+8559906209,radiant,8255888,BetBoom Team,sen,317880638,Black & White,3,29,85.0,56.0,sen_log,95.2,164.1,129.0,False,12339133,"[95,164]",json_ehandle,3
+8559906209,radiant,8255888,BetBoom Team,sen,317880638,Black & White,3,118,127.0,9.0,sen_log,87.6,156.4,129.0,False,1460263,"[88,156]",json_ehandle,3
+8559906209,radiant,8255888,BetBoom Team,sen,317880638,Black & White,3,238,268.0,30.0,sen_log,92.6,157.0,129.0,False,4311098,"[93,157]",json_ehandle,3
+8559906209,radiant,8255888,BetBoom Team,sen,317880638,Black & White,3,339,759.0,420.0,sen_log,98.4,124.4,130.0,False,4885263,"[98,124]",json_ehandle,3
+8559906209,radiant,8255888,BetBoom Team,sen,317880638,Black & White,3,370,790.0,420.0,sen_log,108.9,120.6,129.0,False,5982749,"[109,121]",json_ehandle,3
+8559906209,radiant,8255888,BetBoom Team,sen,317880638,Black & White,3,748,767.0,19.0,sen_log,132.1,133.6,129.0,False,8735218,"[132,134]",json_ehandle,3
+8559906209,radiant,8255888,BetBoom Team,sen,317880638,Black & White,3,978,1398.0,420.0,sen_log,155.0,121.8,130.0,False,9258809,"[155,122]",json_ehandle,3
+8559906209,radiant,8255888,BetBoom Team,sen,317880638,Black & White,3,1117,1187.0,70.0,sen_log,135.1,102.2,130.0,False,12274081,"[135,102]",json_ehandle,3
+8559906209,radiant,8255888,BetBoom Team,sen,317880638,Black & White,3,1181,1601.0,420.0,sen_log,118.2,187.8,130.0,False,12666927,"[118,188]",json_ehandle,3
+8559906209,radiant,8255888,BetBoom Team,sen,317880638,Black & White,3,1282,1297.0,15.0,sen_log,188.3,115.5,132.1,False,5409173,"[188,116]",json_ehandle,3
+8559906209,radiant,8255888,BetBoom Team,sen,317880638,Black & White,3,1337,1757.0,420.0,sen_log,135.8,155.7,131.1,False,8538339,"[136,156]",json_ehandle,3
+8559906209,radiant,8255888,BetBoom Team,obs,196878136,sp5der,4,-9,351.0,360.0,obs_log,115.9,167.6,129.0,False,14517891,"[116,168]",json_ehandle,4
+8559906209,radiant,8255888,BetBoom Team,obs,196878136,sp5der,4,308,343.0,35.0,obs_log,157.1,108.2,128.0,False,11782709,"[157,108]",json_ehandle,4
+8559906209,radiant,8255888,BetBoom Team,obs,196878136,sp5der,4,669,811.0,142.0,obs_log,135.7,155.8,131.1,False,6015615,"[136,156]",json_ehandle,4
+8559906209,radiant,8255888,BetBoom Team,obs,196878136,sp5der,4,762,1122.0,360.0,obs_log,183.4,93.7,129.0,False,12452154,"[183,94]",json_ehandle,4
+8559906209,radiant,8255888,BetBoom Team,obs,196878136,sp5der,4,898,1258.0,360.0,obs_log,139.9,90.5,130.0,False,3017340,"[140,91]",json_ehandle,4
+8559906209,radiant,8255888,BetBoom Team,obs,196878136,sp5der,4,1366,,,obs_log,168.2,124.6,129.9,False,5752635,"[168,125]",,4
+8559906209,radiant,8255888,BetBoom Team,obs,196878136,sp5der,4,1427,,,obs_log,138.7,91.8,130.0,False,10537620,"[139,92]",,4
+8559906209,radiant,8255888,BetBoom Team,obs,196878136,sp5der,4,1583,,,obs_log,161.9,157.1,130.0,False,13928592,"[162,157]",,4
+8559906209,radiant,8255888,BetBoom Team,sen,196878136,sp5der,4,49,469.0,420.0,sen_log,156.3,88.7,129.0,False,15026266,"[156,89]",json_ehandle,4
+8559906209,radiant,8255888,BetBoom Team,sen,196878136,sp5der,4,325,395.0,70.0,sen_log,151.5,116.0,130.0,False,16550563,"[152,116]",json_ehandle,4
+8559906209,radiant,8255888,BetBoom Team,sen,196878136,sp5der,4,340,760.0,420.0,sen_log,132.0,120.6,128.0,False,9292565,"[132,121]",json_ehandle,4
+8559906209,radiant,8255888,BetBoom Team,sen,196878136,sp5der,4,651,1071.0,420.0,sen_log,108.1,163.0,130.0,False,7637525,"[108,163]",json_ehandle,4
+8559906209,radiant,8255888,BetBoom Team,sen,196878136,sp5der,4,657,1077.0,420.0,sen_log,120.5,152.6,130.0,False,7636877,"[121,153]",json_ehandle,4
+8559906209,radiant,8255888,BetBoom Team,sen,196878136,sp5der,4,837,1240.0,403.0,sen_log,192.4,135.0,130.0,False,13814699,"[192,135]",json_ehandle,4
+8559906209,radiant,8255888,BetBoom Team,sen,196878136,sp5der,4,906,1326.0,420.0,sen_log,147.5,78.4,129.0,False,10045087,"[148,78]",json_ehandle,4
+8559906209,radiant,8255888,BetBoom Team,sen,196878136,sp5der,4,1022,1442.0,420.0,sen_log,109.1,141.7,128.0,False,6866598,"[109,142]",json_ehandle,4
+8559906209,radiant,8255888,BetBoom Team,sen,196878136,sp5der,4,1053,1473.0,420.0,sen_log,127.4,135.5,129.0,False,985177,"[127,136]",json_ehandle,4
+8559906209,radiant,8255888,BetBoom Team,sen,196878136,sp5der,4,1141,1561.0,420.0,sen_log,107.9,162.7,130.0,False,7865908,"[108,163]",json_ehandle,4
+8559906209,radiant,8255888,BetBoom Team,sen,196878136,sp5der,4,1360,1417.0,57.0,sen_log,157.6,132.3,130.0,False,412119,"[158,132]",json_ehandle,4
+8559906209,radiant,8255888,BetBoom Team,sen,196878136,sp5der,4,1583,2004.0,421.0,sen_log,162.9,155.5,130.0,False,2509182,"[163,156]",json_ehandle,4
+8559906209,dire,9640842,Team Tidebound,obs,315272623,Nikaidō^HirO,129,-30,330.0,360.0,obs_log,131.6,115.6,129.0,False,2491965,"[132,116]",json_ehandle,6
+8559906209,dire,9640842,Team Tidebound,obs,150961567,镜,131,305,666.0,361.0,obs_log,157.0,107.2,128.0,False,2607649,"[157,107]",json_ehandle,8
+8559906209,dire,9640842,Team Tidebound,obs,150961567,镜,131,645,1005.0,360.0,obs_log,126.6,107.1,130.0,False,13764187,"[127,107]",json_ehandle,8
+8559906209,dire,9640842,Team Tidebound,obs,150961567,镜,131,924,1284.0,360.0,obs_log,169.6,92.7,129.0,False,15862128,"[170,93]",json_ehandle,8
+8559906209,dire,9640842,Team Tidebound,obs,150961567,镜,131,1615,2036.0,421.0,obs_log,163.4,169.9,130.0,False,4835827,"[163,170]",json_ehandle,8
+8559906209,dire,9640842,Team Tidebound,sen,150961567,镜,131,28,102.0,74.0,sen_log,157.8,91.2,129.0,False,4392879,"[158,91]",json_ehandle,8
+8559906209,dire,9640842,Team Tidebound,sen,150961567,镜,131,340,760.0,420.0,sen_log,155.8,113.2,128.0,False,10029851,"[156,113]",json_ehandle,8
+8559906209,dire,9640842,Team Tidebound,sen,150961567,镜,131,883,1303.0,420.0,sen_log,187.5,75.6,130.0,False,9587596,"[188,76]",json_ehandle,8
+8559906209,dire,9640842,Team Tidebound,sen,150961567,镜,131,931,1352.0,421.0,sen_log,180.6,118.5,129.0,False,2394909,"[181,119]",json_ehandle,8
+8559906209,dire,9640842,Team Tidebound,sen,150961567,镜,131,1616,2036.0,420.0,sen_log,163.4,169.9,130.0,False,2754109,"[163,170]",json_ehandle,8
+8559906209,dire,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,132,332,372.0,40.0,obs_log,106.2,120.3,130.0,False,6245053,"[106,120]",json_ehandle,9
+8559906209,dire,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,132,527,663.0,136.0,obs_log,125.4,151.8,130.0,False,3148284,"[125,152]",json_ehandle,9
+8559906209,dire,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,132,737,988.0,251.0,obs_log,159.8,121.9,130.0,False,11389912,"[160,122]",json_ehandle,9
+8559906209,dire,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,132,953,1313.0,360.0,obs_log,92.9,176.1,129.0,False,9455753,"[93,176]",json_ehandle,9
+8559906209,dire,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,132,1050,1059.0,9.0,obs_log,115.8,143.5,130.0,False,3426956,"[116,144]",json_ehandle,9
+8559906209,dire,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,132,1184,1527.0,343.0,obs_log,136.5,104.3,130.0,False,12125949,"[137,104]",json_ehandle,9
+8559906209,dire,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,132,1479,1501.0,22.0,obs_log,159.0,118.8,129.9,False,11586010,"[159,119]",json_ehandle,9
+8559906209,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,83,503.0,420.0,sen_log,98.0,169.9,129.0,False,14600531,"[98,170]",json_ehandle,9
+8559906209,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,125,250.0,125.0,sen_log,87.2,159.0,129.0,False,16074818,"[87,159]",json_ehandle,9
+8559906209,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,266,686.0,420.0,sen_log,93.1,156.3,129.0,False,8226988,"[93,156]",json_ehandle,9
+8559906209,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,495,915.0,420.0,sen_log,134.5,141.2,129.0,False,4459464,"[135,141]",json_ehandle,9
+8559906209,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,737,989.0,252.0,sen_log,159.8,121.9,130.0,False,12027743,"[160,122]",json_ehandle,9
+8559906209,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,808,1228.0,420.0,sen_log,136.4,155.8,131.1,False,6081014,"[136,156]",json_ehandle,9
+8559906209,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,1028,1448.0,420.0,sen_log,136.4,138.5,129.0,False,16549903,"[136,139]",json_ehandle,9
+8559906209,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,1084,1505.0,421.0,sen_log,148.0,130.6,129.0,False,15419988,"[148,131]",json_ehandle,9
+8559906209,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,1117,1537.0,420.0,sen_log,116.2,155.2,130.0,False,8899210,"[116,155]",json_ehandle,9
+8559906209,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,1184,1526.0,342.0,sen_log,136.5,104.3,130.0,False,3541144,"[137,104]",json_ehandle,9
+8559906209,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,1238,1658.0,420.0,sen_log,191.4,136.8,130.0,False,14026342,"[191,137]",json_ehandle,9
+8559906209,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,1292,1712.0,420.0,sen_log,187.8,116.1,132.1,False,4622168,"[188,116]",json_ehandle,9
+8559906209,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,1339,1343.0,4.0,sen_log,136.1,156.1,131.1,False,4377072,"[136,156]",json_ehandle,9
+8559906209,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,1414,1835.0,421.0,sen_log,163.6,134.0,132.1,False,14732153,"[164,134]",json_ehandle,9
+8559906209,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,1444,1617.0,173.0,sen_log,149.5,171.4,129.0,False,8275608,"[150,171]",json_ehandle,9
+8559906209,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,1479,1502.0,23.0,sen_log,159.0,118.8,129.9,False,444597,"[159,119]",json_ehandle,9

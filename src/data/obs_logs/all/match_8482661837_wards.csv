@@ -1,0 +1,83 @@
+match_id,radiant_or_dire,team_id,team_name,ward_type,account_id,personal_name,player_slot,time,removed_time,lifetime,type,x,y,z,entityleft,ehandle,key,_matched_by,slot
+8482661837,radiant,2586976,OG,obs,87063175,Lelis,0,359,652.0,293.0,obs_log,150.4,115.8,130.0,False,13601025,"[150,116]",json_ehandle,0
+8482661837,radiant,2586976,OG,obs,87063175,Lelis,0,746,813.0,67.0,obs_log,113.0,167.8,129.0,False,12388941,"[113,168]",json_ehandle,0
+8482661837,radiant,2586976,OG,obs,87063175,Lelis,0,1416,1776.0,360.0,obs_log,144.3,71.7,129.0,False,2361373,"[144,72]",json_ehandle,0
+8482661837,radiant,2586976,OG,obs,87063175,Lelis,0,1549,1575.0,26.0,obs_log,133.5,132.6,129.0,False,13699944,"[134,133]",json_ehandle,0
+8482661837,radiant,2586976,OG,obs,87063175,Lelis,0,1957,1980.0,23.0,obs_log,142.0,102.3,130.0,False,15419593,"[142,102]",json_ehandle,0
+8482661837,radiant,2586976,OG,obs,87063175,Lelis,0,2053,2474.0,421.0,obs_log,116.1,69.0,129.0,False,2377216,"[116,69]",json_ehandle,0
+8482661837,radiant,2586976,OG,sen,87063175,Lelis,0,48,123.0,75.0,sen_log,156.0,89.2,129.0,False,2066445,"[156,89]",json_ehandle,0
+8482661837,radiant,2586976,OG,sen,87063175,Lelis,0,82,318.0,236.0,sen_log,167.4,98.6,129.0,False,11028757,"[167,99]",json_ehandle,0
+8482661837,radiant,2586976,OG,sen,87063175,Lelis,0,224,645.0,421.0,sen_log,156.3,88.6,129.0,False,10291639,"[156,89]",json_ehandle,0
+8482661837,radiant,2586976,OG,sen,87063175,Lelis,0,598,1018.0,420.0,sen_log,134.0,122.1,128.0,False,4294197,"[134,122]",json_ehandle,0
+8482661837,radiant,2586976,OG,sen,87063175,Lelis,0,742,799.0,57.0,sen_log,119.8,156.6,130.0,False,16402893,"[120,157]",json_ehandle,0
+8482661837,radiant,2586976,OG,sen,87063175,Lelis,0,854,1274.0,420.0,sen_log,139.6,89.7,129.7,False,8145842,"[140,90]",json_ehandle,0
+8482661837,radiant,2586976,OG,sen,87063175,Lelis,0,1014,1434.0,420.0,sen_log,111.7,162.8,130.0,False,1329764,"[112,163]",json_ehandle,0
+8482661837,radiant,2586976,OG,sen,87063175,Lelis,0,1135,1555.0,420.0,sen_log,114.6,114.9,129.0,False,14715626,"[115,115]",json_ehandle,0
+8482661837,radiant,2586976,OG,sen,87063175,Lelis,0,1285,1705.0,420.0,sen_log,66.0,138.0,130.0,False,13995004,"[66,138]",json_ehandle,0
+8482661837,radiant,2586976,OG,sen,87063175,Lelis,0,1351,1771.0,420.0,sen_log,110.6,142.6,128.0,False,1952251,"[111,143]",json_ehandle,0
+8482661837,radiant,2586976,OG,sen,87063175,Lelis,0,1543,1578.0,35.0,sen_log,121.9,132.3,128.0,False,13372066,"[122,132]",json_ehandle,0
+8482661837,radiant,2586976,OG,sen,87063175,Lelis,0,1586,2006.0,420.0,sen_log,116.9,155.3,130.0,False,4736677,"[117,155]",json_ehandle,0
+8482661837,radiant,2586976,OG,sen,87063175,Lelis,0,1899,2319.0,420.0,sen_log,102.8,105.6,129.0,False,346283,"[103,106]",json_ehandle,0
+8482661837,radiant,2586976,OG,sen,87063175,Lelis,0,1905,2325.0,420.0,sen_log,93.7,119.9,132.2,False,15813191,"[94,120]",json_ehandle,0
+8482661837,radiant,2586976,OG,sen,87063175,Lelis,0,1917,2337.0,420.0,sen_log,96.1,131.1,130.0,False,526180,"[96,131]",json_ehandle,0
+8482661837,radiant,2586976,OG,sen,87063175,Lelis,0,1940,2071.0,131.0,sen_log,132.8,103.3,130.0,False,12520062,"[133,103]",json_ehandle,0
+8482661837,radiant,2586976,OG,sen,87063175,Lelis,0,1961,2381.0,420.0,sen_log,143.2,90.7,130.0,False,15616519,"[143,91]",json_ehandle,0
+8482661837,radiant,2586976,OG,sen,87063175,Lelis,0,2053,2474.0,421.0,sen_log,116.0,68.8,129.0,False,15976976,"[116,69]",json_ehandle,0
+8482661837,radiant,2586976,OG,obs,262476000,Aura,3,-29,331.0,360.0,obs_log,122.9,135.5,129.0,False,9749214,"[123,136]",json_ehandle,3
+8482661837,radiant,2586976,OG,obs,262476000,Aura,3,-7,353.0,360.0,obs_log,135.8,106.2,130.0,False,984643,"[136,106]",json_ehandle,3
+8482661837,radiant,2586976,OG,obs,262476000,Aura,3,363,723.0,360.0,obs_log,128.7,126.1,129.0,False,4999140,"[129,126]",json_ehandle,3
+8482661837,radiant,2586976,OG,obs,919735867,creativity,4,559,919.0,360.0,obs_log,95.1,138.4,130.0,False,1591835,"[95,138]",json_ehandle,4
+8482661837,radiant,2586976,OG,obs,919735867,creativity,4,775,1106.0,331.0,obs_log,117.0,126.8,129.0,False,3868531,"[117,127]",json_ehandle,4
+8482661837,radiant,2586976,OG,obs,919735867,creativity,4,853,1213.0,360.0,obs_log,143.3,100.8,130.0,False,3016546,"[143,101]",json_ehandle,4
+8482661837,radiant,2586976,OG,obs,919735867,creativity,4,1005,1078.0,73.0,obs_log,135.5,156.1,131.1,False,10766301,"[136,156]",json_ehandle,4
+8482661837,radiant,2586976,OG,obs,919735867,creativity,4,1191,1551.0,360.0,obs_log,97.1,173.1,129.0,False,3540930,"[97,173]",json_ehandle,4
+8482661837,radiant,2586976,OG,obs,919735867,creativity,4,1592,1952.0,360.0,obs_log,135.5,136.3,129.0,False,10011358,"[136,136]",json_ehandle,4
+8482661837,radiant,2586976,OG,obs,919735867,creativity,4,1755,1769.0,14.0,obs_log,118.3,93.9,131.2,False,7031741,"[118,94]",json_ehandle,4
+8482661837,radiant,2586976,OG,obs,919735867,creativity,4,2064,2104.0,40.0,obs_log,98.2,78.9,130.0,False,16140194,"[98,79]",json_ehandle,4
+8482661837,radiant,2586976,OG,sen,919735867,creativity,4,53,141.0,88.0,sen_log,98.4,169.7,129.0,False,1542178,"[98,170]",json_ehandle,4
+8482661837,radiant,2586976,OG,sen,919735867,creativity,4,530,950.0,420.0,sen_log,120.9,133.9,128.0,False,3819417,"[121,134]",json_ehandle,4
+8482661837,radiant,2586976,OG,sen,919735867,creativity,4,849,1269.0,420.0,sen_log,134.4,103.6,130.0,False,10094400,"[134,104]",json_ehandle,4
+8482661837,radiant,2586976,OG,sen,919735867,creativity,4,997,1099.0,102.0,sen_log,124.8,135.1,129.0,False,8670143,"[125,135]",json_ehandle,4
+8482661837,radiant,2586976,OG,sen,919735867,creativity,4,1748,2082.0,334.0,sen_log,113.9,82.0,129.0,False,6112542,"[114,82]",json_ehandle,4
+8482661837,radiant,2586976,OG,sen,919735867,creativity,4,1753,2066.0,313.0,sen_log,118.2,94.1,131.2,False,6260806,"[118,94]",json_ehandle,4
+8482661837,radiant,2586976,OG,sen,919735867,creativity,4,1776,2053.0,277.0,sen_log,117.8,121.8,129.0,False,11159642,"[118,122]",json_ehandle,4
+8482661837,dire,9467224,Aurora Gaming,obs,256156323,vessel,131,-32,329.0,361.0,obs_log,132.3,115.9,128.9,False,10208511,"[132,116]",json_ehandle,8
+8482661837,dire,9467224,Aurora Gaming,obs,256156323,vessel,131,313,673.0,360.0,obs_log,171.4,91.0,129.0,False,12355516,"[171,91]",json_ehandle,8
+8482661837,dire,9467224,Aurora Gaming,obs,256156323,vessel,131,538,898.0,360.0,obs_log,165.6,110.6,129.0,False,14714983,"[166,111]",json_ehandle,8
+8482661837,dire,9467224,Aurora Gaming,obs,256156323,vessel,131,649,1009.0,360.0,obs_log,143.6,114.8,128.0,False,9620470,"[144,115]",json_ehandle,8
+8482661837,dire,9467224,Aurora Gaming,obs,256156323,vessel,131,783,1143.0,360.0,obs_log,126.0,90.9,129.0,False,10225997,"[126,91]",json_ehandle,8
+8482661837,dire,9467224,Aurora Gaming,obs,256156323,vessel,131,1087,1354.0,267.0,obs_log,108.6,142.4,128.0,False,9799972,"[109,142]",json_ehandle,8
+8482661837,dire,9467224,Aurora Gaming,obs,256156323,vessel,131,1178,1538.0,360.0,obs_log,79.4,164.8,129.0,False,15108008,"[79,165]",json_ehandle,8
+8482661837,dire,9467224,Aurora Gaming,obs,256156323,vessel,131,1699,2059.0,360.0,obs_log,127.7,91.4,129.0,False,5327233,"[128,91]",json_ehandle,8
+8482661837,dire,9467224,Aurora Gaming,obs,256156323,vessel,131,1893,,,obs_log,81.2,134.1,129.0,False,707508,"[81,134]",,8
+8482661837,dire,9467224,Aurora Gaming,sen,256156323,vessel,131,42,52.0,10.0,sen_log,157.4,91.3,129.0,False,14600177,"[157,91]",json_ehandle,8
+8482661837,dire,9467224,Aurora Gaming,sen,256156323,vessel,131,121,227.0,106.0,sen_log,156.8,88.7,129.0,False,7145768,"[157,89]",json_ehandle,8
+8482661837,dire,9467224,Aurora Gaming,sen,256156323,vessel,131,315,735.0,420.0,sen_log,164.3,94.1,129.0,False,8783781,"[164,94]",json_ehandle,8
+8482661837,dire,9467224,Aurora Gaming,sen,256156323,vessel,131,534,954.0,420.0,sen_log,154.5,122.0,130.0,False,6621291,"[155,122]",json_ehandle,8
+8482661837,dire,9467224,Aurora Gaming,sen,256156323,vessel,131,771,878.0,107.0,sen_log,134.4,102.4,130.0,False,7113405,"[134,102]",json_ehandle,8
+8482661837,dire,9467224,Aurora Gaming,sen,256156323,vessel,131,860,1280.0,420.0,sen_log,105.7,138.9,128.0,False,5360294,"[106,139]",json_ehandle,8
+8482661837,dire,9467224,Aurora Gaming,sen,256156323,vessel,131,1091,1511.0,420.0,sen_log,119.9,132.4,128.0,False,4343862,"[120,132]",json_ehandle,8
+8482661837,dire,9467224,Aurora Gaming,sen,256156323,vessel,131,1179,1599.0,420.0,sen_log,80.2,164.7,129.0,False,10160986,"[80,165]",json_ehandle,8
+8482661837,dire,9467224,Aurora Gaming,sen,256156323,vessel,131,1662,2082.0,420.0,sen_log,123.6,141.9,129.0,False,11634785,"[124,142]",json_ehandle,8
+8482661837,dire,9467224,Aurora Gaming,sen,256156323,vessel,131,1698,2118.0,420.0,sen_log,132.1,97.5,130.0,False,12716616,"[132,98]",json_ehandle,8
+8482661837,dire,9467224,Aurora Gaming,sen,256156323,vessel,131,1767,2187.0,420.0,sen_log,118.1,94.4,131.2,False,673575,"[118,94]",json_ehandle,8
+8482661837,dire,9467224,Aurora Gaming,obs,108958769,sustain,132,-58,302.0,360.0,obs_log,113.0,150.9,130.0,False,14025980,"[113,151]",json_ehandle,9
+8482661837,dire,9467224,Aurora Gaming,obs,108958769,sustain,132,338,698.0,360.0,obs_log,109.6,142.3,128.0,False,13321905,"[110,142]",json_ehandle,9
+8482661837,dire,9467224,Aurora Gaming,obs,108958769,sustain,132,813,1173.0,360.0,obs_log,102.0,160.7,130.0,False,7768193,"[102,161]",json_ehandle,9
+8482661837,dire,9467224,Aurora Gaming,obs,108958769,sustain,132,1113,1141.0,28.0,obs_log,108.1,110.8,129.0,False,3689420,"[108,111]",json_ehandle,9
+8482661837,dire,9467224,Aurora Gaming,obs,108958769,sustain,132,1386,1746.0,360.0,obs_log,156.6,122.6,130.0,False,5622043,"[157,123]",json_ehandle,9
+8482661837,dire,9467224,Aurora Gaming,obs,108958769,sustain,132,1573,1933.0,360.0,obs_log,126.5,128.5,129.0,False,9340451,"[127,129]",json_ehandle,9
+8482661837,dire,9467224,Aurora Gaming,sen,108958769,sustain,132,138,558.0,420.0,sen_log,97.7,170.1,129.0,False,11208301,"[98,170]",json_ehandle,9
+8482661837,dire,9467224,Aurora Gaming,sen,108958769,sustain,132,386,548.0,162.0,sen_log,120.4,132.0,128.0,False,6031190,"[120,132]",json_ehandle,9
+8482661837,dire,9467224,Aurora Gaming,sen,108958769,sustain,132,588,1008.0,420.0,sen_log,89.6,144.9,129.0,False,8817226,"[90,145]",json_ehandle,9
+8482661837,dire,9467224,Aurora Gaming,sen,108958769,sustain,132,656,1076.0,420.0,sen_log,135.2,137.4,129.0,False,3869457,"[135,137]",json_ehandle,9
+8482661837,dire,9467224,Aurora Gaming,sen,108958769,sustain,132,785,1205.0,420.0,sen_log,128.3,156.5,129.0,False,10046093,"[128,157]",json_ehandle,9
+8482661837,dire,9467224,Aurora Gaming,sen,108958769,sustain,132,796,1064.0,268.0,sen_log,114.6,155.1,130.0,False,11094081,"[115,155]",json_ehandle,9
+8482661837,dire,9467224,Aurora Gaming,sen,108958769,sustain,132,805,1018.0,213.0,sen_log,106.0,163.7,130.0,False,15878624,"[106,164]",json_ehandle,9
+8482661837,dire,9467224,Aurora Gaming,sen,108958769,sustain,132,1003,1423.0,420.0,sen_log,154.3,122.8,130.0,False,10733832,"[154,123]",json_ehandle,9
+8482661837,dire,9467224,Aurora Gaming,sen,108958769,sustain,132,1087,1507.0,420.0,sen_log,117.9,149.3,130.0,False,8177325,"[118,149]",json_ehandle,9
+8482661837,dire,9467224,Aurora Gaming,sen,108958769,sustain,132,1112,1153.0,41.0,sen_log,109.1,111.5,129.0,False,8374196,"[109,112]",json_ehandle,9
+8482661837,dire,9467224,Aurora Gaming,sen,108958769,sustain,132,1455,1875.0,420.0,sen_log,128.3,90.8,129.0,False,7408039,"[128,91]",json_ehandle,9
+8482661837,dire,9467224,Aurora Gaming,sen,108958769,sustain,132,1573,1993.0,420.0,sen_log,126.4,128.5,129.0,False,3622740,"[126,129]",json_ehandle,9
+8482661837,dire,9467224,Aurora Gaming,sen,108958769,sustain,132,1911,2332.0,421.0,sen_log,70.2,184.2,130.0,False,3000562,"[70,184]",json_ehandle,9
+8482661837,dire,9467224,Aurora Gaming,sen,108958769,sustain,132,2049,2469.0,420.0,sen_log,118.9,127.7,128.0,False,4851798,"[119,128]",json_ehandle,9

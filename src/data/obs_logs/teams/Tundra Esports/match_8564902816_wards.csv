@@ -1,0 +1,119 @@
+match_id,radiant_or_dire,team_id,team_name,ward_type,account_id,personal_name,player_slot,time,removed_time,lifetime,type,x,y,z,entityleft,ehandle,key,_matched_by,slot
+8564902816,radiant,9640842,Team Tidebound,obs,315272623,Nikaidō^HirO,1,-8,352.0,360.0,obs_log,129.5,117.2,129.0,False,6719092,"[130,117]",json_ehandle,1
+8564902816,radiant,9640842,Team Tidebound,obs,315272623,Nikaidō^HirO,1,285,646.0,361.0,obs_log,150.3,128.4,129.9,False,952677,"[150,128]",json_ehandle,1
+8564902816,radiant,9640842,Team Tidebound,sen,315272623,Nikaidō^HirO,1,233,653.0,420.0,sen_log,118.9,128.1,128.0,False,4785810,"[119,128]",json_ehandle,1
+8564902816,radiant,9640842,Team Tidebound,obs,150961567,镜,3,-60,300.0,360.0,obs_log,140.9,89.5,130.0,False,558632,"[141,90]",json_ehandle,3
+8564902816,radiant,9640842,Team Tidebound,obs,150961567,镜,3,583,944.0,361.0,obs_log,117.4,158.4,130.0,False,11471359,"[117,158]",json_ehandle,3
+8564902816,radiant,9640842,Team Tidebound,obs,150961567,镜,3,994,1354.0,360.0,obs_log,69.7,153.7,129.0,False,10585954,"[70,154]",json_ehandle,3
+8564902816,radiant,9640842,Team Tidebound,obs,150961567,镜,3,1147,1507.0,360.0,obs_log,102.7,133.3,130.0,False,2329279,"[103,133]",json_ehandle,3
+8564902816,radiant,9640842,Team Tidebound,obs,150961567,镜,3,1531,1891.0,360.0,obs_log,147.0,80.8,129.0,False,4556373,"[147,81]",json_ehandle,3
+8564902816,radiant,9640842,Team Tidebound,obs,150961567,镜,3,1624,1984.0,360.0,obs_log,134.5,132.8,129.0,False,690387,"[135,133]",json_ehandle,3
+8564902816,radiant,9640842,Team Tidebound,obs,150961567,镜,3,2045,2163.0,118.0,obs_log,118.0,93.7,131.2,False,6851963,"[118,94]",json_ehandle,3
+8564902816,radiant,9640842,Team Tidebound,obs,150961567,镜,3,2612,2625.0,13.0,obs_log,66.3,142.5,132.2,False,1445371,"[66,143]",json_ehandle,3
+8564902816,radiant,9640842,Team Tidebound,sen,150961567,镜,3,30,450.0,420.0,sen_log,83.1,161.7,129.0,False,5228422,"[83,162]",json_ehandle,3
+8564902816,radiant,9640842,Team Tidebound,sen,150961567,镜,3,426,480.0,54.0,sen_log,125.6,129.1,129.0,False,15107922,"[126,129]",json_ehandle,3
+8564902816,radiant,9640842,Team Tidebound,sen,150961567,镜,3,602,1022.0,420.0,sen_log,132.6,126.9,129.0,False,13666236,"[133,127]",json_ehandle,3
+8564902816,radiant,9640842,Team Tidebound,sen,150961567,镜,3,774,1194.0,420.0,sen_log,108.4,144.5,128.0,False,12044303,"[108,145]",json_ehandle,3
+8564902816,radiant,9640842,Team Tidebound,sen,150961567,镜,3,907,1327.0,420.0,sen_log,97.6,150.5,128.0,False,3492140,"[98,151]",json_ehandle,3
+8564902816,radiant,9640842,Team Tidebound,sen,150961567,镜,3,1105,1525.0,420.0,sen_log,111.6,98.3,129.0,False,4967165,"[112,98]",json_ehandle,3
+8564902816,radiant,9640842,Team Tidebound,sen,150961567,镜,3,1529,1905.0,376.0,sen_log,147.0,80.7,129.0,False,14960583,"[147,81]",json_ehandle,3
+8564902816,radiant,9640842,Team Tidebound,sen,150961567,镜,3,1549,1969.0,420.0,sen_log,165.0,85.8,129.0,False,4884227,"[165,86]",json_ehandle,3
+8564902816,radiant,9640842,Team Tidebound,sen,150961567,镜,3,1855,1921.0,66.0,sen_log,133.5,103.5,130.0,False,13192039,"[134,104]",json_ehandle,3
+8564902816,radiant,9640842,Team Tidebound,sen,150961567,镜,3,1981,2401.0,420.0,sen_log,84.8,80.6,130.0,False,5491927,"[85,81]",json_ehandle,3
+8564902816,radiant,9640842,Team Tidebound,sen,150961567,镜,3,2350,2770.0,420.0,sen_log,142.3,77.4,129.0,False,13486164,"[142,77]",json_ehandle,3
+8564902816,radiant,9640842,Team Tidebound,sen,150961567,镜,3,2434,2854.0,420.0,sen_log,118.1,87.5,129.0,False,2394372,"[118,88]",json_ehandle,3
+8564902816,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,331,691.0,360.0,obs_log,179.2,75.7,129.8,False,10291890,"[179,76]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,536,896.0,360.0,obs_log,123.7,131.7,129.0,False,12995511,"[124,132]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,897,1257.0,360.0,obs_log,90.5,165.4,129.0,False,14698703,"[91,165]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,1046,1406.0,360.0,obs_log,134.9,87.5,129.1,False,12454662,"[135,88]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,1358,1521.0,163.0,obs_log,75.3,190.8,130.0,False,8980379,"[75,191]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,1770,1991.0,221.0,obs_log,94.1,119.9,132.2,False,13797142,"[94,120]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,2184,2499.0,315.0,obs_log,109.2,76.3,129.0,False,13320889,"[109,76]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,2312,2672.0,360.0,obs_log,143.9,62.2,130.0,False,281685,"[144,62]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,2375,,,obs_log,75.5,131.5,129.0,False,13995287,"[76,132]",,4
+8564902816,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,2610,,,obs_log,70.2,116.6,129.9,False,5932630,"[70,117]",,4
+8564902816,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,2635,3036.0,401.0,obs_log,65.7,142.3,132.2,False,6015872,"[66,142]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,146,151.0,5.0,sen_log,156.2,86.1,129.0,False,3868198,"[156,86]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,179,228.0,49.0,sen_log,161.6,94.9,129.0,False,2377876,"[162,95]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,231,651.0,420.0,sen_log,160.9,91.9,129.0,False,10323668,"[161,92]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,532,952.0,420.0,sen_log,121.2,140.0,129.0,False,4049779,"[121,140]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,546,588.0,42.0,sen_log,132.0,144.6,129.0,False,6818720,"[132,145]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,838,1258.0,420.0,sen_log,87.6,176.9,129.0,False,13109020,"[88,177]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,902,1322.0,420.0,sen_log,90.2,163.5,129.0,False,3508360,"[90,164]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,984,1404.0,420.0,sen_log,95.2,126.3,130.0,False,15222785,"[95,126]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,1046,1466.0,420.0,sen_log,134.9,87.6,129.1,False,14927815,"[135,88]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,1359,1524.0,165.0,sen_log,69.8,184.5,130.0,False,12405183,"[70,185]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,1387,1791.0,404.0,sen_log,122.4,124.1,128.1,False,7948322,"[122,124]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,1671,2091.0,420.0,sen_log,77.7,132.3,129.0,False,8047398,"[78,132]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,1733,2153.0,420.0,sen_log,117.9,94.1,131.2,False,5867343,"[118,94]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,1762,2182.0,420.0,sen_log,108.9,115.5,129.0,False,7883710,"[109,116]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,1768,2001.0,233.0,sen_log,98.5,121.3,130.0,False,14043624,"[99,121]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,1856,1923.0,67.0,sen_log,136.3,98.9,130.0,False,10553035,"[136,99]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,1981,2401.0,420.0,sen_log,89.1,76.9,130.0,False,5868780,"[89,77]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,2095,2262.0,167.0,sen_log,94.3,120.1,132.2,False,10489204,"[94,120]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,2183,2500.0,317.0,sen_log,108.3,76.7,129.0,False,4541705,"[108,77]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,2314,2734.0,420.0,sen_log,138.7,65.4,128.6,False,4966870,"[139,65]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,2328,2480.0,152.0,sen_log,96.2,104.3,129.0,False,11683573,"[96,104]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,2376,2796.0,420.0,sen_log,73.5,131.5,129.0,False,2508703,"[74,132]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,2439,2492.0,53.0,sen_log,106.6,95.6,129.0,False,7669517,"[107,96]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,2539,2959.0,420.0,sen_log,88.5,96.6,130.0,False,11224773,"[89,97]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,2563,2983.0,420.0,sen_log,104.1,101.8,129.0,False,4589326,"[104,102]",json_ehandle,4
+8564902816,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,2609,3029.0,420.0,sen_log,72.3,117.2,129.0,False,3132118,"[72,117]",json_ehandle,4
+8564902816,dire,8291895,Tundra Esports,obs,346412363,Ari,129,-22,338.0,360.0,obs_log,103.1,133.0,130.0,False,2967106,"[103,133]",json_ehandle,6
+8564902816,dire,8291895,Tundra Esports,obs,346412363,Ari,129,518,878.0,360.0,obs_log,120.7,110.7,129.0,False,5049142,"[121,111]",json_ehandle,6
+8564902816,dire,8291895,Tundra Esports,obs,346412363,Ari,129,534,894.0,360.0,obs_log,101.3,134.9,129.9,False,16713493,"[101,135]",json_ehandle,6
+8564902816,dire,8291895,Tundra Esports,obs,346412363,Ari,129,1098,1458.0,360.0,obs_log,120.3,110.4,129.0,False,13846662,"[120,110]",json_ehandle,6
+8564902816,dire,8291895,Tundra Esports,obs,346412363,Ari,129,1472,1746.0,274.0,obs_log,111.0,112.8,129.0,False,4376861,"[111,113]",json_ehandle,6
+8564902816,dire,8291895,Tundra Esports,obs,346412363,Ari,129,1652,2012.0,360.0,obs_log,66.0,141.8,132.2,False,12175221,"[66,142]",json_ehandle,6
+8564902816,dire,8291895,Tundra Esports,obs,346412363,Ari,129,2153,2513.0,360.0,obs_log,181.0,67.2,130.0,False,11356232,"[181,67]",json_ehandle,6
+8564902816,dire,8291895,Tundra Esports,obs,346412363,Ari,129,2240,2257.0,17.0,obs_log,84.9,103.0,130.0,False,3640807,"[85,103]",json_ehandle,6
+8564902816,dire,8291895,Tundra Esports,sen,346412363,Ari,129,55,186.0,131.0,sen_log,157.3,91.1,129.0,False,10881124,"[157,91]",json_ehandle,6
+8564902816,dire,8291895,Tundra Esports,sen,346412363,Ari,129,65,183.0,118.0,sen_log,164.7,100.4,129.0,False,4393087,"[165,100]",json_ehandle,6
+8564902816,dire,8291895,Tundra Esports,sen,346412363,Ari,129,224,234.0,10.0,sen_log,156.9,88.3,129.0,False,14354533,"[157,88]",json_ehandle,6
+8564902816,dire,8291895,Tundra Esports,sen,346412363,Ari,129,487,908.0,421.0,sen_log,133.1,116.7,128.1,False,4311364,"[133,117]",json_ehandle,6
+8564902816,dire,8291895,Tundra Esports,sen,346412363,Ari,129,895,1315.0,420.0,sen_log,108.8,163.1,130.0,False,5851366,"[109,163]",json_ehandle,6
+8564902816,dire,8291895,Tundra Esports,sen,346412363,Ari,129,941,986.0,45.0,sen_log,96.7,130.9,130.0,False,8718064,"[97,131]",json_ehandle,6
+8564902816,dire,8291895,Tundra Esports,sen,346412363,Ari,129,1093,1502.0,409.0,sen_log,127.2,117.7,129.0,False,10307276,"[127,118]",json_ehandle,6
+8564902816,dire,8291895,Tundra Esports,sen,346412363,Ari,129,1472,1748.0,276.0,sen_log,113.7,112.8,129.0,False,5408866,"[114,113]",json_ehandle,6
+8564902816,dire,8291895,Tundra Esports,sen,346412363,Ari,129,1722,2142.0,420.0,sen_log,119.7,133.2,128.0,False,9440179,"[120,133]",json_ehandle,6
+8564902816,dire,8291895,Tundra Esports,sen,346412363,Ari,129,1919,2339.0,420.0,sen_log,134.3,103.5,130.0,False,7703990,"[134,104]",json_ehandle,6
+8564902816,dire,8291895,Tundra Esports,sen,346412363,Ari,129,2018,2071.0,53.0,sen_log,88.9,79.0,130.0,False,12994695,"[89,79]",json_ehandle,6
+8564902816,dire,8291895,Tundra Esports,sen,346412363,Ari,129,2240,2251.0,11.0,sen_log,84.9,103.0,130.0,False,2574000,"[85,103]",json_ehandle,6
+8564902816,dire,8291895,Tundra Esports,obs,136829091,NongMon,130,332,692.0,360.0,obs_log,86.7,152.7,129.0,False,12241590,"[87,153]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,obs,136829091,NongMon,130,529,552.0,23.0,obs_log,125.1,146.0,130.0,False,16059261,"[125,146]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,obs,136829091,NongMon,130,720,1080.0,360.0,obs_log,101.8,158.8,129.9,False,6489943,"[102,159]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,obs,136829091,NongMon,130,911,1271.0,360.0,obs_log,124.0,133.9,129.0,False,5228685,"[124,134]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,obs,136829091,NongMon,130,1043,1403.0,360.0,obs_log,64.3,177.6,129.8,False,6572301,"[64,178]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,obs,136829091,NongMon,130,1560,1830.0,270.0,obs_log,93.8,120.4,132.2,False,4523763,"[94,120]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,obs,136829091,NongMon,130,1778,2138.0,360.0,obs_log,125.7,107.7,130.0,False,15812221,"[126,108]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,obs,136829091,NongMon,130,1951,1964.0,13.0,obs_log,98.1,171.8,129.0,False,2313332,"[98,172]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,obs,136829091,NongMon,130,2158,2436.0,278.0,obs_log,118.5,94.1,131.2,False,2805158,"[119,94]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,obs,136829091,NongMon,130,2237,2597.0,360.0,obs_log,94.2,120.1,132.2,False,16076131,"[94,120]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,obs,136829091,NongMon,130,2503,2924.0,421.0,obs_log,106.8,65.3,129.0,False,14797817,"[107,65]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,obs,136829091,NongMon,130,2615,3036.0,421.0,obs_log,65.8,142.2,132.2,False,14945598,"[66,142]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,50,470.0,420.0,sen_log,92.9,162.4,129.0,False,2213964,"[93,162]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,477,483.0,6.0,sen_log,120.2,135.0,128.0,False,6537468,"[120,135]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,531,547.0,16.0,sen_log,128.6,144.4,129.0,False,9177967,"[129,144]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,584,1004.0,420.0,sen_log,134.9,139.8,129.0,False,14141415,"[135,140]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,786,845.0,59.0,sen_log,92.5,179.4,129.0,False,10685113,"[93,179]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,912,1332.0,420.0,sen_log,116.9,132.1,128.0,False,3165183,"[117,132]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,1000,1420.0,420.0,sen_log,166.4,71.9,129.0,False,13601736,"[166,72]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,1036,1456.0,420.0,sen_log,185.0,71.3,130.0,False,8079935,"[185,71]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,1110,1148.0,38.0,sen_log,102.9,138.7,128.0,False,14452550,"[103,139]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,1123,1164.0,41.0,sen_log,91.6,149.6,128.0,False,12667005,"[92,150]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,1391,1410.0,19.0,sen_log,121.8,128.5,128.0,False,14534459,"[122,129]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,1518,1939.0,421.0,sen_log,74.1,187.0,130.0,False,13584725,"[74,187]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,1628,2048.0,420.0,sen_log,186.2,78.0,130.0,False,3720951,"[186,78]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,1631,2051.0,420.0,sen_log,181.0,69.2,130.0,False,16714026,"[181,69]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,1670,2090.0,420.0,sen_log,132.1,141.1,129.0,False,2345090,"[132,141]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,1718,2138.0,420.0,sen_log,115.5,151.4,130.0,False,6490082,"[116,151]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,1774,2194.0,420.0,sen_log,125.6,118.2,129.0,False,15976807,"[126,118]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,1864,2057.0,193.0,sen_log,143.3,90.4,130.0,False,14355476,"[143,90]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,1987,2407.0,420.0,sen_log,94.0,120.3,132.2,False,12487860,"[94,120]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,2010,2068.0,58.0,sen_log,117.8,94.3,131.2,False,4361337,"[118,94]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,2159,2437.0,278.0,sen_log,118.5,94.1,131.2,False,16582920,"[119,94]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,2346,2766.0,420.0,sen_log,118.7,79.1,129.0,False,7308836,"[119,79]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,2504,2924.0,420.0,sen_log,106.8,65.3,129.0,False,13436561,"[107,65]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,2616,3036.0,420.0,sen_log,65.8,142.2,132.2,False,1656329,"[66,142]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,sen,136829091,NongMon,130,2667,3087.0,420.0,sen_log,84.1,108.3,129.0,False,15385891,"[84,108]",json_ehandle,7
+8564902816,dire,8291895,Tundra Esports,obs,93618577,BRUCE-,131,-6,354.0,360.0,obs_log,128.5,128.9,129.0,False,8685179,"[129,129]",json_ehandle,8

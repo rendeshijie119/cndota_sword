@@ -1,0 +1,171 @@
+match_id,radiant_or_dire,team_id,team_name,ward_type,account_id,personal_name,player_slot,time,removed_time,lifetime,type,x,y,z,entityleft,ehandle,key,_matched_by,slot
+8449465357,radiant,9640842,Team Tidebound,obs,173978074,NothingToSay,1,-59,301.0,360.0,obs_log,122.6,135.9,129.0,False,7751340,"[123,136]",json_ehandle,1
+8449465357,radiant,9640842,Team Tidebound,obs,150961567,镜,3,381,742.0,361.0,obs_log,124.5,139.4,129.0,False,4328077,"[125,139]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,obs,150961567,镜,3,1554,1825.0,271.0,obs_log,117.6,125.9,129.0,False,83974,"[118,126]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,obs,150961567,镜,3,2265,2625.0,360.0,obs_log,94.2,119.8,132.2,False,429339,"[94,120]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,obs,150961567,镜,3,2889,3166.0,277.0,obs_log,97.0,80.4,130.0,False,6981332,"[97,80]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,obs,150961567,镜,3,3593,3836.0,243.0,obs_log,67.1,123.4,130.0,False,3180172,"[67,123]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,obs,150961567,镜,3,3646,3743.0,97.0,obs_log,112.8,67.7,129.0,False,7341246,"[113,68]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,obs,150961567,镜,3,3925,4038.0,113.0,obs_log,95.8,80.7,130.0,False,14566109,"[96,81]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,-50,27.0,77.0,sen_log,99.3,165.2,129.0,False,16189109,"[99,165]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,97,184.0,87.0,sen_log,90.0,155.8,129.0,False,4147156,"[90,156]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,275,695.0,420.0,sen_log,94.4,147.7,128.0,False,9357582,"[94,148]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,367,702.0,335.0,sen_log,107.1,140.6,128.0,False,1870633,"[107,141]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,380,800.0,420.0,sen_log,123.6,136.4,129.0,False,655617,"[124,136]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,1073,1493.0,420.0,sen_log,132.7,121.6,128.0,False,11077613,"[133,122]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,1127,1547.0,420.0,sen_log,148.0,71.8,128.9,False,12273199,"[148,72]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,1224,1644.0,420.0,sen_log,140.1,80.1,128.1,False,5163262,"[140,80]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,1544,1964.0,420.0,sen_log,112.5,115.0,129.0,False,6129954,"[113,115]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,1555,1823.0,268.0,sen_log,117.6,125.9,129.0,False,7458158,"[118,126]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,1731,2151.0,420.0,sen_log,106.4,142.0,128.0,False,6966330,"[106,142]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,1990,2410.0,420.0,sen_log,163.9,133.9,132.1,False,3493157,"[164,134]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,2121,2200.0,79.0,sen_log,67.7,125.8,130.0,False,9833806,"[68,126]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,2266,2686.0,420.0,sen_log,98.4,121.8,130.0,False,15437212,"[98,122]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,2341,2731.0,390.0,sen_log,108.3,142.1,128.0,False,1952151,"[108,142]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,2591,3011.0,420.0,sen_log,133.1,103.8,130.0,False,11602295,"[133,104]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,2598,3018.0,420.0,sen_log,140.9,91.4,130.0,False,6344031,"[141,91]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,2627,3005.0,378.0,sen_log,156.1,98.7,128.0,False,2803559,"[156,99]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,2808,3228.0,420.0,sen_log,96.2,91.3,130.0,False,12519738,"[96,91]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,3224,3645.0,421.0,sen_log,94.6,79.6,130.0,False,16534536,"[95,80]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,3611,3838.0,227.0,sen_log,67.2,123.5,130.0,False,2772153,"[67,124]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,3648,4068.0,420.0,sen_log,107.3,71.3,129.0,False,6458690,"[107,71]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,3882,4067.0,185.0,sen_log,87.2,97.8,130.0,False,14141534,"[87,98]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,3884,4304.0,420.0,sen_log,73.0,99.0,130.0,False,6130642,"[73,99]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,3909,4329.0,420.0,sen_log,84.7,78.0,130.0,False,11716348,"[85,78]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,sen,150961567,镜,3,3913,4333.0,420.0,sen_log,69.7,87.3,130.0,False,706941,"[70,87]",json_ehandle,3
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,312,672.0,360.0,obs_log,161.8,102.1,129.0,False,10783117,"[162,102]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,516,876.0,360.0,obs_log,143.9,119.7,130.0,False,12749563,"[144,120]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,865,1147.0,282.0,obs_log,134.1,112.1,130.0,False,11372354,"[134,112]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,903,1263.0,360.0,obs_log,174.3,71.8,130.0,False,4210940,"[174,72]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,957,1317.0,360.0,obs_log,82.1,191.8,130.0,False,1231584,"[82,192]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,1094,1455.0,361.0,obs_log,88.1,146.2,129.0,False,2099288,"[88,146]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,1188,1386.0,198.0,obs_log,66.1,142.4,132.2,False,1361737,"[66,142]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,1296,1656.0,360.0,obs_log,174.6,71.9,130.0,False,3230218,"[175,72]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,1342,1361.0,19.0,obs_log,134.1,112.1,130.0,False,9160727,"[134,112]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,1501,1861.0,360.0,obs_log,77.9,154.7,129.0,False,6966367,"[78,155]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,1742,1842.0,100.0,obs_log,107.7,142.0,128.0,False,3950545,"[108,142]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,1897,2257.0,360.0,obs_log,174.3,71.9,130.0,False,9537580,"[174,72]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,2016,2252.0,236.0,obs_log,144.0,119.9,130.0,False,12388236,"[144,120]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,2237,2597.0,360.0,obs_log,137.5,70.1,129.0,False,6998881,"[138,70]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,2402,2651.0,249.0,obs_log,143.0,135.0,129.0,False,3098432,"[143,135]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,2607,2967.0,360.0,obs_log,134.2,112.3,130.0,False,2181137,"[134,112]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,2961,3121.0,160.0,obs_log,107.6,65.6,129.0,False,8391931,"[108,66]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,3080,3230.0,150.0,obs_log,93.9,119.8,132.2,False,6506813,"[94,120]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,3350,3377.0,27.0,obs_log,96.9,155.3,129.0,False,411485,"[97,155]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,3595,3832.0,237.0,obs_log,78.3,111.7,129.0,False,9045874,"[78,112]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,3910,4200.0,290.0,obs_log,76.6,101.5,130.0,False,2215296,"[77,102]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,3918,4059.0,141.0,obs_log,94.7,92.8,130.0,False,4476262,"[95,93]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,4163,,,obs_log,90.8,76.0,130.0,False,14534879,"[91,76]",,4
+8449465357,radiant,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,4,4263,4298.0,35.0,obs_log,98.3,92.2,130.0,False,9635921,"[98,92]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,-44,-19.0,25.0,sen_log,155.5,116.6,130.0,False,870073,"[156,117]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,376,472.0,96.0,sen_log,155.8,132.0,130.0,False,14747745,"[156,132]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,499,919.0,420.0,sen_log,133.1,121.9,128.0,False,6277352,"[133,122]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,517,937.0,420.0,sen_log,147.0,114.1,128.0,False,166686,"[147,114]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,690,696.0,6.0,sen_log,93.9,131.9,130.0,False,6228434,"[94,132]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,844,930.0,86.0,sen_log,90.0,131.2,130.0,False,1442073,"[90,131]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,915,1335.0,420.0,sen_log,161.2,69.8,128.0,False,2819998,"[161,70]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,944,1364.0,420.0,sen_log,183.8,70.8,130.0,False,8997059,"[184,71]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,972,1393.0,421.0,sen_log,105.8,115.3,129.0,False,8636979,"[106,115]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,1012,1432.0,420.0,sen_log,79.7,133.6,129.0,False,15698229,"[80,134]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,1064,1484.0,420.0,sen_log,91.3,131.2,130.0,False,10111469,"[91,131]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,1164,1584.0,420.0,sen_log,93.5,108.2,129.0,False,14125333,"[94,108]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,1193,1613.0,420.0,sen_log,69.1,137.6,130.0,False,7096461,"[69,138]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,1343,1473.0,130.0,sen_log,133.4,105.2,130.0,False,14092838,"[133,105]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,1399,1819.0,420.0,sen_log,85.1,105.9,129.0,False,11192735,"[85,106]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,1404,1824.0,420.0,sen_log,101.8,95.0,129.0,False,12060243,"[102,95]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,2017,2253.0,236.0,sen_log,144.0,119.9,130.0,False,4410620,"[144,120]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,2285,2705.0,420.0,sen_log,143.8,62.3,130.0,False,14928536,"[144,62]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,2402,2650.0,248.0,sen_log,143.0,135.0,129.0,False,3393300,"[143,135]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,2418,2577.0,159.0,sen_log,150.5,121.9,130.0,False,12306989,"[151,122]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,2588,3008.0,420.0,sen_log,117.8,94.1,131.2,False,5408885,"[118,94]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,2608,2953.0,345.0,sen_log,137.0,110.3,128.0,False,13323225,"[137,110]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,2876,3166.0,290.0,sen_log,97.8,79.7,130.0,False,2313061,"[98,80]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,2930,3239.0,309.0,sen_log,86.9,116.1,130.0,False,4622676,"[87,116]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,2960,3126.0,166.0,sen_log,109.2,70.8,129.0,False,3017240,"[109,71]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,3082,3241.0,159.0,sen_log,99.3,120.8,130.0,False,15829249,"[99,121]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,3253,3673.0,420.0,sen_log,88.5,100.4,130.0,False,5539660,"[89,100]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,3350,3391.0,41.0,sen_log,97.2,155.5,129.0,False,11305248,"[97,156]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,3595,3833.0,238.0,sen_log,78.3,111.7,129.0,False,11718055,"[78,112]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,3647,4068.0,421.0,sen_log,97.7,88.9,130.0,False,4426145,"[98,89]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,3656,3751.0,95.0,sen_log,117.7,93.8,131.2,False,6507788,"[118,94]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,3795,4090.0,295.0,sen_log,94.9,78.3,130.0,False,1263464,"[95,78]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,4115,,,sen_log,96.2,81.9,130.0,False,14746601,"[96,82]",,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,4157,4223.0,66.0,sen_log,88.5,94.5,130.0,False,16368911,"[89,95]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,4261,4302.0,41.0,sen_log,93.8,92.1,130.0,False,16468041,"[94,92]",json_ehandle,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,4330,,,sen_log,82.4,96.2,130.0,False,706104,"[82,96]",,4
+8449465357,radiant,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,4,4349,,,sen_log,93.1,91.9,130.0,False,8487642,"[93,92]",,4
+8449465357,dire,9247354,Team Falcons,obs,10366616,Sneyking,128,249,609.0,360.0,obs_log,113.1,151.1,130.0,False,16467840,"[113,151]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,obs,10366616,Sneyking,128,542,599.0,57.0,obs_log,90.5,145.7,129.0,False,7915571,"[91,146]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,obs,10366616,Sneyking,128,819,1180.0,361.0,obs_log,79.7,167.2,129.0,False,4688769,"[80,167]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,obs,10366616,Sneyking,128,1032,1195.0,163.0,obs_log,69.4,132.7,130.0,False,5163762,"[69,133]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,obs,10366616,Sneyking,128,1274,1348.0,74.0,obs_log,134.2,112.5,130.0,False,3886438,"[134,113]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,obs,10366616,Sneyking,128,1417,1777.0,360.0,obs_log,174.1,71.6,130.0,False,8489308,"[174,72]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,obs,10366616,Sneyking,128,1522,1588.0,66.0,obs_log,120.0,112.8,129.0,False,11404945,"[120,113]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,obs,10366616,Sneyking,128,1590,1950.0,360.0,obs_log,114.9,150.0,130.0,False,13781910,"[115,150]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,obs,10366616,Sneyking,128,2253,2287.0,34.0,obs_log,143.7,62.5,130.0,False,15060187,"[144,63]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,obs,10366616,Sneyking,128,2317,2359.0,42.0,obs_log,115.9,142.2,130.0,False,2295896,"[116,142]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,obs,10366616,Sneyking,128,3164,3234.0,70.0,obs_log,99.7,82.2,130.0,False,12454696,"[100,82]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,obs,10366616,Sneyking,128,3588,3658.0,70.0,obs_log,118.2,94.0,131.2,False,16600473,"[118,94]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,obs,10366616,Sneyking,128,3600,3650.0,50.0,obs_log,108.8,67.3,129.0,False,14535467,"[109,67]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,24,444.0,420.0,sen_log,98.6,170.2,129.0,False,13829905,"[99,170]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,32,100.0,68.0,sen_log,88.3,158.1,129.0,False,1525764,"[88,158]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,180,600.0,420.0,sen_log,88.5,157.9,129.0,False,14141657,"[89,158]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,242,662.0,420.0,sen_log,98.3,136.1,130.0,False,9635381,"[98,136]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,538,846.0,308.0,sen_log,89.9,130.9,130.0,False,2951611,"[90,131]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,774,1194.0,420.0,sen_log,167.8,63.3,128.0,False,12928971,"[168,63]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,929,1065.0,136.0,sen_log,92.3,128.3,130.0,False,8292881,"[92,128]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,967,1086.0,119.0,sen_log,134.7,120.9,128.0,False,7488191,"[135,121]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1127,1547.0,420.0,sen_log,134.7,131.1,129.0,False,16762538,"[135,131]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1145,1347.0,202.0,sen_log,134.0,112.1,130.0,False,1050935,"[134,112]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1176,1596.0,420.0,sen_log,103.7,137.7,128.0,False,8964544,"[104,138]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1229,1649.0,420.0,sen_log,83.2,163.1,129.0,False,6129437,"[83,163]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1305,1353.0,48.0,sen_log,134.0,101.3,130.0,False,691390,"[134,101]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1384,1804.0,420.0,sen_log,66.5,141.9,132.2,False,5456122,"[67,142]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1414,1834.0,420.0,sen_log,183.3,70.2,130.0,False,2050207,"[183,70]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1463,1883.0,420.0,sen_log,134.0,110.8,130.0,False,477917,"[134,111]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1521,1584.0,63.0,sen_log,122.2,117.1,129.0,False,14470611,"[122,117]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1580,2000.0,420.0,sen_log,118.5,153.6,130.0,False,13994366,"[119,154]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1725,2145.0,420.0,sen_log,128.8,134.1,129.0,False,11537856,"[129,134]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,1960,2022.0,62.0,sen_log,152.7,121.4,130.0,False,5573369,"[153,121]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,2082,2269.0,187.0,sen_log,94.1,120.2,132.2,False,8358353,"[94,120]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,2204,2591.0,387.0,sen_log,118.5,93.9,131.2,False,13569279,"[119,94]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,2241,2286.0,45.0,sen_log,143.8,62.3,130.0,False,116516,"[144,62]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,2265,2596.0,331.0,sen_log,133.8,100.4,130.0,False,4458552,"[134,100]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,2317,2352.0,35.0,sen_log,113.6,144.9,128.0,False,887572,"[114,145]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,3164,3232.0,68.0,sen_log,99.7,82.1,130.0,False,3476301,"[100,82]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,3228,3420.0,192.0,sen_log,94.4,119.6,132.2,False,6229387,"[94,120]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,3587,3660.0,73.0,sen_log,118.2,94.0,131.2,False,298426,"[118,94]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,sen,10366616,Sneyking,128,3600,3650.0,50.0,sen_log,108.8,67.3,129.0,False,9816095,"[109,67]",json_ehandle,5
+8449465357,dire,9247354,Team Falcons,obs,898455820,Буська,130,-22,338.0,360.0,obs_log,119.7,138.8,129.0,False,1689428,"[120,139]",json_ehandle,7
+8449465357,dire,9247354,Team Falcons,obs,898455820,Буська,130,476,836.0,360.0,obs_log,130.9,131.6,129.0,False,14093203,"[131,132]",json_ehandle,7
+8449465357,dire,9247354,Team Falcons,obs,898455820,Буська,130,4195,4198.0,3.0,obs_log,92.9,75.3,130.0,False,5115081,"[93,75]",json_ehandle,7
+8449465357,dire,9247354,Team Falcons,sen,898455820,Буська,130,259,679.0,420.0,sen_log,124.1,125.5,128.0,False,6425597,"[124,126]",json_ehandle,7
+8449465357,dire,9247354,Team Falcons,sen,183719386,SumaoKy-,131,716,1136.0,420.0,sen_log,158.0,118.3,130.0,False,13142736,"[158,118]",json_ehandle,8
+8449465357,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,-57,303.0,360.0,obs_log,146.9,112.7,128.0,False,2082480,"[147,113]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,387,748.0,361.0,obs_log,154.1,129.1,130.0,False,2411484,"[154,129]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,923,1014.0,91.0,obs_log,81.5,133.1,129.0,False,3164771,"[82,133]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,1111,1227.0,116.0,obs_log,142.6,80.5,129.0,False,10962547,"[143,81]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,1756,1848.0,92.0,obs_log,117.9,94.2,131.2,False,12422165,"[118,94]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,2103,2463.0,360.0,obs_log,76.7,152.8,129.0,False,2656062,"[77,153]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,2137,2188.0,51.0,obs_log,84.5,103.6,130.0,False,12140771,"[85,104]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,2450,2600.0,150.0,obs_log,142.1,102.5,130.0,False,8538149,"[142,103]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,2681,3041.0,360.0,obs_log,112.8,129.9,129.0,False,15681186,"[113,130]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,2688,2754.0,66.0,obs_log,94.4,120.2,132.2,False,11127913,"[94,120]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,2858,2878.0,20.0,obs_log,100.1,78.7,130.0,False,14141885,"[100,79]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,3131,3162.0,31.0,obs_log,94.8,76.4,130.0,False,4589524,"[95,76]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,3322,3682.0,360.0,obs_log,80.3,139.1,129.0,False,14992960,"[80,139]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,3326,3359.0,33.0,obs_log,91.6,135.2,130.0,False,14010097,"[92,135]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,4003,4364.0,361.0,obs_log,118.1,93.9,131.2,False,428336,"[118,94]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,4060,4070.0,10.0,obs_log,88.0,75.3,130.0,False,15435919,"[88,75]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,obs,25907144,ik lavet penge,132,4072,4078.0,6.0,obs_log,94.8,85.3,130.0,False,2755840,"[95,85]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,sen,25907144,ik lavet penge,132,-30,390.0,420.0,sen_log,154.4,121.2,130.0,False,6604477,"[154,121]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,sen,25907144,ik lavet penge,132,345,765.0,420.0,sen_log,116.7,155.8,130.0,False,7064542,"[117,156]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,sen,25907144,ik lavet penge,132,469,889.0,420.0,sen_log,158.7,124.6,130.0,False,5114610,"[159,125]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,sen,25907144,ik lavet penge,132,695,1115.0,420.0,sen_log,105.3,136.4,128.0,False,14485643,"[105,136]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,sen,25907144,ik lavet penge,132,971,1391.0,420.0,sen_log,119.3,132.1,128.0,False,12224507,"[119,132]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,sen,25907144,ik lavet penge,132,1059,1479.0,420.0,sen_log,152.4,96.4,130.0,False,7571604,"[152,96]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,sen,25907144,ik lavet penge,132,1904,2324.0,420.0,sen_log,66.1,141.8,132.2,False,7686070,"[66,142]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,sen,25907144,ik lavet penge,132,2004,2424.0,420.0,sen_log,189.7,76.6,130.0,False,11996123,"[190,77]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,sen,25907144,ik lavet penge,132,2861,2880.0,19.0,sen_log,103.0,79.8,129.0,False,3001251,"[103,80]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,sen,25907144,ik lavet penge,132,4003,4423.0,420.0,sen_log,118.0,94.3,131.2,False,10323140,"[118,94]",json_ehandle,9
+8449465357,dire,9247354,Team Falcons,sen,25907144,ik lavet penge,132,4063,4114.0,51.0,sen_log,92.4,79.8,130.0,False,265157,"[92,80]",json_ehandle,9

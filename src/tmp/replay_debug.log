@@ -1,0 +1,2 @@
+Error: Could not find or load main class com.example.clarity.ReplayHeroPositionExtractor
+Caused by: java.lang.ClassNotFoundException: com.example.clarity.ReplayHeroPositionExtractor

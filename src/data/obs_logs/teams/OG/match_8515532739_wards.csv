@@ -1,0 +1,86 @@
+match_id,radiant_or_dire,team_id,team_name,ward_type,account_id,personal_name,player_slot,time,removed_time,lifetime,type,x,y,z,entityleft,ehandle,key,_matched_by,slot
+8515532739,radiant,2586976,OG,obs,19672354,OiOi.oldandrusty,0,555,583.0,28.0,obs_log,133.2,100.7,130.0,False,15288408,"[133,101]",json_ehandle,0
+8515532739,radiant,2586976,OG,obs,19672354,OiOi.oldandrusty,0,665,802.0,137.0,obs_log,155.2,73.8,129.0,False,4017107,"[155,74]",json_ehandle,0
+8515532739,radiant,2586976,OG,obs,19672354,OiOi.oldandrusty,0,939,992.0,53.0,obs_log,117.6,94.1,131.2,False,477775,"[118,94]",json_ehandle,0
+8515532739,radiant,2586976,OG,obs,19672354,OiOi.oldandrusty,0,1196,1207.0,11.0,obs_log,64.3,178.0,130.0,False,1673426,"[64,178]",json_ehandle,0
+8515532739,radiant,2586976,OG,obs,19672354,OiOi.oldandrusty,0,1589,1949.0,360.0,obs_log,107.0,99.1,129.0,False,14222522,"[107,99]",json_ehandle,0
+8515532739,radiant,2586976,OG,obs,19672354,OiOi.oldandrusty,0,1639,,,obs_log,76.7,132.6,129.0,False,1524913,"[77,133]",,0
+8515532739,radiant,2586976,OG,sen,19672354,OiOi.oldandrusty,0,144,167.0,23.0,sen_log,156.5,88.5,129.0,False,3556957,"[157,89]",json_ehandle,0
+8515532739,radiant,2586976,OG,sen,19672354,OiOi.oldandrusty,0,262,682.0,420.0,sen_log,156.4,88.6,129.0,False,10930252,"[156,89]",json_ehandle,0
+8515532739,radiant,2586976,OG,sen,19672354,OiOi.oldandrusty,0,322,355.0,33.0,sen_log,119.7,122.6,129.0,False,13076097,"[120,123]",json_ehandle,0
+8515532739,radiant,2586976,OG,sen,19672354,OiOi.oldandrusty,0,443,864.0,421.0,sen_log,67.7,127.3,130.0,False,2328194,"[68,127]",json_ehandle,0
+8515532739,radiant,2586976,OG,sen,19672354,OiOi.oldandrusty,0,554,585.0,31.0,sen_log,133.1,100.7,130.0,False,15108042,"[133,101]",json_ehandle,0
+8515532739,radiant,2586976,OG,sen,19672354,OiOi.oldandrusty,0,726,789.0,63.0,sen_log,118.1,94.1,131.2,False,12094270,"[118,94]",json_ehandle,0
+8515532739,radiant,2586976,OG,sen,19672354,OiOi.oldandrusty,0,911,1331.0,420.0,sen_log,69.9,134.3,130.0,False,1641471,"[70,134]",json_ehandle,0
+8515532739,radiant,2586976,OG,sen,19672354,OiOi.oldandrusty,0,936,1356.0,420.0,sen_log,110.8,97.3,129.0,False,12322499,"[111,97]",json_ehandle,0
+8515532739,radiant,2586976,OG,sen,19672354,OiOi.oldandrusty,0,1190,1209.0,19.0,sen_log,64.0,175.9,129.0,False,15534055,"[64,176]",json_ehandle,0
+8515532739,radiant,2586976,OG,sen,19672354,OiOi.oldandrusty,0,1230,1441.0,211.0,sen_log,67.4,119.5,130.0,False,12684017,"[67,120]",json_ehandle,0
+8515532739,radiant,2586976,OG,sen,19672354,OiOi.oldandrusty,0,1590,2010.0,420.0,sen_log,107.0,99.1,129.0,False,3393994,"[107,99]",json_ehandle,0
+8515532739,radiant,2586976,OG,sen,19672354,OiOi.oldandrusty,0,1640,2060.0,420.0,sen_log,76.6,132.2,129.0,False,16762901,"[77,132]",json_ehandle,0
+8515532739,radiant,2586976,OG,sen,19672354,OiOi.oldandrusty,0,1770,2190.0,420.0,sen_log,85.0,80.2,130.0,False,16336935,"[85,80]",json_ehandle,0
+8515532739,radiant,2586976,OG,sen,19672354,OiOi.oldandrusty,0,1827,2247.0,420.0,sen_log,90.2,99.6,130.0,False,8374410,"[90,100]",json_ehandle,0
+8515532739,radiant,2586976,OG,sen,19672354,OiOi.oldandrusty,0,1830,2250.0,420.0,sen_log,98.3,86.5,130.0,False,9226635,"[98,87]",json_ehandle,0
+8515532739,radiant,2586976,OG,sen,374875067,rejuvenated,2,337,638.0,301.0,sen_log,83.8,153.8,129.0,False,3244275,"[84,154]",json_ehandle,2
+8515532739,radiant,2586976,OG,obs,262476000,Aura,3,338,698.0,360.0,obs_log,117.2,120.6,129.0,False,14862353,"[117,121]",json_ehandle,3
+8515532739,radiant,2586976,OG,sen,262476000,Aura,3,269,288.0,19.0,sen_log,124.4,123.9,128.0,False,13387943,"[124,124]",json_ehandle,3
+8515532739,radiant,2586976,OG,obs,919735867,creativity,4,632,992.0,360.0,obs_log,146.4,98.2,130.0,False,7375624,"[146,98]",json_ehandle,4
+8515532739,radiant,2586976,OG,obs,919735867,creativity,4,690,1050.0,360.0,obs_log,119.5,106.9,129.0,False,6080944,"[120,107]",json_ehandle,4
+8515532739,radiant,2586976,OG,obs,919735867,creativity,4,930,1092.0,162.0,obs_log,106.4,119.9,130.0,False,5049278,"[106,120]",json_ehandle,4
+8515532739,radiant,2586976,OG,obs,919735867,creativity,4,1276,1636.0,360.0,obs_log,188.3,115.9,132.1,False,11766434,"[188,116]",json_ehandle,4
+8515532739,radiant,2586976,OG,obs,919735867,creativity,4,1501,1565.0,64.0,obs_log,93.6,119.7,132.2,False,6179248,"[94,120]",json_ehandle,4
+8515532739,radiant,2586976,OG,obs,919735867,creativity,4,1871,1938.0,67.0,obs_log,70.2,113.0,130.0,False,3279850,"[70,113]",json_ehandle,4
+8515532739,radiant,2586976,OG,sen,919735867,creativity,4,57,73.0,16.0,sen_log,95.5,164.0,129.0,False,10881100,"[96,164]",json_ehandle,4
+8515532739,radiant,2586976,OG,sen,919735867,creativity,4,335,551.0,216.0,sen_log,133.3,118.8,128.0,False,14108177,"[133,119]",json_ehandle,4
+8515532739,radiant,2586976,OG,sen,919735867,creativity,4,623,700.0,77.0,sen_log,134.2,103.1,130.0,False,4754115,"[134,103]",json_ehandle,4
+8515532739,radiant,2586976,OG,sen,919735867,creativity,4,663,755.0,92.0,sen_log,144.6,89.5,130.0,False,14633928,"[145,90]",json_ehandle,4
+8515532739,radiant,2586976,OG,sen,919735867,creativity,4,741,781.0,40.0,sen_log,130.0,101.8,130.0,False,1099683,"[130,102]",json_ehandle,4
+8515532739,radiant,2586976,OG,sen,919735867,creativity,4,928,1348.0,420.0,sen_log,107.8,119.4,129.0,False,7064337,"[108,119]",json_ehandle,4
+8515532739,radiant,2586976,OG,sen,919735867,creativity,4,1098,1122.0,24.0,sen_log,106.0,108.0,129.0,False,2983874,"[106,108]",json_ehandle,4
+8515532739,radiant,2586976,OG,sen,919735867,creativity,4,1276,1697.0,421.0,sen_log,188.3,115.9,132.1,False,674735,"[188,116]",json_ehandle,4
+8515532739,radiant,2586976,OG,sen,919735867,creativity,4,1499,1919.0,420.0,sen_log,88.9,118.5,130.0,False,9522001,"[89,119]",json_ehandle,4
+8515532739,radiant,2586976,OG,sen,919735867,creativity,4,1698,1716.0,18.0,sen_log,117.7,93.9,131.2,False,16190299,"[118,94]",json_ehandle,4
+8515532739,radiant,2586976,OG,sen,919735867,creativity,4,1871,1939.0,68.0,sen_log,70.2,113.0,130.0,False,3934136,"[70,113]",json_ehandle,4
+8515532739,dire,9895247,Kalmychata,obs,1153798101,91 days,128,-54,306.0,360.0,obs_log,123.7,131.9,129.0,False,14714383,"[124,132]",json_ehandle,5
+8515532739,dire,9895247,Kalmychata,obs,1153798101,91 days,128,352,712.0,360.0,obs_log,132.1,126.2,129.0,False,8881392,"[132,126]",json_ehandle,5
+8515532739,dire,9895247,Kalmychata,sen,1153798101,91 days,128,123,272.0,149.0,sen_log,128.3,121.7,128.0,False,1230474,"[128,122]",json_ehandle,5
+8515532739,dire,9895247,Kalmychata,obs,340421206,Мечта.,131,-57,304.0,361.0,obs_log,115.4,148.9,130.0,False,787978,"[115,149]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,obs,340421206,Мечта.,131,293,341.0,48.0,obs_log,80.3,156.9,129.0,False,13830437,"[80,157]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,obs,340421206,Мечта.,131,716,1076.0,360.0,obs_log,125.8,107.5,130.0,False,12683177,"[126,108]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,obs,340421206,Мечта.,131,837,1197.0,360.0,obs_log,66.0,142.1,132.2,False,7980680,"[66,142]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,obs,340421206,Мечта.,131,929,1197.0,268.0,obs_log,144.1,62.4,130.0,False,6932605,"[144,62]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,obs,340421206,Мечта.,131,1130,1221.0,91.0,obs_log,114.3,119.2,129.0,False,10602653,"[114,119]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,obs,340421206,Мечта.,131,1454,1679.0,225.0,obs_log,100.5,73.3,130.0,False,12748713,"[101,73]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,obs,340421206,Мечта.,131,1570,1930.0,360.0,obs_log,104.1,109.4,129.0,False,7620609,"[104,109]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,obs,340421206,Мечта.,131,1935,,,obs_log,67.4,120.8,130.0,False,14289786,"[67,121]",,8
+8515532739,dire,9895247,Kalmychata,obs,340421206,Мечта.,131,1944,,,obs_log,85.1,116.9,130.0,False,526430,"[85,117]",,8
+8515532739,dire,9895247,Kalmychata,sen,340421206,Мечта.,131,26,446.0,420.0,sen_log,102.6,166.8,130.0,False,6768439,"[103,167]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,sen,340421206,Мечта.,131,336,756.0,420.0,sen_log,117.6,130.1,128.0,False,12896337,"[118,130]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,sen,340421206,Мечта.,131,582,628.0,46.0,sen_log,135.4,101.2,130.0,False,1410752,"[135,101]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,sen,340421206,Мечта.,131,645,1065.0,420.0,sen_log,147.4,94.0,130.0,False,13044589,"[147,94]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,sen,340421206,Мечта.,131,695,1115.0,420.0,sen_log,132.1,105.4,130.0,False,16746174,"[132,105]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,sen,340421206,Мечта.,131,702,745.0,43.0,sen_log,136.2,98.0,130.0,False,5523145,"[136,98]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,sen,340421206,Мечта.,131,752,1172.0,420.0,sen_log,134.1,92.0,129.0,False,10931139,"[134,92]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,sen,340421206,Мечта.,131,767,1187.0,420.0,sen_log,158.8,76.1,129.0,False,7668912,"[159,76]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,sen,340421206,Мечта.,131,927,1194.0,267.0,sen_log,143.1,68.3,128.0,False,3377901,"[143,68]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,sen,340421206,Мечта.,131,991,1269.0,278.0,sen_log,117.8,94.2,131.2,False,12208807,"[118,94]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,sen,340421206,Мечта.,131,1086,1506.0,420.0,sen_log,98.6,122.1,130.0,False,1523972,"[99,122]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,sen,340421206,Мечта.,131,1120,1221.0,101.0,sen_log,111.0,110.8,129.0,False,1133429,"[111,111]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,sen,340421206,Мечта.,131,1236,1656.0,420.0,sen_log,186.2,75.7,130.0,False,10094264,"[186,76]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,sen,340421206,Мечта.,131,1419,1839.0,420.0,sen_log,124.2,96.8,129.0,False,6654791,"[124,97]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,sen,340421206,Мечта.,131,1562,1982.0,420.0,sen_log,99.8,120.4,130.0,False,10045591,"[100,120]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,sen,340421206,Мечта.,131,1570,1990.0,420.0,sen_log,104.1,109.4,129.0,False,7571450,"[104,109]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,sen,340421206,Мечта.,131,1894,2314.0,420.0,sen_log,107.9,162.8,130.0,False,13191291,"[108,163]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,sen,340421206,Мечта.,131,1932,2352.0,420.0,sen_log,69.3,117.0,130.0,False,3311216,"[69,117]",json_ehandle,8
+8515532739,dire,9895247,Kalmychata,obs,847851833,опиаты круг,132,325,559.0,234.0,obs_log,139.3,102.3,130.0,False,10291078,"[139,102]",json_ehandle,9
+8515532739,dire,9895247,Kalmychata,obs,847851833,опиаты круг,132,831,912.0,81.0,obs_log,67.1,135.5,130.0,False,6999016,"[67,136]",json_ehandle,9
+8515532739,dire,9895247,Kalmychata,obs,847851833,опиаты круг,132,1421,1505.0,84.0,obs_log,94.1,119.8,132.2,False,12617546,"[94,120]",json_ehandle,9
+8515532739,dire,9895247,Kalmychata,obs,847851833,опиаты круг,132,1624,1700.0,76.0,obs_log,118.0,94.1,131.2,False,13142139,"[118,94]",json_ehandle,9
+8515532739,dire,9895247,Kalmychata,sen,847851833,опиаты круг,132,163,264.0,101.0,sen_log,159.3,89.8,129.0,False,7440459,"[159,90]",json_ehandle,9
+8515532739,dire,9895247,Kalmychata,sen,847851833,опиаты круг,132,286,339.0,53.0,sen_log,130.9,121.2,128.0,False,15353730,"[131,121]",json_ehandle,9
+8515532739,dire,9895247,Kalmychata,sen,847851833,опиаты круг,132,548,968.0,420.0,sen_log,130.6,120.3,128.0,False,4491044,"[131,120]",json_ehandle,9
+8515532739,dire,9895247,Kalmychata,sen,847851833,опиаты круг,132,635,1055.0,420.0,sen_log,81.4,151.6,129.0,False,1526555,"[81,152]",json_ehandle,9
+8515532739,dire,9895247,Kalmychata,sen,847851833,опиаты круг,132,786,941.0,155.0,sen_log,118.1,94.3,131.2,False,10176997,"[118,94]",json_ehandle,9
+8515532739,dire,9895247,Kalmychata,sen,847851833,опиаты круг,132,954,1374.0,420.0,sen_log,133.3,113.3,129.0,False,8473284,"[133,113]",json_ehandle,9
+8515532739,dire,9895247,Kalmychata,sen,847851833,опиаты круг,132,1202,1622.0,420.0,sen_log,65.1,175.3,129.0,False,1641441,"[65,175]",json_ehandle,9
+8515532739,dire,9895247,Kalmychata,sen,847851833,опиаты круг,132,1436,1631.0,195.0,sen_log,64.0,116.4,130.0,False,12258163,"[64,116]",json_ehandle,9
+8515532739,dire,9895247,Kalmychata,sen,847851833,опиаты круг,132,1437,1634.0,197.0,sen_log,62.6,124.3,130.0,False,7505732,"[63,124]",json_ehandle,9

@@ -1,0 +1,85 @@
+match_id,radiant_or_dire,team_id,team_name,ward_type,account_id,personal_name,player_slot,time,removed_time,lifetime,type,x,y,z,entityleft,ehandle,key,_matched_by,slot
+8598616570,radiant,2586976,OG,obs,324277900,Rasmus?,0,-38,322.0,360.0,obs_log,133.5,113.5,129.0,False,14452299,"[134,114]",json_ehandle,0
+8598616570,radiant,2586976,OG,sen,324277900,Rasmus?,0,145,194.0,49.0,sen_log,125.4,120.0,129.0,False,13353236,"[125,120]",json_ehandle,0
+8598616570,radiant,2586976,OG,sen,324277900,Rasmus?,0,243,325.0,82.0,sen_log,122.9,127.5,128.0,False,15451719,"[123,128]",json_ehandle,0
+8598616570,radiant,2586976,OG,obs,155494381,tryme,1,315,525.0,210.0,obs_log,116.9,155.7,130.0,False,13994602,"[117,156]",json_ehandle,1
+8598616570,radiant,2586976,OG,obs,155494381,tryme,1,1178,1538.0,360.0,obs_log,119.9,191.9,129.0,False,14796720,"[120,192]",json_ehandle,1
+8598616570,radiant,2586976,OG,obs,155494381,tryme,1,1676,,,obs_log,117.1,150.5,130.0,False,215492,"[117,151]",,1
+8598616570,radiant,2586976,OG,obs,155494381,tryme,1,1909,,,obs_log,179.5,162.6,130.0,False,10390822,"[180,163]",,1
+8598616570,radiant,2586976,OG,sen,155494381,tryme,1,29,141.0,112.0,sen_log,95.1,164.1,129.0,False,10487743,"[95,164]",json_ehandle,1
+8598616570,radiant,2586976,OG,sen,155494381,tryme,1,194,256.0,62.0,sen_log,90.5,156.5,129.0,False,14714495,"[91,157]",json_ehandle,1
+8598616570,radiant,2586976,OG,sen,155494381,tryme,1,1159,1579.0,420.0,sen_log,111.7,166.8,129.0,False,7309139,"[112,167]",json_ehandle,1
+8598616570,radiant,2586976,OG,sen,155494381,tryme,1,1615,2036.0,421.0,sen_log,135.6,155.7,131.1,False,3474700,"[136,156]",json_ehandle,1
+8598616570,radiant,2586976,OG,sen,155494381,tryme,1,1675,2095.0,420.0,sen_log,119.0,150.7,130.0,False,14240420,"[119,151]",json_ehandle,1
+8598616570,radiant,2586976,OG,sen,155494381,tryme,1,1910,2330.0,420.0,sen_log,179.2,162.7,130.0,False,3476779,"[179,163]",json_ehandle,1
+8598616570,radiant,2586976,OG,obs,100594231,kikyo,2,-14,346.0,360.0,obs_log,155.6,132.2,130.0,False,4195979,"[156,132]",json_ehandle,2
+8598616570,radiant,2586976,OG,obs,100594231,kikyo,2,341,701.0,360.0,obs_log,139.2,92.0,130.0,False,15551271,"[139,92]",json_ehandle,2
+8598616570,radiant,2586976,OG,obs,100594231,kikyo,2,530,890.0,360.0,obs_log,94.2,120.2,132.2,False,13224925,"[94,120]",json_ehandle,2
+8598616570,radiant,2586976,OG,obs,100594231,kikyo,2,859,1219.0,360.0,obs_log,118.1,94.2,131.2,False,641372,"[118,94]",json_ehandle,2
+8598616570,radiant,2586976,OG,obs,100594231,kikyo,2,939,956.0,17.0,obs_log,154.9,144.9,129.0,False,5064787,"[155,145]",json_ehandle,2
+8598616570,radiant,2586976,OG,obs,100594231,kikyo,2,1179,1259.0,80.0,obs_log,124.9,130.3,129.0,False,5032892,"[125,130]",json_ehandle,2
+8598616570,radiant,2586976,OG,obs,100594231,kikyo,2,1413,1438.0,25.0,obs_log,163.7,134.0,132.1,False,12650084,"[164,134]",json_ehandle,2
+8598616570,radiant,2586976,OG,obs,100594231,kikyo,2,1513,1873.0,360.0,obs_log,173.7,72.3,130.0,False,13371878,"[174,72]",json_ehandle,2
+8598616570,radiant,2586976,OG,obs,100594231,kikyo,2,1631,1654.0,23.0,obs_log,151.8,166.9,130.0,False,11127629,"[152,167]",json_ehandle,2
+8598616570,radiant,2586976,OG,obs,100594231,kikyo,2,1728,2149.0,421.0,obs_log,133.9,169.4,129.0,False,9259106,"[134,169]",json_ehandle,2
+8598616570,radiant,2586976,OG,sen,100594231,kikyo,2,-10,16.0,26.0,sen_log,156.7,116.6,130.0,False,15582872,"[157,117]",json_ehandle,2
+8598616570,radiant,2586976,OG,sen,100594231,kikyo,2,-5,45.0,50.0,sen_log,125.3,120.0,129.0,False,4294306,"[125,120]",json_ehandle,2
+8598616570,radiant,2586976,OG,sen,100594231,kikyo,2,144,564.0,420.0,sen_log,156.3,88.9,129.0,False,10225782,"[156,89]",json_ehandle,2
+8598616570,radiant,2586976,OG,sen,100594231,kikyo,2,457,481.0,24.0,sen_log,132.5,122.3,128.0,False,14305111,"[133,122]",json_ehandle,2
+8598616570,radiant,2586976,OG,sen,100594231,kikyo,2,527,947.0,420.0,sen_log,98.8,125.7,130.0,False,14453349,"[99,126]",json_ehandle,2
+8598616570,radiant,2586976,OG,sen,100594231,kikyo,2,650,732.0,82.0,sen_log,136.2,100.7,130.0,False,13208038,"[136,101]",json_ehandle,2
+8598616570,radiant,2586976,OG,sen,100594231,kikyo,2,700,1120.0,420.0,sen_log,171.1,74.1,129.0,False,9784179,"[171,74]",json_ehandle,2
+8598616570,radiant,2586976,OG,sen,100594231,kikyo,2,840,1127.0,287.0,sen_log,117.7,132.7,128.0,False,5882125,"[118,133]",json_ehandle,2
+8598616570,radiant,2586976,OG,sen,100594231,kikyo,2,857,1277.0,420.0,sen_log,124.4,97.5,129.0,False,8913134,"[124,98]",json_ehandle,2
+8598616570,radiant,2586976,OG,sen,100594231,kikyo,2,909,1329.0,420.0,sen_log,129.2,136.0,129.0,False,10864859,"[129,136]",json_ehandle,2
+8598616570,radiant,2586976,OG,sen,100594231,kikyo,2,950,990.0,40.0,sen_log,164.3,131.3,130.0,False,4425883,"[164,131]",json_ehandle,2
+8598616570,radiant,2586976,OG,sen,100594231,kikyo,2,1013,1433.0,420.0,sen_log,153.8,74.7,129.0,False,1148694,"[154,75]",json_ehandle,2
+8598616570,radiant,2586976,OG,sen,100594231,kikyo,2,1041,1462.0,421.0,sen_log,157.6,132.0,130.0,False,12519099,"[158,132]",json_ehandle,2
+8598616570,radiant,2586976,OG,sen,100594231,kikyo,2,1125,1336.0,211.0,sen_log,96.0,160.0,129.0,False,4442877,"[96,160]",json_ehandle,2
+8598616570,radiant,2586976,OG,sen,100594231,kikyo,2,1369,1415.0,46.0,sen_log,176.5,148.0,130.0,False,13748506,"[177,148]",json_ehandle,2
+8598616570,radiant,2586976,OG,sen,100594231,kikyo,2,1631,1655.0,24.0,sen_log,151.8,166.9,130.0,False,10471116,"[152,167]",json_ehandle,2
+8598616570,radiant,2586976,OG,sen,100594231,kikyo,2,1729,2149.0,420.0,sen_log,133.8,169.4,129.0,False,14682275,"[134,169]",json_ehandle,2
+8598616570,radiant,2586976,OG,obs,355168766,simply lovely,4,554,914.0,360.0,obs_log,167.6,88.1,129.0,False,8668851,"[168,88]",json_ehandle,4
+8598616570,dire,9640842,Team Tidebound,obs,315272623,Nikaidō^HirO,129,-34,327.0,361.0,obs_log,120.2,138.4,129.0,False,10585679,"[120,138]",json_ehandle,6
+8598616570,dire,9640842,Team Tidebound,obs,315272623,Nikaidō^HirO,129,417,777.0,360.0,obs_log,109.9,130.2,129.0,False,2148387,"[110,130]",json_ehandle,6
+8598616570,dire,9640842,Team Tidebound,sen,315272623,Nikaidō^HirO,129,193,246.0,53.0,sen_log,128.9,125.5,129.0,False,12388383,"[129,126]",json_ehandle,6
+8598616570,dire,9640842,Team Tidebound,sen,315272623,Nikaidō^HirO,129,322,742.0,420.0,sen_log,124.2,131.1,129.0,False,15649442,"[124,131]",json_ehandle,6
+8598616570,dire,9640842,Team Tidebound,obs,150961567,镜,131,-24,336.0,360.0,obs_log,134.0,114.2,128.9,False,13682271,"[134,114]",json_ehandle,8
+8598616570,dire,9640842,Team Tidebound,obs,150961567,镜,131,298,658.0,360.0,obs_log,144.7,109.6,128.0,False,15910991,"[145,110]",json_ehandle,8
+8598616570,dire,9640842,Team Tidebound,obs,150961567,镜,131,513,873.0,360.0,obs_log,116.0,148.4,130.0,False,10618447,"[116,148]",json_ehandle,8
+8598616570,dire,9640842,Team Tidebound,obs,150961567,镜,131,718,1019.0,301.0,obs_log,148.6,76.9,129.0,False,4213357,"[149,77]",json_ehandle,8
+8598616570,dire,9640842,Team Tidebound,obs,150961567,镜,131,1117,1477.0,360.0,obs_log,105.2,119.5,130.0,False,14125332,"[105,120]",json_ehandle,8
+8598616570,dire,9640842,Team Tidebound,obs,150961567,镜,131,1465,1825.0,360.0,obs_log,193.1,80.0,130.0,False,1297328,"[193,80]",json_ehandle,8
+8598616570,dire,9640842,Team Tidebound,obs,150961567,镜,131,1851,1860.0,9.0,obs_log,137.0,123.9,129.0,False,1428337,"[137,124]",json_ehandle,8
+8598616570,dire,9640842,Team Tidebound,sen,150961567,镜,131,10,430.0,420.0,sen_log,154.5,121.4,130.0,False,9438930,"[155,121]",json_ehandle,8
+8598616570,dire,9640842,Team Tidebound,sen,150961567,镜,131,114,147.0,33.0,sen_log,156.8,88.5,129.0,False,2754150,"[157,89]",json_ehandle,8
+8598616570,dire,9640842,Team Tidebound,sen,150961567,镜,131,392,813.0,421.0,sen_log,126.8,119.0,129.0,False,15796337,"[127,119]",json_ehandle,8
+8598616570,dire,9640842,Team Tidebound,sen,150961567,镜,131,522,942.0,420.0,sen_log,114.8,158.3,130.0,False,9636359,"[115,158]",json_ehandle,8
+8598616570,dire,9640842,Team Tidebound,sen,150961567,镜,131,546,653.0,107.0,sen_log,137.4,103.7,130.0,False,4409643,"[137,104]",json_ehandle,8
+8598616570,dire,9640842,Team Tidebound,sen,150961567,镜,131,729,1149.0,420.0,sen_log,132.9,104.0,130.0,False,4671776,"[133,104]",json_ehandle,8
+8598616570,dire,9640842,Team Tidebound,sen,150961567,镜,131,948,1368.0,420.0,sen_log,160.7,146.2,129.0,False,5245599,"[161,146]",json_ehandle,8
+8598616570,dire,9640842,Team Tidebound,sen,150961567,镜,131,985,1054.0,69.0,sen_log,160.1,124.6,130.0,False,11945908,"[160,125]",json_ehandle,8
+8598616570,dire,9640842,Team Tidebound,sen,150961567,镜,131,1113,1533.0,420.0,sen_log,117.6,130.5,128.0,False,12388809,"[118,131]",json_ehandle,8
+8598616570,dire,9640842,Team Tidebound,sen,150961567,镜,131,1411,1831.0,420.0,sen_log,173.7,153.0,130.0,False,181539,"[174,153]",json_ehandle,8
+8598616570,dire,9640842,Team Tidebound,sen,150961567,镜,131,1695,2115.0,420.0,sen_log,157.4,132.5,130.0,False,6654743,"[157,133]",json_ehandle,8
+8598616570,dire,9640842,Team Tidebound,sen,150961567,镜,131,1722,2142.0,420.0,sen_log,142.9,151.6,129.0,False,14977242,"[143,152]",json_ehandle,8
+8598616570,dire,9640842,Team Tidebound,sen,150961567,镜,131,1798,2218.0,420.0,sen_log,136.2,155.7,131.1,False,13354730,"[136,156]",json_ehandle,8
+8598616570,dire,9640842,Team Tidebound,sen,150961567,镜,131,1851,1861.0,10.0,sen_log,136.8,123.8,128.9,False,755598,"[137,124]",json_ehandle,8
+8598616570,dire,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,132,936,1174.0,238.0,obs_log,136.1,155.7,131.1,False,4720982,"[136,156]",json_ehandle,9
+8598616570,dire,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,132,1017,1162.0,145.0,obs_log,107.5,169.9,130.0,False,2394133,"[108,170]",json_ehandle,9
+8598616570,dire,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,132,1061,1152.0,91.0,obs_log,108.1,144.7,128.0,False,4508272,"[108,145]",json_ehandle,9
+8598616570,dire,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,132,1448,1601.0,153.0,obs_log,164.2,134.1,132.1,False,12961779,"[164,134]",json_ehandle,9
+8598616570,dire,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,132,1541,1901.0,360.0,obs_log,118.0,94.2,131.2,False,67521,"[118,94]",json_ehandle,9
+8598616570,dire,9640842,Team Tidebound,obs,111114687,May thy knife chip and shatter,132,1728,1746.0,18.0,obs_log,136.4,155.9,131.1,False,7932791,"[136,156]",json_ehandle,9
+8598616570,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,42,148.0,106.0,sen_log,125.7,123.6,128.0,False,5179439,"[126,124]",json_ehandle,9
+8598616570,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,139,559.0,420.0,sen_log,98.5,170.1,129.0,False,14829148,"[99,170]",json_ehandle,9
+8598616570,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,251,671.0,420.0,sen_log,93.1,156.7,129.0,False,13437112,"[93,157]",json_ehandle,9
+8598616570,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,826,844.0,18.0,sen_log,121.0,129.9,128.0,False,14861916,"[121,130]",json_ehandle,9
+8598616570,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,926,1346.0,420.0,sen_log,140.6,139.3,129.0,False,2706128,"[141,139]",json_ehandle,9
+8598616570,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,1062,1153.0,91.0,sen_log,110.0,141.6,128.0,False,14010071,"[110,142]",json_ehandle,9
+8598616570,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,1297,1717.0,420.0,sen_log,121.3,178.0,129.0,False,14403415,"[121,178]",json_ehandle,9
+8598616570,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,1332,1525.0,193.0,sen_log,91.2,163.4,129.0,False,346013,"[91,163]",json_ehandle,9
+8598616570,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,1432,1602.0,170.0,sen_log,163.7,134.1,132.1,False,3476291,"[164,134]",json_ehandle,9
+8598616570,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,1622,1640.0,18.0,sen_log,151.4,160.8,129.0,False,11044877,"[151,161]",json_ehandle,9
+8598616570,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,1652,2072.0,420.0,sen_log,156.6,165.2,130.0,False,4901349,"[157,165]",json_ehandle,9
+8598616570,dire,9640842,Team Tidebound,sen,111114687,May thy knife chip and shatter,132,1884,2304.0,420.0,sen_log,170.5,155.6,130.0,False,8129633,"[171,156]",json_ehandle,9

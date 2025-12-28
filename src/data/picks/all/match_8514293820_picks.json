@@ -1,0 +1,70 @@
+{
+  "match_id": 8514293820,
+  "picks_bans": [],
+  "radiant_picks": [
+    {
+      "hero_id": 8,
+      "hero_name": null,
+      "player_slot": 0,
+      "account_id": 177203952
+    },
+    {
+      "hero_id": 38,
+      "hero_name": null,
+      "player_slot": 1,
+      "account_id": 292921272
+    },
+    {
+      "hero_id": 96,
+      "hero_name": null,
+      "player_slot": 2,
+      "account_id": 138880576
+    },
+    {
+      "hero_id": 88,
+      "hero_name": null,
+      "player_slot": 3,
+      "account_id": 157989498
+    },
+    {
+      "hero_id": 64,
+      "hero_name": null,
+      "player_slot": 4,
+      "account_id": 81306398
+    }
+  ],
+  "dire_picks": [
+    {
+      "hero_id": 51,
+      "hero_name": null,
+      "player_slot": 128,
+      "account_id": 16497807
+    },
+    {
+      "hero_id": 28,
+      "hero_name": null,
+      "player_slot": 129,
+      "account_id": 97590558
+    },
+    {
+      "hero_id": 99,
+      "hero_name": null,
+      "player_slot": 130,
+      "account_id": 201358612
+    },
+    {
+      "hero_id": 128,
+      "hero_name": null,
+      "player_slot": 131,
+      "account_id": 77490514
+    },
+    {
+      "hero_id": 72,
+      "hero_name": null,
+      "player_slot": 132,
+      "account_id": 152962063
+    }
+  ],
+  "radiant_bans": [],
+  "dire_bans": []
+}

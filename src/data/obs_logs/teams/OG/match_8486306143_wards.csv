@@ -1,0 +1,19 @@
+match_id,radiant_or_dire,team_id,team_name,ward_type,account_id,personal_name,player_slot,time,removed_time,lifetime,type,x,y,z,entityleft,ehandle,key,_matched_by,slot
+8486306143,radiant,2586976,OG,obs,919735867,creativity,0,4,364.0,360.0,obs_log,109.8,176.9,129.0,False,4704802,"[110,177]",json_ehandle,0
+8486306143,radiant,2586976,OG,obs,919735867,creativity,0,405,,,obs_log,107.5,184.4,129.0,False,14863678,"[108,184]",,0
+8486306143,radiant,2586976,OG,sen,919735867,creativity,0,54,474.0,420.0,sen_log,98.6,169.7,129.0,False,5213194,"[99,170]",json_ehandle,0
+8486306143,radiant,2586976,OG,sen,919735867,creativity,0,328,748.0,420.0,sen_log,77.4,163.5,129.0,False,2228506,"[77,164]",json_ehandle,0
+8486306143,radiant,2586976,OG,obs,87063175,Lelis,2,-33,327.0,360.0,obs_log,153.4,120.6,130.0,False,13240782,"[153,121]",json_ehandle,2
+8486306143,radiant,2586976,OG,obs,87063175,Lelis,2,303,,,obs_log,141.6,89.6,130.0,False,10537527,"[142,90]",,2
+8486306143,radiant,2586976,OG,obs,87063175,Lelis,2,544,,,obs_log,183.6,78.7,130.0,False,13831714,"[184,79]",,2
+8486306143,radiant,2586976,OG,sen,87063175,Lelis,2,119,160.0,41.0,sen_log,167.5,97.0,129.0,False,6556697,"[168,97]",json_ehandle,2
+8486306143,radiant,2586976,OG,sen,87063175,Lelis,2,169,175.0,6.0,sen_log,167.4,98.1,129.0,False,16075853,"[167,98]",json_ehandle,2
+8486306143,radiant,2586976,OG,obs,262476000,Aura,3,467,,,obs_log,95.7,130.3,130.0,False,1379317,"[96,130]",,3
+8486306143,dire,9798717,sifr00,obs,860706122,kinopoisk and chill,129,-57,303.0,360.0,obs_log,125.0,132.4,129.0,False,2705862,"[125,132]",json_ehandle,6
+8486306143,dire,9798717,sifr00,obs,1672994489,AiTest,130,263,623.0,360.0,obs_log,118.0,94.3,131.2,False,11783634,"[118,94]",json_ehandle,7
+8486306143,dire,9798717,sifr00,sen,1672994489,AiTest,130,2,422.0,420.0,sen_log,131.3,120.8,128.0,False,5949979,"[131,121]",json_ehandle,7
+8486306143,dire,9798717,sifr00,sen,1672994489,AiTest,130,54,474.0,420.0,sen_log,158.2,85.9,129.0,False,14781454,"[158,86]",json_ehandle,7
+8486306143,dire,9798717,sifr00,sen,1672994489,AiTest,130,157,171.0,14.0,sen_log,172.2,100.5,129.0,False,2264059,"[172,101]",json_ehandle,7
+8486306143,dire,9798717,sifr00,sen,1672994489,AiTest,130,172,592.0,420.0,sen_log,171.6,102.9,129.0,False,8489961,"[172,103]",json_ehandle,7
+8486306143,dire,9798717,sifr00,sen,1672994489,AiTest,130,367,787.0,420.0,sen_log,118.4,131.4,128.0,False,9784353,"[118,131]",json_ehandle,7
+8486306143,dire,9798717,sifr00,obs,1016753913,dota 2,131,-50,310.0,360.0,obs_log,120.1,151.8,130.0,False,10914250,"[120,152]",json_ehandle,8

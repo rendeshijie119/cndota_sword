@@ -1,0 +1,73 @@
+match_id,radiant_or_dire,team_id,team_name,ward_type,account_id,personal_name,player_slot,time,removed_time,lifetime,type,x,y,z,entityleft,ehandle,key,_matched_by,slot
+8510884183,radiant,9247354,Team Falcons,obs,10366616,Sneyking,1,348,500.0,152.0,obs_log,124.3,145.9,129.9,False,2393875,"[124,146]",json_ehandle,1
+8510884183,radiant,9247354,Team Falcons,obs,10366616,Sneyking,1,810,1170.0,360.0,obs_log,106.4,169.6,130.0,False,14273135,"[106,170]",json_ehandle,1
+8510884183,radiant,9247354,Team Falcons,obs,10366616,Sneyking,1,1155,1515.0,360.0,obs_log,145.0,143.8,129.0,False,2181319,"[145,144]",json_ehandle,1
+8510884183,radiant,9247354,Team Falcons,obs,10366616,Sneyking,1,1495,1910.0,415.0,obs_log,163.8,134.1,132.1,False,1328640,"[164,134]",json_ehandle,1
+8510884183,radiant,9247354,Team Falcons,sen,10366616,Sneyking,1,48,62.0,14.0,sen_log,83.2,162.3,129.0,False,10700808,"[83,162]",json_ehandle,1
+8510884183,radiant,9247354,Team Falcons,sen,10366616,Sneyking,1,63,82.0,19.0,sen_log,83.8,160.5,129.0,False,280656,"[84,161]",json_ehandle,1
+8510884183,radiant,9247354,Team Falcons,sen,10366616,Sneyking,1,118,226.0,108.0,sen_log,89.1,155.6,129.0,False,6489725,"[89,156]",json_ehandle,1
+8510884183,radiant,9247354,Team Falcons,sen,10366616,Sneyking,1,185,605.0,420.0,sen_log,75.0,162.9,129.0,False,15845465,"[75,163]",json_ehandle,1
+8510884183,radiant,9247354,Team Falcons,sen,10366616,Sneyking,1,343,584.0,241.0,sen_log,118.2,133.3,128.0,False,8783901,"[118,133]",json_ehandle,1
+8510884183,radiant,9247354,Team Falcons,sen,10366616,Sneyking,1,706,1126.0,420.0,sen_log,139.0,104.1,129.5,False,4998822,"[139,104]",json_ehandle,1
+8510884183,radiant,9247354,Team Falcons,sen,10366616,Sneyking,1,798,1218.0,420.0,sen_log,116.1,155.9,130.0,False,2640441,"[116,156]",json_ehandle,1
+8510884183,radiant,9247354,Team Falcons,sen,10366616,Sneyking,1,808,877.0,69.0,sen_log,106.3,170.0,130.0,False,13339228,"[106,170]",json_ehandle,1
+8510884183,radiant,9247354,Team Falcons,sen,10366616,Sneyking,1,1042,1191.0,149.0,sen_log,136.1,155.9,131.1,False,16484183,"[136,156]",json_ehandle,1
+8510884183,radiant,9247354,Team Falcons,sen,10366616,Sneyking,1,1155,1576.0,421.0,sen_log,145.0,143.7,129.0,False,6048491,"[145,144]",json_ehandle,1
+8510884183,radiant,9247354,Team Falcons,sen,10366616,Sneyking,1,1285,1705.0,420.0,sen_log,152.4,121.8,130.0,False,3328885,"[152,122]",json_ehandle,1
+8510884183,radiant,9247354,Team Falcons,sen,10366616,Sneyking,1,1348,1768.0,420.0,sen_log,176.6,141.9,129.0,False,3131203,"[177,142]",json_ehandle,1
+8510884183,radiant,9247354,Team Falcons,sen,10366616,Sneyking,1,1412,1833.0,421.0,sen_log,159.4,146.7,129.0,False,1684,"[159,147]",json_ehandle,1
+8510884183,radiant,9247354,Team Falcons,sen,10366616,Sneyking,1,1490,1910.0,420.0,sen_log,163.9,133.9,132.1,False,1853201,"[164,134]",json_ehandle,1
+8510884183,radiant,9247354,Team Falcons,sen,10366616,Sneyking,1,1507,1927.0,420.0,sen_log,175.7,147.4,129.7,False,14289361,"[176,147]",json_ehandle,1
+8510884183,radiant,9247354,Team Falcons,obs,898455820,Буська,2,-26,273.0,299.0,obs_log,125.7,119.7,129.0,False,7702034,"[126,120]",json_ehandle,2
+8510884183,radiant,9247354,Team Falcons,obs,898455820,Буська,2,585,942.0,357.0,obs_log,158.4,121.7,130.0,False,11273976,"[158,122]",json_ehandle,2
+8510884183,radiant,9247354,Team Falcons,sen,183719386,SumaoKy-,3,480,900.0,420.0,sen_log,66.2,142.2,132.2,False,11439022,"[66,142]",json_ehandle,3
+8510884183,radiant,9247354,Team Falcons,sen,183719386,SumaoKy-,3,596,653.0,57.0,sen_log,83.1,153.7,129.0,False,13600757,"[83,154]",json_ehandle,3
+8510884183,radiant,9247354,Team Falcons,obs,25907144,ik lavet penge,4,-60,299.0,359.0,obs_log,138.9,103.0,130.0,False,3966468,"[139,103]",json_ehandle,4
+8510884183,radiant,9247354,Team Falcons,obs,25907144,ik lavet penge,4,300,660.0,360.0,obs_log,140.1,91.3,130.0,False,4376976,"[140,91]",json_ehandle,4
+8510884183,radiant,9247354,Team Falcons,obs,25907144,ik lavet penge,4,937,1297.0,360.0,obs_log,126.2,157.7,130.0,False,6687728,"[126,158]",json_ehandle,4
+8510884183,radiant,9247354,Team Falcons,obs,25907144,ik lavet penge,4,1229,,,obs_log,187.8,115.9,132.1,False,329649,"[188,116]",,4
+8510884183,radiant,9247354,Team Falcons,obs,25907144,ik lavet penge,4,1239,1475.0,236.0,obs_log,164.2,134.0,132.1,False,411298,"[164,134]",json_ehandle,4
+8510884183,radiant,9247354,Team Falcons,obs,25907144,ik lavet penge,4,1504,,,obs_log,167.5,149.6,130.0,False,3523804,"[168,150]",,4
+8510884183,radiant,9247354,Team Falcons,sen,25907144,ik lavet penge,4,72,185.0,113.0,sen_log,156.2,88.0,129.0,False,3016845,"[156,88]",json_ehandle,4
+8510884183,radiant,9247354,Team Falcons,sen,25907144,ik lavet penge,4,288,708.0,420.0,sen_log,156.2,88.3,129.0,False,14321251,"[156,88]",json_ehandle,4
+8510884183,radiant,9247354,Team Falcons,sen,25907144,ik lavet penge,4,349,769.0,420.0,sen_log,118.0,94.2,131.2,False,11831702,"[118,94]",json_ehandle,4
+8510884183,radiant,9247354,Team Falcons,sen,25907144,ik lavet penge,4,563,983.0,420.0,sen_log,130.7,119.6,128.0,False,2853254,"[131,120]",json_ehandle,4
+8510884183,radiant,9247354,Team Falcons,sen,25907144,ik lavet penge,4,880,1300.0,420.0,sen_log,109.5,171.3,129.0,False,11618096,"[110,171]",json_ehandle,4
+8510884183,radiant,9247354,Team Falcons,sen,25907144,ik lavet penge,4,1167,1587.0,420.0,sen_log,93.3,161.5,129.0,False,5768399,"[93,162]",json_ehandle,4
+8510884183,radiant,9247354,Team Falcons,sen,25907144,ik lavet penge,4,1177,1598.0,421.0,sen_log,89.9,170.4,129.0,False,11209659,"[90,170]",json_ehandle,4
+8510884183,dire,9351740,Yakult Brothers,sen,168028715,999,128,875,884.0,9.0,sen_log,106.0,169.1,130.0,False,1870564,"[106,169]",json_ehandle,5
+8510884183,dire,9351740,Yakult Brothers,obs,202217968,P,129,-33,327.0,360.0,obs_log,128.1,118.5,129.0,False,14632462,"[128,119]",json_ehandle,6
+8510884183,dire,9351740,Yakult Brothers,obs,207829314,一切以旮旯给木为准,131,307,668.0,361.0,obs_log,136.4,108.3,130.0,False,3410419,"[136,108]",json_ehandle,8
+8510884183,dire,9351740,Yakult Brothers,obs,207829314,一切以旮旯给木为准,131,509,869.0,360.0,obs_log,115.9,142.0,130.0,False,6113023,"[116,142]",json_ehandle,8
+8510884183,dire,9351740,Yakult Brothers,obs,207829314,一切以旮旯给木为准,131,884,1244.0,360.0,obs_log,118.2,187.8,130.0,False,7260973,"[118,188]",json_ehandle,8
+8510884183,dire,9351740,Yakult Brothers,sen,207829314,一切以旮旯给木为准,131,47,79.0,32.0,sen_log,159.1,89.9,129.0,False,12666433,"[159,90]",json_ehandle,8
+8510884183,dire,9351740,Yakult Brothers,sen,207829314,一切以旮旯给木为准,131,179,294.0,115.0,sen_log,160.2,91.4,129.0,False,3131511,"[160,91]",json_ehandle,8
+8510884183,dire,9351740,Yakult Brothers,sen,207829314,一切以旮旯给木为准,131,267,567.0,300.0,sen_log,130.8,120.0,128.0,False,7096422,"[131,120]",json_ehandle,8
+8510884183,dire,9351740,Yakult Brothers,sen,207829314,一切以旮旯给木为准,131,296,716.0,420.0,sen_log,134.8,100.6,130.0,False,12650482,"[135,101]",json_ehandle,8
+8510884183,dire,9351740,Yakult Brothers,sen,207829314,一切以旮旯给木为准,131,496,916.0,420.0,sen_log,126.3,143.4,129.0,False,10143717,"[126,143]",json_ehandle,8
+8510884183,dire,9351740,Yakult Brothers,sen,207829314,一切以旮旯给木为准,131,520,940.0,420.0,sen_log,98.8,137.5,130.0,False,7833156,"[99,138]",json_ehandle,8
+8510884183,dire,9351740,Yakult Brothers,sen,207829314,一切以旮旯给木为准,131,882,1302.0,420.0,sen_log,121.8,187.1,129.0,False,592287,"[122,187]",json_ehandle,8
+8510884183,dire,9351740,Yakult Brothers,sen,207829314,一切以旮旯给木为准,131,1286,1706.0,420.0,sen_log,147.7,175.5,129.0,False,7227903,"[148,176]",json_ehandle,8
+8510884183,dire,9351740,Yakult Brothers,obs,76904792,ahchin,132,-53,307.0,360.0,obs_log,113.9,150.0,130.0,False,15713801,"[114,150]",json_ehandle,9
+8510884183,dire,9351740,Yakult Brothers,obs,76904792,ahchin,132,418,482.0,64.0,obs_log,65.7,141.8,132.2,False,7277218,"[66,142]",json_ehandle,9
+8510884183,dire,9351740,Yakult Brothers,obs,76904792,ahchin,132,499,801.0,302.0,obs_log,116.6,159.1,130.0,False,14173883,"[117,159]",json_ehandle,9
+8510884183,dire,9351740,Yakult Brothers,obs,76904792,ahchin,132,791,1151.0,360.0,obs_log,102.0,159.7,130.0,False,14175034,"[102,160]",json_ehandle,9
+8510884183,dire,9351740,Yakult Brothers,obs,76904792,ahchin,132,938,1298.0,360.0,obs_log,150.8,115.6,130.0,False,14010794,"[151,116]",json_ehandle,9
+8510884183,dire,9351740,Yakult Brothers,obs,76904792,ahchin,132,1192,1609.0,417.0,obs_log,136.0,155.9,131.1,False,8325549,"[136,156]",json_ehandle,9
+8510884183,dire,9351740,Yakult Brothers,obs,76904792,ahchin,132,1343,,,obs_log,136.2,108.1,130.0,False,9374615,"[136,108]",json_cell,9
+8510884183,dire,9351740,Yakult Brothers,obs,76904792,ahchin,132,1473,1492.0,19.0,obs_log,164.0,134.2,132.1,False,2312981,"[164,134]",json_ehandle,9
+8510884183,dire,9351740,Yakult Brothers,obs,76904792,ahchin,132,1492,,,obs_log,180.8,131.8,129.0,False,8751099,"[181,132]",,9
+8510884183,dire,9351740,Yakult Brothers,sen,76904792,ahchin,132,57,65.0,8.0,sen_log,87.4,162.3,129.0,False,67659,"[87,162]",json_ehandle,9
+8510884183,dire,9351740,Yakult Brothers,sen,76904792,ahchin,132,68,122.0,54.0,sen_log,88.2,158.1,129.0,False,7047270,"[88,158]",json_ehandle,9
+8510884183,dire,9351740,Yakult Brothers,sen,76904792,ahchin,132,215,635.0,420.0,sen_log,88.1,158.4,129.0,False,4983245,"[88,158]",json_ehandle,9
+8510884183,dire,9351740,Yakult Brothers,sen,76904792,ahchin,132,581,1001.0,420.0,sen_log,117.3,129.7,128.0,False,7243578,"[117,130]",json_ehandle,9
+8510884183,dire,9351740,Yakult Brothers,sen,76904792,ahchin,132,650,1070.0,420.0,sen_log,85.6,156.8,129.0,False,2443916,"[86,157]",json_ehandle,9
+8510884183,dire,9351740,Yakult Brothers,sen,76904792,ahchin,132,939,1288.0,349.0,sen_log,152.7,121.8,130.0,False,15109067,"[153,122]",json_ehandle,9
+8510884183,dire,9351740,Yakult Brothers,sen,76904792,ahchin,132,989,1409.0,420.0,sen_log,158.9,92.8,129.0,False,6408920,"[159,93]",json_ehandle,9
+8510884183,dire,9351740,Yakult Brothers,sen,76904792,ahchin,132,1011,1431.0,420.0,sen_log,140.8,80.2,128.4,False,215399,"[141,80]",json_ehandle,9
+8510884183,dire,9351740,Yakult Brothers,sen,76904792,ahchin,132,1152,1572.0,420.0,sen_log,159.6,164.5,130.0,False,1459958,"[160,165]",json_ehandle,9
+8510884183,dire,9351740,Yakult Brothers,sen,76904792,ahchin,132,1167,1495.0,328.0,sen_log,159.1,136.7,130.0,False,3818729,"[159,137]",json_ehandle,9
+8510884183,dire,9351740,Yakult Brothers,sen,76904792,ahchin,132,1189,1609.0,420.0,sen_log,136.0,156.0,131.1,False,12830897,"[136,156]",json_ehandle,9
+8510884183,dire,9351740,Yakult Brothers,sen,76904792,ahchin,132,1288,1708.0,420.0,sen_log,165.7,153.4,130.0,False,13207511,"[166,153]",json_ehandle,9
+8510884183,dire,9351740,Yakult Brothers,sen,76904792,ahchin,132,1345,1765.0,420.0,sen_log,137.7,103.6,130.0,False,16124163,"[138,104]",json_ehandle,9
+8510884183,dire,9351740,Yakult Brothers,sen,76904792,ahchin,132,1488,1908.0,420.0,sen_log,190.2,135.0,130.0,False,6457475,"[190,135]",json_ehandle,9

@@ -1,0 +1,74 @@
+match_id,radiant_or_dire,team_id,team_name,ward_type,account_id,personal_name,player_slot,time,removed_time,lifetime,type,x,y,z,entityleft,ehandle,key,_matched_by,slot
+8449168759,radiant,9303484,HEROIC,obs,177203952,Yuma,0,1555,,,obs_log,112.8,67.8,129.0,False,2787894,"[113,68]",,0
+8449168759,radiant,9303484,HEROIC,sen,131303632,4nalog,1,329,368.0,39.0,sen_log,152.1,117.0,130.0,False,6621024,"[152,117]",json_ehandle,1
+8449168759,radiant,9303484,HEROIC,sen,131303632,4nalog,1,388,578.0,190.0,sen_log,123.7,133.2,129.0,False,8751898,"[124,133]",json_ehandle,1
+8449168759,radiant,9303484,HEROIC,obs,157989498,Chalise,3,291,651.0,360.0,obs_log,80.6,170.2,129.0,False,7210598,"[81,170]",json_ehandle,3
+8449168759,radiant,9303484,HEROIC,obs,157989498,Chalise,3,401,761.0,360.0,obs_log,127.1,162.9,129.0,False,1854298,"[127,163]",json_ehandle,3
+8449168759,radiant,9303484,HEROIC,obs,157989498,Chalise,3,553,584.0,31.0,obs_log,180.2,97.3,129.0,False,4015912,"[180,97]",json_ehandle,3
+8449168759,radiant,9303484,HEROIC,obs,157989498,Chalise,3,1039,1399.0,360.0,obs_log,170.2,89.1,129.0,False,2852874,"[170,89]",json_ehandle,3
+8449168759,radiant,9303484,HEROIC,obs,157989498,Chalise,3,1331,,,obs_log,106.6,188.2,128.0,False,15026659,"[107,188]",,3
+8449168759,radiant,9303484,HEROIC,obs,157989498,Chalise,3,1465,,,obs_log,170.6,88.8,129.0,False,15025795,"[171,89]",,3
+8449168759,radiant,9303484,HEROIC,sen,157989498,Chalise,3,49,431.0,382.0,sen_log,95.2,164.1,129.0,False,15681218,"[95,164]",json_ehandle,3
+8449168759,radiant,9303484,HEROIC,sen,157989498,Chalise,3,391,811.0,420.0,sen_log,133.3,145.6,129.0,False,6392606,"[133,146]",json_ehandle,3
+8449168759,radiant,9303484,HEROIC,sen,157989498,Chalise,3,684,1105.0,421.0,sen_log,84.9,184.0,129.0,False,297574,"[85,184]",json_ehandle,3
+8449168759,radiant,9303484,HEROIC,obs,81306398,сознание,4,-35,-10.0,25.0,obs_log,148.5,126.4,130.0,False,15222022,"[149,126]",json_ehandle,4
+8449168759,radiant,9303484,HEROIC,obs,81306398,сознание,4,382,742.0,360.0,obs_log,152.3,96.5,130.0,False,1805064,"[152,97]",json_ehandle,4
+8449168759,radiant,9303484,HEROIC,obs,81306398,сознание,4,620,980.0,360.0,obs_log,134.3,112.5,130.0,False,11273904,"[134,113]",json_ehandle,4
+8449168759,radiant,9303484,HEROIC,obs,81306398,сознание,4,822,934.0,112.0,obs_log,187.8,115.8,132.1,False,6818426,"[188,116]",json_ehandle,4
+8449168759,radiant,9303484,HEROIC,obs,81306398,сознание,4,934,1294.0,360.0,obs_log,85.1,187.0,128.9,False,10307653,"[85,187]",json_ehandle,4
+8449168759,radiant,9303484,HEROIC,obs,81306398,сознание,4,1154,1514.0,360.0,obs_log,134.0,112.4,130.0,False,10864551,"[134,112]",json_ehandle,4
+8449168759,radiant,9303484,HEROIC,sen,81306398,сознание,4,-28,392.0,420.0,sen_log,143.9,121.6,130.0,False,13157093,"[144,122]",json_ehandle,4
+8449168759,radiant,9303484,HEROIC,sen,81306398,сознание,4,-22,398.0,420.0,sen_log,123.8,120.0,129.0,False,3802625,"[124,120]",json_ehandle,4
+8449168759,radiant,9303484,HEROIC,sen,81306398,сознание,4,231,652.0,421.0,sen_log,151.4,88.8,130.0,False,10847823,"[151,89]",json_ehandle,4
+8449168759,radiant,9303484,HEROIC,sen,81306398,сознание,4,505,541.0,36.0,sen_log,136.5,124.0,129.0,False,1165244,"[137,124]",json_ehandle,4
+8449168759,radiant,9303484,HEROIC,sen,81306398,сознание,4,537,782.0,245.0,sen_log,156.9,117.4,130.0,False,4179806,"[157,117]",json_ehandle,4
+8449168759,radiant,9303484,HEROIC,sen,81306398,сознание,4,738,901.0,163.0,sen_log,99.0,130.7,130.0,False,7572311,"[99,131]",json_ehandle,4
+8449168759,radiant,9303484,HEROIC,sen,81306398,сознание,4,741,1161.0,420.0,sen_log,93.3,131.4,130.0,False,13535015,"[93,131]",json_ehandle,4
+8449168759,radiant,9303484,HEROIC,sen,81306398,сознание,4,797,1217.0,420.0,sen_log,187.1,77.1,130.0,False,13798111,"[187,77]",json_ehandle,4
+8449168759,radiant,9303484,HEROIC,sen,81306398,сознание,4,824,938.0,114.0,sen_log,183.1,115.1,129.0,False,2411371,"[183,115]",json_ehandle,4
+8449168759,radiant,9303484,HEROIC,sen,81306398,сознание,4,927,1347.0,420.0,sen_log,69.1,183.3,130.0,False,10160722,"[69,183]",json_ehandle,4
+8449168759,radiant,9303484,HEROIC,sen,81306398,сознание,4,983,1403.0,420.0,sen_log,90.3,149.9,128.0,False,13256719,"[90,150]",json_ehandle,4
+8449168759,radiant,9303484,HEROIC,sen,81306398,сознание,4,998,1418.0,420.0,sen_log,101.6,120.6,130.0,False,16239365,"[102,121]",json_ehandle,4
+8449168759,radiant,9303484,HEROIC,sen,81306398,сознание,4,1156,1576.0,420.0,sen_log,131.4,122.0,128.0,False,5245648,"[131,122]",json_ehandle,4
+8449168759,radiant,9303484,HEROIC,sen,81306398,сознание,4,1290,,,sen_log,171.5,93.2,129.0,False,3787650,"[172,93]",,4
+8449168759,radiant,9303484,HEROIC,sen,81306398,сознание,4,1383,,,sen_log,138.3,91.9,130.0,False,2362267,"[138,92]",,4
+8449168759,radiant,9303484,HEROIC,sen,81306398,сознание,4,1413,,,sen_log,124.3,98.0,129.0,False,13289830,"[124,98]",,4
+8449168759,radiant,9303484,HEROIC,sen,81306398,сознание,4,1659,,,sen_log,99.8,183.2,129.0,False,16600254,"[100,183]",,4
+8449168759,dire,8291895,Tundra Esports,obs,140288368,Dark,129,387,747.0,360.0,obs_log,183.6,91.7,129.0,False,1198867,"[184,92]",json_ehandle,6
+8449168759,dire,8291895,Tundra Esports,obs,140288368,Dark,129,643,1002.0,359.0,obs_log,94.2,120.0,132.2,False,15223253,"[94,120]",json_ehandle,6
+8449168759,dire,8291895,Tundra Esports,obs,140288368,Dark,129,943,1303.0,360.0,obs_log,168.1,106.9,129.0,False,14993752,"[168,107]",json_ehandle,6
+8449168759,dire,8291895,Tundra Esports,obs,140288368,Dark,129,1216,1292.0,76.0,obs_log,172.9,86.1,129.0,False,7358640,"[173,86]",json_ehandle,6
+8449168759,dire,8291895,Tundra Esports,obs,140288368,Dark,129,1299,1544.0,245.0,obs_log,158.7,118.9,130.0,False,2050219,"[159,119]",json_ehandle,6
+8449168759,dire,8291895,Tundra Esports,sen,140288368,Dark,129,-19,402.0,421.0,sen_log,98.1,136.3,130.0,False,16139790,"[98,136]",json_ehandle,6
+8449168759,dire,8291895,Tundra Esports,sen,140288368,Dark,129,-9,411.0,420.0,sen_log,88.1,158.2,129.0,False,1885747,"[88,158]",json_ehandle,6
+8449168759,dire,8291895,Tundra Esports,sen,140288368,Dark,129,480,900.0,420.0,sen_log,144.0,116.6,128.0,False,8030228,"[144,117]",json_ehandle,6
+8449168759,dire,8291895,Tundra Esports,sen,140288368,Dark,129,573,993.0,420.0,sen_log,120.5,132.3,128.0,False,9374570,"[121,132]",json_ehandle,6
+8449168759,dire,8291895,Tundra Esports,sen,140288368,Dark,129,797,1217.0,420.0,sen_log,119.3,152.4,130.0,False,1345460,"[119,152]",json_ehandle,6
+8449168759,dire,8291895,Tundra Esports,sen,140288368,Dark,129,803,1224.0,421.0,sen_log,108.3,162.7,130.0,False,8110311,"[108,163]",json_ehandle,6
+8449168759,dire,8291895,Tundra Esports,sen,140288368,Dark,129,930,1350.0,420.0,sen_log,181.2,112.7,129.0,False,10374118,"[181,113]",json_ehandle,6
+8449168759,dire,8291895,Tundra Esports,sen,140288368,Dark,129,943,1363.0,420.0,sen_log,168.1,106.9,129.0,False,12110348,"[168,107]",json_ehandle,6
+8449168759,dire,8291895,Tundra Esports,sen,140288368,Dark,129,1216,1293.0,77.0,sen_log,172.9,86.1,129.0,False,1675,"[173,86]",json_ehandle,6
+8449168759,dire,8291895,Tundra Esports,sen,140288368,Dark,129,1299,1543.0,244.0,sen_log,158.7,118.9,130.0,False,7882292,"[159,119]",json_ehandle,6
+8449168759,dire,8291895,Tundra Esports,obs,127617979,ad hominem passive agressiveness,130,-7,353.0,360.0,obs_log,77.6,155.0,129.0,False,14992954,"[78,155]",json_ehandle,7
+8449168759,dire,8291895,Tundra Esports,obs,93618577,BRUCE-,131,-37,-27.0,10.0,obs_log,142.0,121.9,129.0,False,15434466,"[142,122]",json_ehandle,8
+8449168759,dire,8291895,Tundra Esports,obs,93618577,BRUCE-,131,578,938.0,360.0,obs_log,151.9,129.2,130.0,False,2034472,"[152,129]",json_ehandle,8
+8449168759,dire,8291895,Tundra Esports,sen,93618577,BRUCE-,131,538,958.0,420.0,sen_log,132.2,123.0,128.0,False,8752000,"[132,123]",json_ehandle,8
+8449168759,dire,8291895,Tundra Esports,obs,103735745,lostreak chicken,132,485,845.0,360.0,obs_log,124.6,157.9,130.0,False,329543,"[125,158]",json_ehandle,9
+8449168759,dire,8291895,Tundra Esports,obs,103735745,lostreak chicken,132,651,1011.0,360.0,obs_log,94.4,183.9,129.0,False,11782881,"[94,184]",json_ehandle,9
+8449168759,dire,8291895,Tundra Esports,obs,103735745,lostreak chicken,132,914,1274.0,360.0,obs_log,85.9,165.5,129.0,False,3131525,"[86,166]",json_ehandle,9
+8449168759,dire,8291895,Tundra Esports,obs,103735745,lostreak chicken,132,1174,1534.0,360.0,obs_log,193.0,126.7,130.0,False,2476849,"[193,127]",json_ehandle,9
+8449168759,dire,8291895,Tundra Esports,obs,103735745,lostreak chicken,132,1463,1504.0,41.0,obs_log,124.7,157.9,130.0,False,12420781,"[125,158]",json_ehandle,9
+8449168759,dire,8291895,Tundra Esports,obs,103735745,lostreak chicken,132,1577,,,obs_log,152.5,128.9,130.0,False,12028074,"[153,129]",json_cell,9
+8449168759,dire,8291895,Tundra Esports,sen,103735745,lostreak chicken,132,18,438.0,420.0,sen_log,154.1,121.6,130.0,False,12699369,"[154,122]",json_ehandle,9
+8449168759,dire,8291895,Tundra Esports,sen,103735745,lostreak chicken,132,426,846.0,420.0,sen_log,93.3,170.9,129.0,False,3460032,"[93,171]",json_ehandle,9
+8449168759,dire,8291895,Tundra Esports,sen,103735745,lostreak chicken,132,545,965.0,420.0,sen_log,146.3,131.4,129.0,False,6867589,"[146,131]",json_ehandle,9
+8449168759,dire,8291895,Tundra Esports,sen,103735745,lostreak chicken,132,580,1000.0,420.0,sen_log,182.8,95.4,129.0,False,7096536,"[183,95]",json_ehandle,9
+8449168759,dire,8291895,Tundra Esports,sen,103735745,lostreak chicken,132,778,1198.0,420.0,sen_log,155.0,121.5,130.0,False,11061671,"[155,122]",json_ehandle,9
+8449168759,dire,8291895,Tundra Esports,sen,103735745,lostreak chicken,132,897,1060.0,163.0,sen_log,97.0,130.8,130.0,False,10455822,"[97,131]",json_ehandle,9
+8449168759,dire,8291895,Tundra Esports,sen,103735745,lostreak chicken,132,942,1362.0,420.0,sen_log,92.8,179.8,129.0,False,13060377,"[93,180]",json_ehandle,9
+8449168759,dire,8291895,Tundra Esports,sen,103735745,lostreak chicken,132,960,1380.0,420.0,sen_log,123.3,186.2,129.0,False,1312746,"[123,186]",json_ehandle,9
+8449168759,dire,8291895,Tundra Esports,sen,103735745,lostreak chicken,132,1037,1457.0,420.0,sen_log,92.4,162.8,129.0,False,3623827,"[92,163]",json_ehandle,9
+8449168759,dire,8291895,Tundra Esports,sen,103735745,lostreak chicken,132,1169,1589.0,420.0,sen_log,191.0,131.0,130.0,False,985499,"[191,131]",json_ehandle,9
+8449168759,dire,8291895,Tundra Esports,sen,103735745,lostreak chicken,132,1348,,,sen_log,157.3,92.1,129.0,False,6114221,"[157,92]",,9
+8449168759,dire,8291895,Tundra Esports,sen,103735745,lostreak chicken,132,1460,,,sen_log,131.4,154.6,129.0,False,7473993,"[131,155]",,9
+8449168759,dire,8291895,Tundra Esports,sen,103735745,lostreak chicken,132,1576,,,sen_log,158.7,133.1,130.0,False,1444829,"[159,133]",,9

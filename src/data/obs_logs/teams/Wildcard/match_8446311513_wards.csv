@@ -1,0 +1,135 @@
+match_id,radiant_or_dire,team_id,team_name,ward_type,account_id,personal_name,player_slot,time,removed_time,lifetime,type,x,y,z,entityleft,ehandle,key,_matched_by,slot
+8446311513,radiant,7119388,Team Spirit,obs,321580662,ryuzaki,0,723,1083.0,360.0,obs_log,148.1,89.9,130.0,False,12060642,"[148,90]",json_ehandle,0
+8446311513,radiant,7119388,Team Spirit,obs,113331514,an0nymus,1,357,718.0,361.0,obs_log,146.6,109.1,128.0,False,11618106,"[147,109]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,obs,113331514,an0nymus,1,908,1177.0,269.0,obs_log,117.2,118.6,129.0,False,15960860,"[117,119]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,obs,113331514,an0nymus,1,1155,1515.0,360.0,obs_log,126.8,127.9,129.0,False,13370951,"[127,128]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,obs,113331514,an0nymus,1,1431,1467.0,36.0,obs_log,161.9,123.7,130.0,False,5737747,"[162,124]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,obs,113331514,an0nymus,1,1649,1749.0,100.0,obs_log,187.6,115.9,132.1,False,14830379,"[188,116]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,obs,113331514,an0nymus,1,1757,2117.0,360.0,obs_log,132.2,129.4,129.0,False,11454798,"[132,129]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,obs,113331514,an0nymus,1,1941,1953.0,12.0,obs_log,127.9,98.7,129.9,False,11913605,"[128,99]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,obs,113331514,an0nymus,1,2358,2718.0,360.0,obs_log,143.2,138.6,129.0,False,8981459,"[143,139]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,obs,113331514,an0nymus,1,2754,2775.0,21.0,obs_log,119.2,157.0,130.0,False,8932423,"[119,157]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,obs,113331514,an0nymus,1,2872,,,obs_log,120.8,137.3,129.0,False,9340168,"[121,137]",,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,55,475.0,420.0,sen_log,165.9,99.5,129.0,False,1329354,"[166,100]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,86,506.0,420.0,sen_log,156.2,88.5,129.0,False,7473650,"[156,89]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,597,846.0,249.0,sen_log,125.6,122.1,128.0,False,1525889,"[126,122]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,754,1174.0,420.0,sen_log,163.2,100.3,129.0,False,5867372,"[163,100]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,908,1180.0,272.0,sen_log,117.2,118.6,129.0,False,6785597,"[117,119]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,959,1380.0,421.0,sen_log,133.0,113.3,129.0,False,3966583,"[133,113]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,1005,1426.0,421.0,sen_log,96.5,130.6,130.0,False,8063082,"[97,131]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,1155,1575.0,420.0,sen_log,126.8,127.9,129.0,False,8899203,"[127,128]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,1168,1204.0,36.0,sen_log,115.4,136.5,128.0,False,1640799,"[115,137]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,1304,1724.0,420.0,sen_log,125.8,93.8,129.0,False,7423687,"[126,94]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,1448,1868.0,420.0,sen_log,154.3,122.3,130.0,False,11028989,"[154,122]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,1557,1977.0,420.0,sen_log,94.1,119.8,132.2,False,10717608,"[94,120]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,1607,2027.0,420.0,sen_log,184.5,73.3,130.0,False,4213515,"[185,73]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,1649,1752.0,103.0,sen_log,187.6,115.9,132.1,False,6507076,"[188,116]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,1754,2174.0,420.0,sen_log,131.0,124.3,128.0,False,14142287,"[131,124]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,1789,2209.0,420.0,sen_log,164.1,133.6,132.1,False,14336255,"[164,134]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,1908,2329.0,421.0,sen_log,111.4,97.7,129.0,False,7391519,"[111,98]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,1942,2362.0,420.0,sen_log,127.9,98.7,129.9,False,12717031,"[128,99]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,1992,2412.0,420.0,sen_log,131.3,109.6,130.0,False,11716263,"[131,110]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,2065,2485.0,420.0,sen_log,145.9,105.1,128.0,False,11354850,"[146,105]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,2208,2321.0,113.0,sen_log,131.4,153.5,129.0,False,2148277,"[131,154]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,2355,2775.0,420.0,sen_log,142.6,136.7,129.0,False,9653732,"[143,137]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,2715,,,sen_log,96.9,130.3,130.0,False,9568986,"[97,130]",,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,2719,,,sen_log,112.3,125.7,129.0,False,4705335,"[112,126]",,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,2755,2778.0,23.0,sen_log,119.2,157.0,130.0,False,7015682,"[119,157]",json_ehandle,1
+8446311513,radiant,7119388,Team Spirit,sen,113331514,an0nymus,1,2872,,,sen_log,120.8,137.3,129.0,False,6834563,"[121,137]",,1
+8446311513,radiant,7119388,Team Spirit,obs,106305042,RUEINA,2,359,719.0,360.0,obs_log,130.1,114.6,129.0,False,4147104,"[130,115]",json_ehandle,2
+8446311513,radiant,7119388,Team Spirit,sen,106305042,RUEINA,2,270,309.0,39.0,sen_log,122.1,130.6,128.0,False,8620228,"[122,131]",json_ehandle,2
+8446311513,radiant,7119388,Team Spirit,obs,847565596,123,3,-31,329.0,360.0,obs_log,142.8,90.8,130.0,False,11289315,"[143,91]",json_ehandle,3
+8446311513,radiant,7119388,Team Spirit,obs,847565596,123,3,392,752.0,360.0,obs_log,94.0,120.4,132.2,False,2574932,"[94,120]",json_ehandle,3
+8446311513,radiant,7119388,Team Spirit,obs,847565596,123,3,925,946.0,21.0,obs_log,169.8,90.0,129.0,False,10390336,"[170,90]",json_ehandle,3
+8446311513,radiant,7119388,Team Spirit,obs,847565596,123,3,959,1319.0,360.0,obs_log,146.3,98.4,130.0,False,15337500,"[146,98]",json_ehandle,3
+8446311513,radiant,7119388,Team Spirit,obs,847565596,123,3,1190,1550.0,360.0,obs_log,72.6,191.6,130.0,False,2033590,"[73,192]",json_ehandle,3
+8446311513,radiant,7119388,Team Spirit,obs,847565596,123,3,1506,1866.0,360.0,obs_log,76.3,134.5,129.0,False,8554767,"[76,135]",json_ehandle,3
+8446311513,radiant,7119388,Team Spirit,obs,847565596,123,3,2007,2022.0,15.0,obs_log,147.5,118.9,130.0,False,12175965,"[148,119]",json_ehandle,3
+8446311513,radiant,7119388,Team Spirit,obs,847565596,123,3,2207,2258.0,51.0,obs_log,135.8,155.8,131.1,False,13667807,"[136,156]",json_ehandle,3
+8446311513,radiant,7119388,Team Spirit,obs,847565596,123,3,2443,2803.0,360.0,obs_log,82.3,192.2,130.0,False,460997,"[82,192]",json_ehandle,3
+8446311513,radiant,7119388,Team Spirit,obs,847565596,123,3,2712,,,obs_log,96.5,154.1,128.8,False,6194786,"[97,154]",,3
+8446311513,radiant,7119388,Team Spirit,obs,847565596,123,3,2953,,,obs_log,188.3,115.7,132.1,False,9375057,"[188,116]",json_cell,3
+8446311513,radiant,7119388,Team Spirit,sen,847565596,123,3,59,88.0,29.0,sen_log,95.0,164.2,129.0,False,8669414,"[95,164]",json_ehandle,3
+8446311513,radiant,7119388,Team Spirit,sen,847565596,123,3,362,374.0,12.0,sen_log,118.4,133.2,128.0,False,7489300,"[118,133]",json_ehandle,3
+8446311513,radiant,7119388,Team Spirit,sen,847565596,123,3,384,804.0,420.0,sen_log,96.4,131.5,130.0,False,7849225,"[96,132]",json_ehandle,3
+8446311513,radiant,7119388,Team Spirit,sen,847565596,123,3,561,982.0,421.0,sen_log,89.6,145.9,129.0,False,14633798,"[90,146]",json_ehandle,3
+8446311513,radiant,7119388,Team Spirit,sen,847565596,123,3,908,1328.0,420.0,sen_log,135.8,101.1,130.0,False,1051075,"[136,101]",json_ehandle,3
+8446311513,radiant,7119388,Team Spirit,sen,847565596,123,3,1083,1503.0,420.0,sen_log,91.9,166.3,129.0,False,5277638,"[92,166]",json_ehandle,3
+8446311513,radiant,7119388,Team Spirit,sen,847565596,123,3,1183,1581.0,398.0,sen_log,70.7,183.0,130.0,False,2427502,"[71,183]",json_ehandle,3
+8446311513,radiant,7119388,Team Spirit,sen,847565596,123,3,1293,1713.0,420.0,sen_log,116.1,107.0,129.0,False,14288873,"[116,107]",json_ehandle,3
+8446311513,radiant,7119388,Team Spirit,sen,847565596,123,3,1509,1929.0,420.0,sen_log,66.1,135.6,130.0,False,3689743,"[66,136]",json_ehandle,3
+8446311513,radiant,7119388,Team Spirit,sen,847565596,123,3,1552,1972.0,420.0,sen_log,82.0,130.9,129.0,False,8686676,"[82,131]",json_ehandle,3
+8446311513,radiant,7119388,Team Spirit,sen,847565596,123,3,1986,2406.0,420.0,sen_log,139.8,98.8,130.0,False,2754359,"[140,99]",json_ehandle,3
+8446311513,radiant,7119388,Team Spirit,sen,847565596,123,3,2438,2858.0,420.0,sen_log,70.5,183.8,130.0,False,11305196,"[71,184]",json_ehandle,3
+8446311513,radiant,7119388,Team Spirit,sen,847565596,123,3,2713,,,sen_log,95.7,150.4,128.0,False,5963990,"[96,150]",,3
+8446311513,radiant,7119388,Team Spirit,sen,847565596,123,3,2954,,,sen_log,192.7,118.0,130.0,False,16124540,"[193,118]",,3
+8446311513,radiant,7119388,Team Spirit,sen,847565596,123,3,2989,,,sen_log,189.4,132.2,130.0,False,13995327,"[189,132]",,3
+8446311513,radiant,7119388,Team Spirit,obs,302214028,bobi,4,-25,335.0,360.0,obs_log,127.4,118.1,129.0,False,427276,"[127,118]",json_ehandle,4
+8446311513,dire,9651185,Wildcard,obs,191362875,Speeed,128,-54,307.0,361.0,obs_log,112.8,145.8,128.0,False,15188705,"[113,146]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,obs,191362875,Speeed,128,489,564.0,75.0,obs_log,90.5,146.3,129.0,False,15321805,"[91,146]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,obs,191362875,Speeed,128,676,1036.0,360.0,obs_log,82.5,156.4,129.0,False,8866435,"[83,156]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,obs,191362875,Speeed,128,1123,1307.0,184.0,obs_log,118.3,94.1,131.2,False,3065553,"[118,94]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,obs,191362875,Speeed,128,1197,1557.0,360.0,obs_log,114.3,129.0,129.0,False,296917,"[114,129]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,obs,191362875,Speeed,128,1574,1934.0,360.0,obs_log,75.2,191.2,130.0,False,3886140,"[75,191]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,obs,191362875,Speeed,128,2379,2739.0,360.0,obs_log,75.0,146.1,129.0,False,9440455,"[75,146]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,obs,191362875,Speeed,128,2738,2764.0,26.0,obs_log,97.7,156.1,129.0,False,9309535,"[98,156]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,obs,191362875,Speeed,128,2797,2803.0,6.0,obs_log,89.7,145.8,129.0,False,16551382,"[90,146]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,obs,191362875,Speeed,128,2938,,,obs_log,163.9,133.8,132.1,False,167138,"[164,134]",json_cell,5
+8446311513,dire,9651185,Wildcard,sen,191362875,Speeed,128,32,452.0,420.0,sen_log,88.3,156.9,129.0,False,6457264,"[88,157]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,sen,191362875,Speeed,128,85,505.0,420.0,sen_log,94.4,167.9,129.0,False,7047653,"[94,168]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,sen,191362875,Speeed,128,359,388.0,29.0,sen_log,94.4,135.9,130.0,False,5457553,"[94,136]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,sen,191362875,Speeed,128,360,391.0,31.0,sen_log,89.8,128.8,130.0,False,4393118,"[90,129]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,sen,191362875,Speeed,128,844,1264.0,420.0,sen_log,125.6,118.0,129.0,False,297283,"[126,118]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,sen,191362875,Speeed,128,923,1343.0,420.0,sen_log,164.8,113.4,129.0,False,5212144,"[165,113]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,sen,191362875,Speeed,128,942,1362.0,420.0,sen_log,163.3,88.9,129.0,False,3476333,"[163,89]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,sen,191362875,Speeed,128,1173,1593.0,420.0,sen_log,109.7,119.5,129.0,False,14698143,"[110,120]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,sen,191362875,Speeed,128,1198,1618.0,420.0,sen_log,114.3,129.0,129.0,False,14093135,"[114,129]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,sen,191362875,Speeed,128,1333,1753.0,420.0,sen_log,122.7,99.8,129.0,False,11275705,"[123,100]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,sen,191362875,Speeed,128,1577,1997.0,420.0,sen_log,70.0,183.3,130.0,False,9850364,"[70,183]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,sen,191362875,Speeed,128,1586,1611.0,25.0,sen_log,185.6,70.6,130.0,False,248297,"[186,71]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,sen,191362875,Speeed,128,1947,2166.0,219.0,sen_log,121.2,98.7,129.0,False,9079891,"[121,99]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,sen,191362875,Speeed,128,2017,2363.0,346.0,sen_log,151.7,122.8,130.0,False,6096470,"[152,123]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,sen,191362875,Speeed,128,2096,2516.0,420.0,sen_log,145.5,105.7,128.0,False,4917063,"[146,106]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,sen,191362875,Speeed,128,2255,2675.0,420.0,sen_log,138.7,151.4,129.0,False,2821144,"[139,151]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,sen,191362875,Speeed,128,2320,2740.0,420.0,sen_log,101.0,175.7,129.0,False,313131,"[101,176]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,sen,191362875,Speeed,128,2334,2440.0,106.0,sen_log,73.0,186.0,130.0,False,1280362,"[73,186]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,sen,191362875,Speeed,128,2430,2640.0,210.0,sen_log,169.3,136.9,130.0,False,3886223,"[169,137]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,sen,191362875,Speeed,128,2735,2832.0,97.0,sen_log,106.9,163.1,130.0,False,10849336,"[107,163]",json_ehandle,5
+8446311513,dire,9651185,Wildcard,sen,191362875,Speeed,128,2773,,,sen_log,118.7,152.1,130.0,False,7342603,"[119,152]",,5
+8446311513,dire,9651185,Wildcard,sen,191362875,Speeed,128,2802,,,sen_log,89.4,139.4,129.0,False,11879644,"[89,139]",,5
+8446311513,dire,9651185,Wildcard,sen,191362875,Speeed,128,2939,,,sen_log,163.9,133.8,132.1,False,15502582,"[164,134]",json_cell,5
+8446311513,dire,9651185,Wildcard,obs,154974246,)),129,-32,328.0,360.0,obs_log,141.5,117.9,128.0,False,16106755,"[142,118]",json_ehandle,6
+8446311513,dire,9651185,Wildcard,obs,154974246,)),129,316,676.0,360.0,obs_log,108.8,130.5,129.0,False,10341184,"[109,131]",json_ehandle,6
+8446311513,dire,9651185,Wildcard,sen,154974246,)),129,216,273.0,57.0,sen_log,120.1,130.1,128.0,False,4655871,"[120,130]",json_ehandle,6
+8446311513,dire,9651185,Wildcard,sen,154974246,)),129,307,727.0,420.0,sen_log,118.3,129.2,128.0,False,14125735,"[118,129]",json_ehandle,6
+8446311513,dire,9651185,Wildcard,obs,90423751,Professor degree,130,359,719.0,360.0,obs_log,143.9,121.6,130.0,False,16139954,"[144,122]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,obs,90423751,Professor degree,130,588,948.0,360.0,obs_log,152.4,95.9,130.0,False,15369947,"[152,96]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,obs,90423751,Professor degree,130,944,1305.0,361.0,obs_log,144.4,62.0,130.0,False,3049626,"[144,62]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,obs,90423751,Professor degree,130,1436,1451.0,15.0,obs_log,159.4,120.8,130.0,False,16173422,"[159,121]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,obs,90423751,Professor degree,130,1492,1590.0,98.0,obs_log,85.2,134.4,129.0,False,4378051,"[85,134]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,obs,90423751,Professor degree,130,1704,1708.0,4.0,obs_log,86.8,116.4,130.0,False,16484906,"[87,116]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,obs,90423751,Professor degree,130,1856,2216.0,360.0,obs_log,125.6,88.6,129.1,False,15682688,"[126,89]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,obs,90423751,Professor degree,130,1868,2228.0,360.0,obs_log,126.0,107.9,130.0,False,6981598,"[126,108]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,obs,90423751,Professor degree,130,2176,2287.0,111.0,obs_log,92.6,165.9,129.0,False,313941,"[93,166]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,obs,90423751,Professor degree,130,2317,2503.0,186.0,obs_log,81.8,191.2,130.0,False,2969026,"[82,191]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,obs,90423751,Professor degree,130,2680,2760.0,80.0,obs_log,115.9,144.1,130.0,False,1476981,"[116,144]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,obs,90423751,Professor degree,130,2807,2871.0,64.0,obs_log,100.9,134.3,130.0,False,10931604,"[101,134]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,sen,90423751,Professor degree,130,55,89.0,34.0,sen_log,157.0,89.0,129.0,False,15812806,"[157,89]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,sen,90423751,Professor degree,130,523,943.0,420.0,sen_log,105.7,136.7,128.0,False,10947438,"[106,137]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,sen,90423751,Professor degree,130,585,759.0,174.0,sen_log,157.6,99.0,128.3,False,15928092,"[158,99]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,sen,90423751,Professor degree,130,665,1086.0,421.0,sen_log,152.8,124.0,130.0,False,11176632,"[153,124]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,sen,90423751,Professor degree,130,863,1284.0,421.0,sen_log,109.1,163.4,130.0,False,9177907,"[109,163]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,sen,90423751,Professor degree,130,920,1340.0,420.0,sen_log,173.1,101.5,129.0,False,5081707,"[173,102]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,sen,90423751,Professor degree,130,942,1362.0,420.0,sen_log,148.4,67.7,128.0,False,131315,"[148,68]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,sen,90423751,Professor degree,130,1437,1454.0,17.0,sen_log,159.7,120.0,130.0,False,4638777,"[160,120]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,sen,90423751,Professor degree,130,1492,1594.0,102.0,sen_log,85.2,134.4,129.0,False,4328663,"[85,134]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,sen,90423751,Professor degree,130,1604,1624.0,20.0,sen_log,160.2,123.8,130.0,False,11356050,"[160,124]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,sen,90423751,Professor degree,130,1674,2094.0,420.0,sen_log,141.5,132.3,129.0,False,13387767,"[142,132]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,sen,90423751,Professor degree,130,1852,1990.0,138.0,sen_log,134.1,99.6,130.0,False,837868,"[134,100]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,sen,90423751,Professor degree,130,2386,2629.0,243.0,sen_log,167.7,150.0,130.0,False,13159648,"[168,150]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,sen,90423751,Professor degree,130,2603,3023.0,420.0,sen_log,156.2,169.2,130.0,False,12029259,"[156,169]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,sen,90423751,Professor degree,130,2655,3075.0,420.0,sen_log,165.4,153.6,130.0,False,14895808,"[165,154]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,sen,90423751,Professor degree,130,2679,2762.0,83.0,sen_log,118.9,149.5,130.0,False,429317,"[119,150]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,sen,90423751,Professor degree,130,2805,2879.0,74.0,sen_log,99.4,130.9,130.0,False,15255821,"[99,131]",json_ehandle,7
+8446311513,dire,9651185,Wildcard,sen,160119017,помойка,131,1611,2031.0,420.0,sen_log,168.6,133.5,130.0,False,1887532,"[169,134]",json_ehandle,8
+8446311513,dire,9651185,Wildcard,sen,160119017,помойка,131,1740,2160.0,420.0,sen_log,187.9,116.1,132.1,False,1477008,"[188,116]",json_ehandle,8

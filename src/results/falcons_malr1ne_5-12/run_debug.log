@@ -1,0 +1,958 @@
+[extract] Starting extraction from data/matches -> data/obs_logs
+[extract] generated for 0: 2 path(s)
+[extract] done. generated=1, skipped_existing=1746
+[debug] loaded hero_map entries: 126
+  id=1 -> en='Anti-Mage', cn='敌法师'
+  id=2 -> en='Axe', cn='斧王'
+  id=3 -> en='Bane', cn='痛苦之源'
+  id=4 -> en='Bloodseeker', cn='嗜血狂魔'
+  id=5 -> en='Crystal Maiden', cn='水晶室女'
+  id=6 -> en='Drow Ranger', cn='卓尔游侠'
+  id=7 -> en='Earthshaker', cn='牛头'
+  id=8 -> en='Juggernaut', cn='剑圣'
+[scan] scanning 1747 match json files for account 898455820 and team Team Falcons
+  match 8536597199: account 898455820 hero 137 side dire
+  match 8512558125: account 898455820 hero 14 side dire
+  match 8602246766: account 898455820 hero 137 side dire
+  match 8524864184: account 898455820 hero 59 side dire
+  match 8548606633: account 898455820 hero 16 side dire
+  match 8540545264: account 898455820 hero 137 side dire
+  match 8447613945: account 898455820 hero 38 side radiant
+  match 8532434830: account 898455820 hero 16 side dire
+  match 8524964454: account 898455820 hero 16 side dire
+  match 8461854486: account 898455820 hero 16 side radiant
+  match 8582522954: account 898455820 hero 17 side dire
+  match 8608974467: account 898455820 hero 35 side dire
+  match 8451547891: account 898455820 hero 16 side dire
+  match 8540357223: account 898455820 hero 137 side dire
+  match 8539067262: account 898455820 hero 137 side radiant
+  match 8527782901: account 898455820 hero 17 side dire
+  match 8456770626: account 898455820 hero 38 side radiant
+  match 8599091798: account 898455820 hero 120 side dire
+  match 8516930248: account 898455820 hero 120 side dire
+  match 8517299077: account 898455820 hero 59 side dire
+  match 8451671758: account 898455820 hero 16 side dire
+  match 8598861477: account 898455820 hero 16 side dire
+  match 8458323214: account 898455820 hero 16 side radiant
+  match 8592272555: account 898455820 hero 120 side dire
+  match 8528068483: account 898455820 hero 120 side dire
+  match 8446401276: account 898455820 hero 7 side dire
+  match 8446311725: account 898455820 hero 16 side dire
+  match 8602376621: account 898455820 hero 137 side radiant
+  match 8449657829: account 898455820 hero 16 side radiant
+  match 8536499892: account 898455820 hero 120 side dire
+  match 8579516072: account 898455820 hero 59 side dire
+  match 8579245952: account 898455820 hero 35 side radiant
+  match 8576406746: account 898455820 hero 35 side dire
+  match 8446684731: account 898455820 hero 120 side dire
+  match 8605115782: account 898455820 hero 53 side dire
+  match 8510884183: account 898455820 hero 59 side radiant
+  match 8515655427: account 898455820 hero 120 side dire
+  match 8580874181: account 898455820 hero 59 side dire
+  match 8536705879: account 898455820 hero 114 side radiant
+  match 8527923420: account 898455820 hero 53 side dire
+  match 8511224972: account 898455820 hero 16 side radiant
+  match 8460164236: account 898455820 hero 16 side dire
+  match 8540450895: account 898455820 hero 49 side dire
+  match 8577745816: account 898455820 hero 49 side dire
+  match 8456886907: account 898455820 hero 16 side dire
+  match 8540189130: account 898455820 hero 17 side dire
+  match 8512870110: account 898455820 hero 137 side dire
+  match 8449465357: account 898455820 hero 7 side dire
+  match 8549890849: account 898455820 hero 120 side radiant
+  match 8538982213: account 898455820 hero 114 side dire
+  match 8449812647: account 898455820 hero 98 side radiant
+  match 8599992855: account 898455820 hero 28 side dire
+  match 8537408983: account 898455820 hero 120 side dire
+  match 8539809790: account 898455820 hero 120 side radiant
+  match 8446587536: account 898455820 hero 137 side radiant
+  match 8550072085: account 898455820 hero 114 side radiant
+  match 8603810835: account 898455820 hero 13 side dire
+  match 8458567498: account 898455820 hero 38 side dire
+  match 8578012189: account 898455820 hero 49 side dire
+  match 8526600683: account 898455820 hero 96 side radiant
+  match 8449036139: account 898455820 hero 114 side dire
+  match 8550149598: account 898455820 hero 13 side dire
+  match 8538849304: account 898455820 hero 120 side radiant
+  match 8580434959: account 898455820 hero 49 side dire
+  match 8606592816: account 898455820 hero 114 side dire
+  match 8576076065: account 898455820 hero 49 side dire
+  match 8548474254: account 898455820 hero 49 side dire
+  match 8537328580: account 898455820 hero 120 side radiant
+  match 8447554972: account 898455820 hero 38 side dire
+  match 8448961997: account 898455820 hero 106 side dire
+  match 8605215449: account 898455820 hero 106 side dire
+  match 8460035179: account 898455820 hero 120 side dire
+  match 8526490115: account 898455820 hero 59 side dire
+  match 8598987393: account 898455820 hero 59 side dire
+  match 8446788561: account 898455820 hero 16 side radiant
+  match 8609085945: account 898455820 hero 53 side dire
+  match 8515218704: account 898455820 hero 16 side dire
+  match 8549982041: account 898455820 hero 137 side dire
+  match 8461735141: account 898455820 hero 38 side dire
+  match 8602105739: account 898455820 hero 16 side dire
+  match 8514308079: account 898455820 hero 35 side dire
+  match 8532316401: account 898455820 hero 120 side dire
+  match 8447703577: account 898455820 hero 137 side dire
+  match 8514117469: account 898455820 hero 17 side dire
+  match 8461476910: account 898455820 hero 106 side dire
+  match 8582154770: account 898455820 hero 120 side radiant
+  match 8461956309: account 898455820 hero 120 side dire
+  match 8600068614: account 898455820 hero 35 side dire
+  match 8458460625: account 898455820 hero 16 side dire
+  match 8576678568: account 898455820 hero 13 side dire
+  match 8525084966: account 898455820 hero 120 side dire
+  match 8603895710: account 898455820 hero 49 side radiant
+  match 8603728193: account 898455820 hero 35 side radiant
+  match 8606484740: account 898455820 hero 49 side dire
+  match 8537466319: account 898455820 hero 49 side radiant
+  match 8550292837: account 898455820 hero 13 side dire
+  match 8461613337: account 898455820 hero 137 side radiant
+  match 8539982033: account 898455820 hero 120 side dire
+  match 8592220102: account 898455820 hero 17 side dire
+  match 8459915275: account 898455820 hero 7 side radiant
+  match 8511503985: account 898455820 hero 53 side dire
+  match 8446350616: account 898455820 hero 107 side dire
+  match 8446401276: account 898455820 hero 7 side dire
+  match 8446311725: account 898455820 hero 16 side dire
+  match 8446350616: account 898455820 hero 107 side dire
+  match 8456770626: account 898455820 hero 38 side radiant
+  match 8449657829: account 898455820 hero 16 side radiant
+  match 8456886907: account 898455820 hero 16 side dire
+  match 8449465357: account 898455820 hero 7 side dire
+  match 8449812647: account 898455820 hero 98 side radiant
+  match 8576678568: account 898455820 hero 13 side dire
+  match 8599091798: account 898455820 hero 120 side dire
+  match 8598861477: account 898455820 hero 16 side dire
+  match 8598987393: account 898455820 hero 59 side dire
+  match 8603810835: account 898455820 hero 13 side dire
+  match 8603895710: account 898455820 hero 49 side radiant
+  match 8603728193: account 898455820 hero 35 side radiant
+  match 8460164236: account 898455820 hero 16 side dire
+  match 8460035179: account 898455820 hero 120 side dire
+  match 8459915275: account 898455820 hero 7 side radiant
+  match 8539067262: account 898455820 hero 137 side radiant
+  match 8512870110: account 898455820 hero 137 side dire
+  match 8538982213: account 898455820 hero 114 side dire
+  match 8526600683: account 898455820 hero 96 side radiant
+  match 8449036139: account 898455820 hero 114 side dire
+  match 8538849304: account 898455820 hero 120 side radiant
+  match 8448961997: account 898455820 hero 106 side dire
+  match 8526490115: account 898455820 hero 59 side dire
+  match 8579516072: account 898455820 hero 59 side dire
+  match 8514308079: account 898455820 hero 35 side dire
+  match 8447613945: account 898455820 hero 38 side radiant
+  match 8461854486: account 898455820 hero 16 side radiant
+  match 8578012189: account 898455820 hero 49 side dire
+  match 8447554972: account 898455820 hero 38 side dire
+  match 8461735141: account 898455820 hero 38 side dire
+  match 8447703577: account 898455820 hero 137 side dire
+  match 8461476910: account 898455820 hero 106 side dire
+  match 8461956309: account 898455820 hero 120 side dire
+  match 8461613337: account 898455820 hero 137 side radiant
+  match 8512558125: account 898455820 hero 14 side dire
+  match 8548606633: account 898455820 hero 16 side dire
+  match 8576406746: account 898455820 hero 35 side dire
+  match 8548474254: account 898455820 hero 49 side dire
+  match 8517299077: account 898455820 hero 59 side dire
+  match 8451547891: account 898455820 hero 16 side dire
+  match 8451671758: account 898455820 hero 16 side dire
+  match 8537408983: account 898455820 hero 120 side dire
+  match 8606592816: account 898455820 hero 114 side dire
+  match 8537328580: account 898455820 hero 120 side radiant
+  match 8514117469: account 898455820 hero 17 side dire
+  match 8606484740: account 898455820 hero 49 side dire
+  match 8537466319: account 898455820 hero 49 side radiant
+  match 8580434959: account 898455820 hero 49 side dire
+  match 8515218704: account 898455820 hero 16 side dire
+  match 8540545264: account 898455820 hero 137 side dire
+  match 8540357223: account 898455820 hero 137 side dire
+  match 8527782901: account 898455820 hero 17 side dire
+  match 8528068483: account 898455820 hero 120 side dire
+  match 8527923420: account 898455820 hero 53 side dire
+  match 8511224972: account 898455820 hero 16 side radiant
+  match 8540450895: account 898455820 hero 49 side dire
+  match 8540189130: account 898455820 hero 17 side dire
+  match 8524864184: account 898455820 hero 59 side dire
+  match 8532434830: account 898455820 hero 16 side dire
+  match 8524964454: account 898455820 hero 16 side dire
+  match 8580874181: account 898455820 hero 59 side dire
+  match 8599992855: account 898455820 hero 28 side dire
+  match 8532316401: account 898455820 hero 120 side dire
+  match 8600068614: account 898455820 hero 35 side dire
+  match 8525084966: account 898455820 hero 120 side dire
+  match 8511503985: account 898455820 hero 53 side dire
+  match 8516930248: account 898455820 hero 120 side dire
+  match 8602246766: account 898455820 hero 137 side dire
+  match 8608974467: account 898455820 hero 35 side dire
+  match 8602376621: account 898455820 hero 137 side radiant
+  match 8609085945: account 898455820 hero 53 side dire
+  match 8602105739: account 898455820 hero 16 side dire
+  match 8536597199: account 898455820 hero 137 side dire
+  match 8512558125: account 898455820 hero 14 side dire
+  match 8602246766: account 898455820 hero 137 side dire
+  match 8524864184: account 898455820 hero 59 side dire
+  match 8548606633: account 898455820 hero 16 side dire
+  match 8540545264: account 898455820 hero 137 side dire
+  match 8447613945: account 898455820 hero 38 side radiant
+  match 8532434830: account 898455820 hero 16 side dire
+  match 8524964454: account 898455820 hero 16 side dire
+  match 8461854486: account 898455820 hero 16 side radiant
+  match 8582522954: account 898455820 hero 17 side dire
+  match 8608974467: account 898455820 hero 35 side dire
+  match 8451547891: account 898455820 hero 16 side dire
+  match 8540357223: account 898455820 hero 137 side dire
+  match 8539067262: account 898455820 hero 137 side radiant
+  match 8527782901: account 898455820 hero 17 side dire
+  match 8456770626: account 898455820 hero 38 side radiant
+  match 8599091798: account 898455820 hero 120 side dire
+  match 8516930248: account 898455820 hero 120 side dire
+  match 8517299077: account 898455820 hero 59 side dire
+  match 8451671758: account 898455820 hero 16 side dire
+  match 8598861477: account 898455820 hero 16 side dire
+  match 8458323214: account 898455820 hero 16 side radiant
+  match 8592272555: account 898455820 hero 120 side dire
+  match 8528068483: account 898455820 hero 120 side dire
+  match 8446401276: account 898455820 hero 7 side dire
+  match 8446311725: account 898455820 hero 16 side dire
+  match 8602376621: account 898455820 hero 137 side radiant
+  match 8449657829: account 898455820 hero 16 side radiant
+  match 8536499892: account 898455820 hero 120 side dire
+  match 8579516072: account 898455820 hero 59 side dire
+  match 8579245952: account 898455820 hero 35 side radiant
+  match 8576406746: account 898455820 hero 35 side dire
+  match 8446684731: account 898455820 hero 120 side dire
+  match 8605115782: account 898455820 hero 53 side dire
+  match 8510884183: account 898455820 hero 59 side radiant
+  match 8515655427: account 898455820 hero 120 side dire
+  match 8580874181: account 898455820 hero 59 side dire
+  match 8536705879: account 898455820 hero 114 side radiant
+  match 8527923420: account 898455820 hero 53 side dire
+  match 8511224972: account 898455820 hero 16 side radiant
+  match 8460164236: account 898455820 hero 16 side dire
+  match 8540450895: account 898455820 hero 49 side dire
+  match 8577745816: account 898455820 hero 49 side dire
+  match 8456886907: account 898455820 hero 16 side dire
+  match 8540189130: account 898455820 hero 17 side dire
+  match 8512870110: account 898455820 hero 137 side dire
+  match 8449465357: account 898455820 hero 7 side dire
+  match 8549890849: account 898455820 hero 120 side radiant
+  match 8538982213: account 898455820 hero 114 side dire
+  match 8449812647: account 898455820 hero 98 side radiant
+  match 8599992855: account 898455820 hero 28 side dire
+  match 8537408983: account 898455820 hero 120 side dire
+  match 8539809790: account 898455820 hero 120 side radiant
+  match 8446587536: account 898455820 hero 137 side radiant
+  match 8550072085: account 898455820 hero 114 side radiant
+  match 8603810835: account 898455820 hero 13 side dire
+  match 8458567498: account 898455820 hero 38 side dire
+  match 8578012189: account 898455820 hero 49 side dire
+  match 8526600683: account 898455820 hero 96 side radiant
+  match 8449036139: account 898455820 hero 114 side dire
+  match 8550149598: account 898455820 hero 13 side dire
+  match 8538849304: account 898455820 hero 120 side radiant
+  match 8580434959: account 898455820 hero 49 side dire
+  match 8606592816: account 898455820 hero 114 side dire
+  match 8576076065: account 898455820 hero 49 side dire
+  match 8548474254: account 898455820 hero 49 side dire
+  match 8537328580: account 898455820 hero 120 side radiant
+  match 8447554972: account 898455820 hero 38 side dire
+  match 8448961997: account 898455820 hero 106 side dire
+  match 8605215449: account 898455820 hero 106 side dire
+  match 8460035179: account 898455820 hero 120 side dire
+  match 8526490115: account 898455820 hero 59 side dire
+  match 8598987393: account 898455820 hero 59 side dire
+  match 8446788561: account 898455820 hero 16 side radiant
+  match 8609085945: account 898455820 hero 53 side dire
+  match 8515218704: account 898455820 hero 16 side dire
+  match 8549982041: account 898455820 hero 137 side dire
+  match 8461735141: account 898455820 hero 38 side dire
+  match 8602105739: account 898455820 hero 16 side dire
+  match 8514308079: account 898455820 hero 35 side dire
+  match 8532316401: account 898455820 hero 120 side dire
+  match 8447703577: account 898455820 hero 137 side dire
+  match 8514117469: account 898455820 hero 17 side dire
+  match 8461476910: account 898455820 hero 106 side dire
+  match 8582154770: account 898455820 hero 120 side radiant
+  match 8461956309: account 898455820 hero 120 side dire
+  match 8600068614: account 898455820 hero 35 side dire
+  match 8458460625: account 898455820 hero 16 side dire
+  match 8576678568: account 898455820 hero 13 side dire
+  match 8525084966: account 898455820 hero 120 side dire
+  match 8603895710: account 898455820 hero 49 side radiant
+  match 8603728193: account 898455820 hero 35 side radiant
+  match 8606484740: account 898455820 hero 49 side dire
+  match 8537466319: account 898455820 hero 49 side radiant
+  match 8550292837: account 898455820 hero 13 side dire
+  match 8461613337: account 898455820 hero 137 side radiant
+  match 8539982033: account 898455820 hero 120 side dire
+  match 8592220102: account 898455820 hero 17 side dire
+  match 8459915275: account 898455820 hero 7 side radiant
+  match 8511503985: account 898455820 hero 53 side dire
+  match 8446350616: account 898455820 hero 107 side dire
+  match 8605115782: account 898455820 hero 53 side dire
+  match 8577745816: account 898455820 hero 49 side dire
+  match 8605215449: account 898455820 hero 106 side dire
+  match 8582522954: account 898455820 hero 17 side dire
+  match 8536597199: account 898455820 hero 137 side dire
+  match 8536499892: account 898455820 hero 120 side dire
+  match 8579245952: account 898455820 hero 35 side radiant
+  match 8446684731: account 898455820 hero 120 side dire
+  match 8515655427: account 898455820 hero 120 side dire
+  match 8536705879: account 898455820 hero 114 side radiant
+  match 8549890849: account 898455820 hero 120 side radiant
+  match 8446587536: account 898455820 hero 137 side radiant
+  match 8550072085: account 898455820 hero 114 side radiant
+  match 8550149598: account 898455820 hero 13 side dire
+  match 8446788561: account 898455820 hero 16 side radiant
+  match 8549982041: account 898455820 hero 137 side dire
+  match 8550292837: account 898455820 hero 13 side dire
+  match 8458323214: account 898455820 hero 16 side radiant
+  match 8458567498: account 898455820 hero 38 side dire
+  match 8458460625: account 898455820 hero 16 side dire
+  match 8592272555: account 898455820 hero 120 side dire
+  match 8539809790: account 898455820 hero 120 side radiant
+  match 8582154770: account 898455820 hero 120 side radiant
+  match 8539982033: account 898455820 hero 120 side dire
+  match 8592220102: account 898455820 hero 17 side dire
+  match 8510884183: account 898455820 hero 59 side radiant
+  match 8576076065: account 898455820 hero 49 side dire
+Processing hero 120 (Pangolier/滚滚) side=dire matches=39
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8599091798_wards.csv
+  match 8599091798: collected 30 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8516930248_wards.csv
+  match 8516930248: collected 57 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8592272555_wards.csv
+  match 8592272555: collected 49 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8528068483_wards.csv
+  match 8528068483: collected 56 placements, 13 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8536499892_wards.csv
+  match 8536499892: collected 50 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8446684731_wards.csv
+  match 8446684731: collected 44 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8515655427_wards.csv
+  match 8515655427: collected 74 placements, 6 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8537408983_wards.csv
+  match 8537408983: collected 45 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8460035179_wards.csv
+  match 8460035179: collected 37 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8532316401_wards.csv
+  match 8532316401: collected 59 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8461956309_wards.csv
+  match 8461956309: collected 63 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8525084966_wards.csv
+  match 8525084966: collected 45 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8539982033_wards.csv
+  match 8539982033: collected 40 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8599091798_wards.csv
+  match 8599091798: collected 30 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8460035179_wards.csv
+  match 8460035179: collected 37 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8461956309_wards.csv
+  match 8461956309: collected 63 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8537408983_wards.csv
+  match 8537408983: collected 45 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8528068483_wards.csv
+  match 8528068483: collected 56 placements, 13 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8532316401_wards.csv
+  match 8532316401: collected 59 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8525084966_wards.csv
+  match 8525084966: collected 45 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8516930248_wards.csv
+  match 8516930248: collected 57 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8599091798_wards.csv
+  match 8599091798: collected 30 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8516930248_wards.csv
+  match 8516930248: collected 57 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8592272555_wards.csv
+  match 8592272555: collected 49 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8528068483_wards.csv
+  match 8528068483: collected 56 placements, 13 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8536499892_wards.csv
+  match 8536499892: collected 50 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8446684731_wards.csv
+  match 8446684731: collected 44 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8515655427_wards.csv
+  match 8515655427: collected 74 placements, 6 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8537408983_wards.csv
+  match 8537408983: collected 45 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8460035179_wards.csv
+  match 8460035179: collected 37 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8532316401_wards.csv
+  match 8532316401: collected 59 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8461956309_wards.csv
+  match 8461956309: collected 63 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8525084966_wards.csv
+  match 8525084966: collected 45 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8539982033_wards.csv
+  match 8539982033: collected 40 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8536499892_wards.csv
+  match 8536499892: collected 50 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8446684731_wards.csv
+  match 8446684731: collected 44 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8515655427_wards.csv
+  match 8515655427: collected 74 placements, 6 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8592272555_wards.csv
+  match 8592272555: collected 49 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8539982033_wards.csv
+  match 8539982033: collected 40 placements, 10 in window
+Processing hero 120 (Pangolier/滚滚) side=radiant matches=15
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8549890849_wards.csv
+  match 8549890849: collected 48 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8539809790_wards.csv
+  match 8539809790: collected 58 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8538849304_wards.csv
+  match 8538849304: collected 43 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8537328580_wards.csv
+  match 8537328580: collected 39 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8582154770_wards.csv
+  match 8582154770: collected 47 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8538849304_wards.csv
+  match 8538849304: collected 43 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8537328580_wards.csv
+  match 8537328580: collected 39 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8549890849_wards.csv
+  match 8549890849: collected 48 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8539809790_wards.csv
+  match 8539809790: collected 58 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8538849304_wards.csv
+  match 8538849304: collected 43 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8537328580_wards.csv
+  match 8537328580: collected 39 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8582154770_wards.csv
+  match 8582154770: collected 47 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8549890849_wards.csv
+  match 8549890849: collected 48 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8539809790_wards.csv
+  match 8539809790: collected 58 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8582154770_wards.csv
+  match 8582154770: collected 47 placements, 9 in window
+Processing hero 16 (Sand King/沙王) side=dire matches=36
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8548606633_wards.csv
+  match 8548606633: collected 52 placements, 6 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8532434830_wards.csv
+  match 8532434830: collected 47 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8524964454_wards.csv
+  match 8524964454: collected 60 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8451547891_wards.csv
+  match 8451547891: collected 100 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8451671758_wards.csv
+  match 8451671758: collected 57 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8598861477_wards.csv
+  match 8598861477: collected 41 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8446311725_wards.csv
+  match 8446311725: collected 42 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8460164236_wards.csv
+  match 8460164236: collected 76 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8456886907_wards.csv
+  match 8456886907: collected 57 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8515218704_wards.csv
+  match 8515218704: collected 41 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8602105739_wards.csv
+  match 8602105739: collected 54 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8458460625_wards.csv
+  match 8458460625: collected 39 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8446311725_wards.csv
+  match 8446311725: collected 42 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8456886907_wards.csv
+  match 8456886907: collected 57 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8598861477_wards.csv
+  match 8598861477: collected 41 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8460164236_wards.csv
+  match 8460164236: collected 76 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8548606633_wards.csv
+  match 8548606633: collected 52 placements, 6 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8451547891_wards.csv
+  match 8451547891: collected 100 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8451671758_wards.csv
+  match 8451671758: collected 57 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8515218704_wards.csv
+  match 8515218704: collected 41 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8532434830_wards.csv
+  match 8532434830: collected 47 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8524964454_wards.csv
+  match 8524964454: collected 60 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8602105739_wards.csv
+  match 8602105739: collected 54 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8548606633_wards.csv
+  match 8548606633: collected 52 placements, 6 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8532434830_wards.csv
+  match 8532434830: collected 47 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8524964454_wards.csv
+  match 8524964454: collected 60 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8451547891_wards.csv
+  match 8451547891: collected 100 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8451671758_wards.csv
+  match 8451671758: collected 57 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8598861477_wards.csv
+  match 8598861477: collected 41 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8446311725_wards.csv
+  match 8446311725: collected 42 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8460164236_wards.csv
+  match 8460164236: collected 76 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8456886907_wards.csv
+  match 8456886907: collected 57 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8515218704_wards.csv
+  match 8515218704: collected 41 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8602105739_wards.csv
+  match 8602105739: collected 54 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8458460625_wards.csv
+  match 8458460625: collected 39 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8458460625_wards.csv
+  match 8458460625: collected 39 placements, 9 in window
+Processing hero 16 (Sand King/沙王) side=radiant matches=15
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8461854486_wards.csv
+  match 8461854486: collected 44 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8458323214_wards.csv
+  match 8458323214: collected 53 placements, 5 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8449657829_wards.csv
+  match 8449657829: collected 88 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8511224972_wards.csv
+  match 8511224972: collected 66 placements, 6 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8446788561_wards.csv
+  match 8446788561: collected 39 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8449657829_wards.csv
+  match 8449657829: collected 88 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8461854486_wards.csv
+  match 8461854486: collected 44 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8511224972_wards.csv
+  match 8511224972: collected 66 placements, 6 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8461854486_wards.csv
+  match 8461854486: collected 44 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8458323214_wards.csv
+  match 8458323214: collected 53 placements, 5 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8449657829_wards.csv
+  match 8449657829: collected 88 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8511224972_wards.csv
+  match 8511224972: collected 66 placements, 6 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8446788561_wards.csv
+  match 8446788561: collected 39 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8446788561_wards.csv
+  match 8446788561: collected 39 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8458323214_wards.csv
+  match 8458323214: collected 53 placements, 5 in window
+Processing hero 137 (Primal Beast/兽) side=dire matches=21
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8536597199_wards.csv
+  match 8536597199: collected 57 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8602246766_wards.csv
+  match 8602246766: collected 43 placements, 6 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8540545264_wards.csv
+  match 8540545264: collected 77 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8540357223_wards.csv
+  match 8540357223: collected 30 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8512870110_wards.csv
+  match 8512870110: collected 52 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8549982041_wards.csv
+  match 8549982041: collected 52 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8447703577_wards.csv
+  match 8447703577: collected 87 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8512870110_wards.csv
+  match 8512870110: collected 52 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8447703577_wards.csv
+  match 8447703577: collected 87 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8540545264_wards.csv
+  match 8540545264: collected 77 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8540357223_wards.csv
+  match 8540357223: collected 30 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8602246766_wards.csv
+  match 8602246766: collected 43 placements, 6 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8536597199_wards.csv
+  match 8536597199: collected 57 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8602246766_wards.csv
+  match 8602246766: collected 43 placements, 6 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8540545264_wards.csv
+  match 8540545264: collected 77 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8540357223_wards.csv
+  match 8540357223: collected 30 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8512870110_wards.csv
+  match 8512870110: collected 52 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8549982041_wards.csv
+  match 8549982041: collected 52 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8447703577_wards.csv
+  match 8447703577: collected 87 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8536597199_wards.csv
+  match 8536597199: collected 57 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8549982041_wards.csv
+  match 8549982041: collected 52 placements, 10 in window
+Processing hero 137 (Primal Beast/兽) side=radiant matches=12
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8539067262_wards.csv
+  match 8539067262: collected 56 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8602376621_wards.csv
+  match 8602376621: collected 63 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8446587536_wards.csv
+  match 8446587536: collected 37 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8461613337_wards.csv
+  match 8461613337: collected 42 placements, 15 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8539067262_wards.csv
+  match 8539067262: collected 56 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8461613337_wards.csv
+  match 8461613337: collected 42 placements, 15 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8602376621_wards.csv
+  match 8602376621: collected 63 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8539067262_wards.csv
+  match 8539067262: collected 56 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8602376621_wards.csv
+  match 8602376621: collected 63 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8446587536_wards.csv
+  match 8446587536: collected 37 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8461613337_wards.csv
+  match 8461613337: collected 42 placements, 15 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8446587536_wards.csv
+  match 8446587536: collected 37 placements, 7 in window
+Processing hero 49 (Dragon Knight/龙骑士) side=dire matches=21
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8540450895_wards.csv
+  match 8540450895: collected 49 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8577745816_wards.csv
+  match 8577745816: collected 41 placements, 6 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8578012189_wards.csv
+  match 8578012189: collected 76 placements, 14 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8580434959_wards.csv
+  match 8580434959: collected 60 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8576076065_wards.csv
+  match 8576076065: collected 45 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8548474254_wards.csv
+  match 8548474254: collected 52 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8606484740_wards.csv
+  match 8606484740: collected 49 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8578012189_wards.csv
+  match 8578012189: collected 76 placements, 14 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8548474254_wards.csv
+  match 8548474254: collected 52 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8606484740_wards.csv
+  match 8606484740: collected 49 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8580434959_wards.csv
+  match 8580434959: collected 60 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8540450895_wards.csv
+  match 8540450895: collected 49 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8540450895_wards.csv
+  match 8540450895: collected 49 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8577745816_wards.csv
+  match 8577745816: collected 41 placements, 6 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8578012189_wards.csv
+  match 8578012189: collected 76 placements, 14 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8580434959_wards.csv
+  match 8580434959: collected 60 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8576076065_wards.csv
+  match 8576076065: collected 45 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8548474254_wards.csv
+  match 8548474254: collected 52 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8606484740_wards.csv
+  match 8606484740: collected 49 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8577745816_wards.csv
+  match 8577745816: collected 41 placements, 6 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8576076065_wards.csv
+  match 8576076065: collected 45 placements, 11 in window
+Processing hero 49 (Dragon Knight/龙骑士) side=radiant matches=6
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8603895710_wards.csv
+  match 8603895710: collected 39 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8537466319_wards.csv
+  match 8537466319: collected 94 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8603895710_wards.csv
+  match 8603895710: collected 39 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8537466319_wards.csv
+  match 8537466319: collected 94 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8603895710_wards.csv
+  match 8603895710: collected 39 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8537466319_wards.csv
+  match 8537466319: collected 94 placements, 8 in window
+Processing hero 59 (Huskar/哈斯卡) side=dire matches=18
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8524864184_wards.csv
+  match 8524864184: collected 51 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8517299077_wards.csv
+  match 8517299077: collected 25 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8579516072_wards.csv
+  match 8579516072: collected 31 placements, 6 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8580874181_wards.csv
+  match 8580874181: collected 49 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8526490115_wards.csv
+  match 8526490115: collected 58 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8598987393_wards.csv
+  match 8598987393: collected 51 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8598987393_wards.csv
+  match 8598987393: collected 51 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8526490115_wards.csv
+  match 8526490115: collected 58 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8579516072_wards.csv
+  match 8579516072: collected 31 placements, 6 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8517299077_wards.csv
+  match 8517299077: collected 25 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8524864184_wards.csv
+  match 8524864184: collected 51 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8580874181_wards.csv
+  match 8580874181: collected 49 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8524864184_wards.csv
+  match 8524864184: collected 51 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8517299077_wards.csv
+  match 8517299077: collected 25 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8579516072_wards.csv
+  match 8579516072: collected 31 placements, 6 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8580874181_wards.csv
+  match 8580874181: collected 49 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8526490115_wards.csv
+  match 8526490115: collected 58 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8598987393_wards.csv
+  match 8598987393: collected 51 placements, 11 in window
+Processing hero 59 (Huskar/哈斯卡) side=radiant matches=3
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8510884183_wards.csv
+  match 8510884183: collected 36 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8510884183_wards.csv
+  match 8510884183: collected 36 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8510884183_wards.csv
+  match 8510884183: collected 36 placements, 9 in window
+Processing hero 35 (Sniper/狙击手) side=dire matches=12
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8608974467_wards.csv
+  match 8608974467: collected 64 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8576406746_wards.csv
+  match 8576406746: collected 45 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8514308079_wards.csv
+  match 8514308079: collected 32 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8600068614_wards.csv
+  match 8600068614: collected 53 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8514308079_wards.csv
+  match 8514308079: collected 32 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8576406746_wards.csv
+  match 8576406746: collected 45 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8600068614_wards.csv
+  match 8600068614: collected 53 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8608974467_wards.csv
+  match 8608974467: collected 64 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8608974467_wards.csv
+  match 8608974467: collected 64 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8576406746_wards.csv
+  match 8576406746: collected 45 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8514308079_wards.csv
+  match 8514308079: collected 32 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8600068614_wards.csv
+  match 8600068614: collected 53 placements, 10 in window
+Processing hero 35 (Sniper/狙击手) side=radiant matches=6
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8579245952_wards.csv
+  match 8579245952: collected 52 placements, 12 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8603728193_wards.csv
+  match 8603728193: collected 36 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8603728193_wards.csv
+  match 8603728193: collected 36 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8579245952_wards.csv
+  match 8579245952: collected 52 placements, 12 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8603728193_wards.csv
+  match 8603728193: collected 36 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8579245952_wards.csv
+  match 8579245952: collected 52 placements, 12 in window
+Processing hero 38 (Beastmaster/野兽大师) side=dire matches=9
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8458567498_wards.csv
+  match 8458567498: collected 47 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8447554972_wards.csv
+  match 8447554972: collected 63 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8461735141_wards.csv
+  match 8461735141: collected 54 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8447554972_wards.csv
+  match 8447554972: collected 63 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8461735141_wards.csv
+  match 8461735141: collected 54 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8458567498_wards.csv
+  match 8458567498: collected 47 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8447554972_wards.csv
+  match 8447554972: collected 63 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8461735141_wards.csv
+  match 8461735141: collected 54 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8458567498_wards.csv
+  match 8458567498: collected 47 placements, 7 in window
+Processing hero 38 (Beastmaster/野兽大师) side=radiant matches=6
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8447613945_wards.csv
+  match 8447613945: collected 102 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8456770626_wards.csv
+  match 8456770626: collected 59 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8456770626_wards.csv
+  match 8456770626: collected 59 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8447613945_wards.csv
+  match 8447613945: collected 102 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8447613945_wards.csv
+  match 8447613945: collected 102 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8456770626_wards.csv
+  match 8456770626: collected 59 placements, 9 in window
+Processing hero 17 (Storm Spirit/风暴之灵) side=dire matches=15
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8582522954_wards.csv
+  match 8582522954: collected 57 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8527782901_wards.csv
+  match 8527782901: collected 54 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8540189130_wards.csv
+  match 8540189130: collected 66 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8514117469_wards.csv
+  match 8514117469: collected 73 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8592220102_wards.csv
+  match 8592220102: collected 48 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8514117469_wards.csv
+  match 8514117469: collected 73 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8527782901_wards.csv
+  match 8527782901: collected 54 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8540189130_wards.csv
+  match 8540189130: collected 66 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8582522954_wards.csv
+  match 8582522954: collected 57 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8527782901_wards.csv
+  match 8527782901: collected 54 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8540189130_wards.csv
+  match 8540189130: collected 66 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8514117469_wards.csv
+  match 8514117469: collected 73 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8592220102_wards.csv
+  match 8592220102: collected 48 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8582522954_wards.csv
+  match 8582522954: collected 57 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8592220102_wards.csv
+  match 8592220102: collected 48 placements, 9 in window
+Processing hero 114 (Monkey King/大圣) side=dire matches=9
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8538982213_wards.csv
+  match 8538982213: collected 65 placements, 4 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8449036139_wards.csv
+  match 8449036139: collected 50 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8606592816_wards.csv
+  match 8606592816: collected 27 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8538982213_wards.csv
+  match 8538982213: collected 65 placements, 4 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8449036139_wards.csv
+  match 8449036139: collected 50 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8606592816_wards.csv
+  match 8606592816: collected 27 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8538982213_wards.csv
+  match 8538982213: collected 65 placements, 4 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8449036139_wards.csv
+  match 8449036139: collected 50 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8606592816_wards.csv
+  match 8606592816: collected 27 placements, 9 in window
+Processing hero 114 (Monkey King/大圣) side=radiant matches=6
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8536705879_wards.csv
+  match 8536705879: collected 77 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8550072085_wards.csv
+  match 8550072085: collected 34 placements, 6 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8536705879_wards.csv
+  match 8536705879: collected 77 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8550072085_wards.csv
+  match 8550072085: collected 34 placements, 6 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8536705879_wards.csv
+  match 8536705879: collected 77 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8550072085_wards.csv
+  match 8550072085: collected 34 placements, 6 in window
+Processing hero 53 (Nature's Prophet/先知) side=dire matches=12
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8605115782_wards.csv
+  match 8605115782: collected 35 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8527923420_wards.csv
+  match 8527923420: collected 61 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8609085945_wards.csv
+  match 8609085945: collected 93 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8511503985_wards.csv
+  match 8511503985: collected 42 placements, 5 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8527923420_wards.csv
+  match 8527923420: collected 61 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8511503985_wards.csv
+  match 8511503985: collected 42 placements, 5 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8609085945_wards.csv
+  match 8609085945: collected 93 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8605115782_wards.csv
+  match 8605115782: collected 35 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8527923420_wards.csv
+  match 8527923420: collected 61 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8609085945_wards.csv
+  match 8609085945: collected 93 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8511503985_wards.csv
+  match 8511503985: collected 42 placements, 5 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8605115782_wards.csv
+  match 8605115782: collected 35 placements, 10 in window
+Processing hero 13 (Puck/帕克) side=dire matches=12
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8603810835_wards.csv
+  match 8603810835: collected 45 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8550149598_wards.csv
+  match 8550149598: collected 57 placements, 13 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8576678568_wards.csv
+  match 8576678568: collected 41 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8550292837_wards.csv
+  match 8550292837: collected 66 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8576678568_wards.csv
+  match 8576678568: collected 41 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8603810835_wards.csv
+  match 8603810835: collected 45 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8603810835_wards.csv
+  match 8603810835: collected 45 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8550149598_wards.csv
+  match 8550149598: collected 57 placements, 13 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8576678568_wards.csv
+  match 8576678568: collected 41 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8550292837_wards.csv
+  match 8550292837: collected 66 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8550149598_wards.csv
+  match 8550149598: collected 57 placements, 13 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8550292837_wards.csv
+  match 8550292837: collected 66 placements, 8 in window
+Processing hero 7 (Earthshaker/牛头) side=dire matches=6
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8446401276_wards.csv
+  match 8446401276: collected 88 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8449465357_wards.csv
+  match 8449465357: collected 75 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8446401276_wards.csv
+  match 8446401276: collected 88 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8449465357_wards.csv
+  match 8449465357: collected 75 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8446401276_wards.csv
+  match 8446401276: collected 88 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8449465357_wards.csv
+  match 8449465357: collected 75 placements, 8 in window
+Processing hero 7 (Earthshaker/牛头) side=radiant matches=3
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8459915275_wards.csv
+  match 8459915275: collected 48 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8459915275_wards.csv
+  match 8459915275: collected 48 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8459915275_wards.csv
+  match 8459915275: collected 48 placements, 9 in window
+Processing hero 106 (Ember Spirit/火猫) side=dire matches=9
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8448961997_wards.csv
+  match 8448961997: collected 57 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8605215449_wards.csv
+  match 8605215449: collected 69 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8461476910_wards.csv
+  match 8461476910: collected 63 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8448961997_wards.csv
+  match 8448961997: collected 57 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8461476910_wards.csv
+  match 8461476910: collected 63 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8448961997_wards.csv
+  match 8448961997: collected 57 placements, 10 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8605215449_wards.csv
+  match 8605215449: collected 69 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8461476910_wards.csv
+  match 8461476910: collected 63 placements, 8 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8605215449_wards.csv
+  match 8605215449: collected 69 placements, 7 in window
+Processing hero 14 (Pudge/屠夫) side=dire matches=3
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8512558125_wards.csv
+  match 8512558125: collected 72 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8512558125_wards.csv
+  match 8512558125: collected 72 placements, 7 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8512558125_wards.csv
+  match 8512558125: collected 72 placements, 7 in window
+Processing hero 98 (Timbersaw/伐木机) side=radiant matches=3
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8449812647_wards.csv
+  match 8449812647: collected 78 placements, 12 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8449812647_wards.csv
+  match 8449812647: collected 78 placements, 12 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8449812647_wards.csv
+  match 8449812647: collected 78 placements, 12 in window
+Processing hero 28 (Slardar/斯拉达) side=dire matches=3
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8599992855_wards.csv
+  match 8599992855: collected 49 placements, 6 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8599992855_wards.csv
+  match 8599992855: collected 49 placements, 6 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8599992855_wards.csv
+  match 8599992855: collected 49 placements, 6 in window
+Processing hero 96 (Centaur Warrunner/半人马战行者) side=radiant matches=3
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8526600683_wards.csv
+  match 8526600683: collected 46 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8526600683_wards.csv
+  match 8526600683: collected 46 placements, 11 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8526600683_wards.csv
+  match 8526600683: collected 46 placements, 11 in window
+Processing hero 107 (Earth Spirit/土猫) side=dire matches=3
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8446350616_wards.csv
+  match 8446350616: collected 60 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8446350616_wards.csv
+  match 8446350616: collected 60 placements, 9 in window
+ Using team CSV: data/obs_logs/teams/Team Falcons/match_8446350616_wards.csv
+  match 8446350616: collected 60 placements, 9 in window

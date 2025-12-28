@@ -1,0 +1,119 @@
+match_id,radiant_or_dire,team_id,team_name,ward_type,account_id,personal_name,player_slot,time,removed_time,lifetime,type,x,y,z,entityleft,ehandle,key,_matched_by,slot
+8530181004,radiant,9823272,Team Yandex,obs,312436974,CHIRA_JUNIOR,1,430,790.0,360.0,obs_log,94.4,120.3,132.2,False,6440418,"[94,120]",json_ehandle,1
+8530181004,radiant,9823272,Team Yandex,obs,93817671,vatson,3,902,1262.0,360.0,obs_log,97.8,173.7,129.0,False,6703134,"[98,174]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,obs,93817671,vatson,3,994,1355.0,361.0,obs_log,114.1,130.3,128.8,False,8932208,"[114,130]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,obs,93817671,vatson,3,1100,1114.0,14.0,obs_log,130.2,185.9,129.0,False,7440440,"[130,186]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,obs,93817671,vatson,3,1606,1648.0,42.0,obs_log,118.7,138.8,128.7,False,2803561,"[119,139]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,obs,93817671,vatson,3,1727,2087.0,360.0,obs_log,107.2,139.6,128.0,False,4082000,"[107,140]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,obs,93817671,vatson,3,2167,2353.0,186.0,obs_log,135.7,155.7,131.1,False,16059639,"[136,156]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,obs,93817671,vatson,3,2397,2401.0,4.0,obs_log,152.1,177.3,130.0,False,9750142,"[152,177]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,obs,93817671,vatson,3,2554,2567.0,13.0,obs_log,177.1,148.3,130.0,False,2477203,"[177,148]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,sen,93817671,vatson,3,19,440.0,421.0,sen_log,165.8,100.0,129.0,False,5441360,"[166,100]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,sen,93817671,vatson,3,44,100.0,56.0,sen_log,95.2,164.1,129.0,False,9865232,"[95,164]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,sen,93817671,vatson,3,65,485.0,420.0,sen_log,156.4,86.3,129.0,False,8128695,"[156,86]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,sen,93817671,vatson,3,467,548.0,81.0,sen_log,134.0,120.0,128.0,False,14616327,"[134,120]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,sen,93817671,vatson,3,658,1078.0,420.0,sen_log,77.3,161.5,129.0,False,6883311,"[77,162]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,sen,93817671,vatson,3,1034,1077.0,43.0,sen_log,129.9,125.9,129.0,False,9914776,"[130,126]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,sen,93817671,vatson,3,1092,1114.0,22.0,sen_log,121.9,183.1,129.0,False,9193788,"[122,183]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,sen,93817671,vatson,3,1168,1588.0,420.0,sen_log,98.4,159.9,129.0,False,9783563,"[98,160]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,sen,93817671,vatson,3,1380,1800.0,420.0,sen_log,111.9,184.1,128.0,False,7505803,"[112,184]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,sen,93817671,vatson,3,1554,1974.0,420.0,sen_log,107.6,130.2,129.0,False,7587784,"[108,130]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,sen,93817671,vatson,3,1577,1997.0,420.0,sen_log,132.0,130.4,129.0,False,12568385,"[132,130]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,sen,93817671,vatson,3,1619,1650.0,31.0,sen_log,115.8,143.8,130.0,False,12142642,"[116,144]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,sen,93817671,vatson,3,1955,2375.0,420.0,sen_log,95.0,127.5,130.0,False,13553103,"[95,128]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,sen,93817671,vatson,3,1975,2395.0,420.0,sen_log,132.4,149.9,129.0,False,4818442,"[132,150]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,sen,93817671,vatson,3,2145,2565.0,420.0,sen_log,104.8,176.3,129.0,False,10323679,"[105,176]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,sen,93817671,vatson,3,2362,2782.0,420.0,sen_log,123.0,143.2,129.0,False,12699429,"[123,143]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,sen,93817671,vatson,3,2399,2434.0,35.0,sen_log,149.8,176.4,129.0,False,15846137,"[150,176]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,sen,93817671,vatson,3,2490,2910.0,420.0,sen_log,157.4,132.4,130.0,False,7801093,"[157,132]",json_ehandle,3
+8530181004,radiant,9823272,Team Yandex,obs,103735745,lostreak chicken,4,-60,300.0,360.0,obs_log,138.2,124.8,129.0,False,12076290,"[138,125]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,obs,103735745,lostreak chicken,4,-15,345.0,360.0,obs_log,128.3,101.4,130.0,False,12797533,"[128,101]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,obs,103735745,lostreak chicken,4,308,494.0,186.0,obs_log,115.6,143.7,130.0,False,7014417,"[116,144]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,obs,103735745,lostreak chicken,4,402,762.0,360.0,obs_log,183.9,100.1,129.0,False,461131,"[184,100]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,obs,103735745,lostreak chicken,4,862,1222.0,360.0,obs_log,191.6,133.2,130.0,False,16534340,"[192,133]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,obs,103735745,lostreak chicken,4,964,1324.0,360.0,obs_log,132.2,143.7,129.0,False,7981777,"[132,144]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,obs,103735745,lostreak chicken,4,1265,1625.0,360.0,obs_log,181.9,94.6,129.0,False,12684180,"[182,95]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,obs,103735745,lostreak chicken,4,1392,1752.0,360.0,obs_log,141.6,192.4,129.0,False,2722148,"[142,192]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,obs,103735745,lostreak chicken,4,1549,1909.0,360.0,obs_log,164.2,134.0,132.1,False,6556622,"[164,134]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,obs,103735745,lostreak chicken,4,2049,2079.0,30.0,obs_log,163.8,133.9,132.1,False,12275089,"[164,134]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,obs,103735745,lostreak chicken,4,2132,2492.0,360.0,obs_log,82.0,190.6,130.0,False,9472961,"[82,191]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,obs,103735745,lostreak chicken,4,2571,,,obs_log,164.0,134.2,132.1,False,10732764,"[164,134]",json_cell,4
+8530181004,radiant,9823272,Team Yandex,sen,103735745,lostreak chicken,4,118,125.0,7.0,sen_log,95.1,164.2,129.0,False,10783115,"[95,164]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,sen,103735745,lostreak chicken,4,320,322.0,2.0,sen_log,120.6,128.0,128.0,False,1165483,"[121,128]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,sen,103735745,lostreak chicken,4,462,698.0,236.0,sen_log,122.2,128.4,128.0,False,1181211,"[122,128]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,sen,103735745,lostreak chicken,4,475,735.0,260.0,sen_log,97.7,131.6,130.0,False,13913033,"[98,132]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,sen,103735745,lostreak chicken,4,697,1117.0,420.0,sen_log,163.1,98.4,129.0,False,3623604,"[163,98]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,sen,103735745,lostreak chicken,4,740,1160.0,420.0,sen_log,100.4,134.0,130.0,False,7243684,"[100,134]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,sen,103735745,lostreak chicken,4,937,1357.0,420.0,sen_log,113.9,147.7,128.8,False,8276916,"[114,148]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,sen,103735745,lostreak chicken,4,952,1372.0,420.0,sen_log,117.7,131.2,128.0,False,10635242,"[118,131]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,sen,103735745,lostreak chicken,4,1124,1544.0,420.0,sen_log,183.7,71.3,130.0,False,13814488,"[184,71]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,sen,103735745,lostreak chicken,4,1236,1656.0,420.0,sen_log,83.5,158.4,129.0,False,14896019,"[84,158]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,sen,103735745,lostreak chicken,4,1240,1660.0,420.0,sen_log,89.3,145.8,129.0,False,2426829,"[89,146]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,sen,103735745,lostreak chicken,4,1363,1783.0,420.0,sen_log,93.6,178.0,129.0,False,4409768,"[94,178]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,sen,103735745,lostreak chicken,4,1733,2153.0,420.0,sen_log,109.1,149.1,128.0,False,4082844,"[109,149]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,sen,103735745,lostreak chicken,4,1742,1754.0,12.0,sen_log,115.6,143.9,130.0,False,1100461,"[116,144]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,sen,103735745,lostreak chicken,4,1869,1945.0,76.0,sen_log,158.7,136.7,130.0,False,2329674,"[159,137]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,sen,103735745,lostreak chicken,4,2010,2430.0,420.0,sen_log,146.2,90.3,130.0,False,5474864,"[146,90]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,sen,103735745,lostreak chicken,4,2048,2086.0,38.0,sen_log,159.2,132.5,130.0,False,13994586,"[159,133]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,sen,103735745,lostreak chicken,4,2120,2540.0,420.0,sen_log,70.5,163.8,129.0,False,13585428,"[71,164]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,sen,103735745,lostreak chicken,4,2126,2546.0,420.0,sen_log,74.8,187.3,130.0,False,2034589,"[75,187]",json_ehandle,4
+8530181004,radiant,9823272,Team Yandex,sen,103735745,lostreak chicken,4,2612,3032.0,420.0,sen_log,153.5,172.5,130.0,False,10324068,"[154,173]",json_ehandle,4
+8530181004,dire,9467224,Aurora Gaming,obs,301750126,yareuuu,129,-21,339.0,360.0,obs_log,123.9,131.7,129.0,False,4425282,"[124,132]",json_ehandle,6
+8530181004,dire,9467224,Aurora Gaming,obs,301750126,yareuuu,129,342,474.0,132.0,obs_log,130.8,125.9,129.0,False,3574405,"[131,126]",json_ehandle,6
+8530181004,dire,9467224,Aurora Gaming,obs,301750126,yareuuu,129,914,1274.0,360.0,obs_log,110.1,111.3,129.0,False,6605344,"[110,111]",json_ehandle,6
+8530181004,dire,9467224,Aurora Gaming,sen,301750126,yareuuu,129,291,465.0,174.0,sen_log,125.5,122.6,128.0,False,13846045,"[126,123]",json_ehandle,6
+8530181004,dire,9467224,Aurora Gaming,sen,431770905, ∩ (◣_◢) ∩,130,743,1163.0,420.0,sen_log,181.2,119.2,129.0,False,10471359,"[181,119]",json_ehandle,7
+8530181004,dire,9467224,Aurora Gaming,obs,256156323,vessel,131,-18,342.0,360.0,obs_log,119.5,153.2,130.0,False,10946121,"[120,153]",json_ehandle,8
+8530181004,dire,9467224,Aurora Gaming,obs,256156323,vessel,131,325,685.0,360.0,obs_log,145.6,86.4,130.0,False,3459291,"[146,86]",json_ehandle,8
+8530181004,dire,9467224,Aurora Gaming,obs,256156323,vessel,131,344,704.0,360.0,obs_log,144.7,112.5,128.0,False,6769303,"[145,113]",json_ehandle,8
+8530181004,dire,9467224,Aurora Gaming,obs,256156323,vessel,131,511,871.0,360.0,obs_log,171.6,107.3,129.0,False,7915092,"[172,107]",json_ehandle,8
+8530181004,dire,9467224,Aurora Gaming,obs,256156323,vessel,131,928,1288.0,360.0,obs_log,106.3,120.3,130.0,False,8440278,"[106,120]",json_ehandle,8
+8530181004,dire,9467224,Aurora Gaming,obs,256156323,vessel,131,1033,1393.0,360.0,obs_log,129.5,96.0,130.0,False,5376898,"[130,96]",json_ehandle,8
+8530181004,dire,9467224,Aurora Gaming,obs,256156323,vessel,131,1695,1745.0,50.0,obs_log,115.5,143.6,130.0,False,11324799,"[116,144]",json_ehandle,8
+8530181004,dire,9467224,Aurora Gaming,obs,256156323,vessel,131,1916,1957.0,41.0,obs_log,94.0,120.2,132.2,False,4442536,"[94,120]",json_ehandle,8
+8530181004,dire,9467224,Aurora Gaming,obs,256156323,vessel,131,1975,2335.0,360.0,obs_log,180.7,67.1,130.0,False,12487715,"[181,67]",json_ehandle,8
+8530181004,dire,9467224,Aurora Gaming,obs,256156323,vessel,131,2122,2482.0,360.0,obs_log,129.3,128.4,129.0,False,4491642,"[129,128]",json_ehandle,8
+8530181004,dire,9467224,Aurora Gaming,obs,256156323,vessel,131,2369,,,obs_log,150.9,119.6,130.0,False,3557035,"[151,120]",,8
+8530181004,dire,9467224,Aurora Gaming,sen,256156323,vessel,131,55,67.0,12.0,sen_log,162.5,91.5,129.0,False,2115697,"[163,92]",json_ehandle,8
+8530181004,dire,9467224,Aurora Gaming,sen,256156323,vessel,131,167,269.0,102.0,sen_log,157.4,91.2,129.0,False,8079233,"[157,91]",json_ehandle,8
+8530181004,dire,9467224,Aurora Gaming,sen,256156323,vessel,131,377,797.0,420.0,sen_log,138.5,113.5,128.0,False,2050943,"[139,114]",json_ehandle,8
+8530181004,dire,9467224,Aurora Gaming,sen,256156323,vessel,131,509,929.0,420.0,sen_log,171.6,107.7,129.0,False,5703384,"[172,108]",json_ehandle,8
+8530181004,dire,9467224,Aurora Gaming,sen,256156323,vessel,131,692,1112.0,420.0,sen_log,105.8,163.9,130.0,False,7293857,"[106,164]",json_ehandle,8
+8530181004,dire,9467224,Aurora Gaming,sen,256156323,vessel,131,1026,1446.0,420.0,sen_log,134.2,101.1,130.0,False,460645,"[134,101]",json_ehandle,8
+8530181004,dire,9467224,Aurora Gaming,sen,256156323,vessel,131,1636,2056.0,420.0,sen_log,115.5,143.5,130.0,False,3867339,"[116,144]",json_ehandle,8
+8530181004,dire,9467224,Aurora Gaming,sen,256156323,vessel,131,1940,2361.0,421.0,sen_log,158.2,132.5,130.0,False,14880195,"[158,133]",json_ehandle,8
+8530181004,dire,9467224,Aurora Gaming,sen,256156323,vessel,131,2110,2530.0,420.0,sen_log,151.3,121.1,130.0,False,12864322,"[151,121]",json_ehandle,8
+8530181004,dire,9467224,Aurora Gaming,sen,256156323,vessel,131,2122,2542.0,420.0,sen_log,129.3,128.4,129.0,False,13519306,"[129,128]",json_ehandle,8
+8530181004,dire,9467224,Aurora Gaming,sen,256156323,vessel,131,2238,2658.0,420.0,sen_log,151.4,147.9,129.0,False,9603211,"[151,148]",json_ehandle,8
+8530181004,dire,9467224,Aurora Gaming,sen,256156323,vessel,131,2364,2784.0,420.0,sen_log,144.0,134.6,129.0,False,8488876,"[144,135]",json_ehandle,8
+8530181004,dire,9467224,Aurora Gaming,obs,101259972,okok,132,902,1262.0,360.0,obs_log,146.0,110.3,128.0,False,14633915,"[146,110]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,obs,101259972,okok,132,1312,1672.0,360.0,obs_log,110.4,164.6,130.0,False,12110196,"[110,165]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,obs,101259972,okok,132,1349,1709.0,360.0,obs_log,71.4,191.2,130.0,False,4589810,"[71,191]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,obs,101259972,okok,132,1507,1867.0,360.0,obs_log,143.7,121.9,130.0,False,13191213,"[144,122]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,obs,101259972,okok,132,1917,1927.0,10.0,obs_log,97.8,183.1,129.0,False,3411062,"[98,183]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,obs,101259972,okok,132,2368,2493.0,125.0,obs_log,163.6,133.7,132.1,False,12306549,"[164,134]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,98,518.0,420.0,sen_log,98.2,170.0,129.0,False,16385634,"[98,170]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,330,750.0,420.0,sen_log,114.1,151.7,130.0,False,8620360,"[114,152]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,454,481.0,27.0,sen_log,98.5,137.5,130.0,False,11700085,"[99,138]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,578,998.0,420.0,sen_log,184.8,73.7,130.0,False,16566304,"[185,74]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,696,1022.0,326.0,sen_log,119.8,128.8,128.0,False,16747231,"[120,129]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,734,743.0,9.0,sen_log,98.7,134.2,130.0,False,14763685,"[99,134]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,904,1324.0,420.0,sen_log,143.7,112.7,128.0,False,7424612,"[144,113]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,910,1330.0,420.0,sen_log,129.3,118.2,129.0,False,15698282,"[129,118]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,967,1387.0,420.0,sen_log,130.1,152.1,129.0,False,968697,"[130,152]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,1027,1447.0,420.0,sen_log,142.0,136.4,129.0,False,7064429,"[142,136]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,1111,1531.0,420.0,sen_log,123.5,186.0,129.0,False,16567210,"[124,186]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,1287,1708.0,421.0,sen_log,105.6,178.1,129.0,False,4949791,"[106,178]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,1304,1724.0,420.0,sen_log,107.2,162.4,130.0,False,10619250,"[107,162]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,1344,1764.0,420.0,sen_log,76.2,187.4,130.0,False,3835879,"[76,187]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,1483,1904.0,421.0,sen_log,157.9,132.8,130.0,False,12109485,"[158,133]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,1490,1910.0,420.0,sen_log,154.0,121.6,130.0,False,1837927,"[154,122]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,1541,1961.0,420.0,sen_log,130.2,150.9,129.0,False,13503369,"[130,151]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,1628,2048.0,420.0,sen_log,118.6,152.1,130.0,False,13716189,"[119,152]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,1869,2289.0,420.0,sen_log,163.9,154.9,130.0,False,8719450,"[164,155]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,1915,1924.0,9.0,sen_log,98.4,178.4,129.0,False,2852783,"[98,178]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,1970,2390.0,420.0,sen_log,153.7,162.7,130.0,False,12371617,"[154,163]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,2370,2494.0,124.0,sen_log,158.0,134.2,130.0,False,15189824,"[158,134]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,2397,2401.0,4.0,sen_log,154.0,174.8,130.0,False,7981864,"[154,175]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,2423,2615.0,192.0,sen_log,156.5,172.6,130.0,False,969446,"[157,173]",json_ehandle,9
+8530181004,dire,9467224,Aurora Gaming,sen,101259972,okok,132,2450,2870.0,420.0,sen_log,158.5,160.0,130.0,False,7277537,"[159,160]",json_ehandle,9

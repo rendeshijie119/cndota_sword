@@ -1,0 +1,2 @@
+Aggregated points per window:
+ window 1 (-1-2 min): 38 points

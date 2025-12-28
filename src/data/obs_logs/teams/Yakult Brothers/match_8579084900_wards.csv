@@ -1,0 +1,133 @@
+match_id,radiant_or_dire,team_id,team_name,ward_type,account_id,personal_name,player_slot,time,removed_time,lifetime,type,x,y,z,entityleft,ehandle,key,_matched_by,slot
+8579084900,radiant,9351740,Yakult Brothers,obs,207829314,peekaboo,3,174,534.0,360.0,obs_log,110.7,165.0,130.0,False,13256929,"[111,165]",json_ehandle,3
+8579084900,radiant,9351740,Yakult Brothers,obs,207829314,peekaboo,3,502,862.0,360.0,obs_log,126.1,143.0,129.0,False,3474990,"[126,143]",json_ehandle,3
+8579084900,radiant,9351740,Yakult Brothers,obs,207829314,peekaboo,3,884,1244.0,360.0,obs_log,81.1,149.4,129.0,False,1411401,"[81,149]",json_ehandle,3
+8579084900,radiant,9351740,Yakult Brothers,obs,207829314,peekaboo,3,1216,1576.0,360.0,obs_log,143.5,62.2,130.0,False,9047246,"[144,62]",json_ehandle,3
+8579084900,radiant,9351740,Yakult Brothers,obs,207829314,peekaboo,3,1542,1902.0,360.0,obs_log,152.3,96.3,130.0,False,7717131,"[152,96]",json_ehandle,3
+8579084900,radiant,9351740,Yakult Brothers,obs,207829314,peekaboo,3,1736,2096.0,360.0,obs_log,152.5,66.5,129.0,False,9521839,"[153,67]",json_ehandle,3
+8579084900,radiant,9351740,Yakult Brothers,obs,207829314,peekaboo,3,2976,3397.0,421.0,obs_log,92.8,132.0,130.0,False,13765633,"[93,132]",json_ehandle,3
+8579084900,radiant,9351740,Yakult Brothers,sen,207829314,peekaboo,3,53,113.0,60.0,sen_log,98.6,169.6,129.0,False,9111668,"[99,170]",json_ehandle,3
+8579084900,radiant,9351740,Yakult Brothers,sen,207829314,peekaboo,3,166,586.0,420.0,sen_log,99.3,163.5,129.0,False,10897803,"[99,164]",json_ehandle,3
+8579084900,radiant,9351740,Yakult Brothers,sen,207829314,peekaboo,3,488,908.0,420.0,sen_log,118.9,152.1,130.0,False,9226287,"[119,152]",json_ehandle,3
+8579084900,radiant,9351740,Yakult Brothers,sen,207829314,peekaboo,3,718,744.0,26.0,sen_log,96.9,130.6,130.0,False,4443440,"[97,131]",json_ehandle,3
+8579084900,radiant,9351740,Yakult Brothers,sen,207829314,peekaboo,3,883,1303.0,420.0,sen_log,81.1,149.4,129.0,False,9258720,"[81,149]",json_ehandle,3
+8579084900,radiant,9351740,Yakult Brothers,sen,207829314,peekaboo,3,1537,1957.0,420.0,sen_log,145.2,90.8,130.0,False,50739,"[145,91]",json_ehandle,3
+8579084900,radiant,9351740,Yakult Brothers,sen,207829314,peekaboo,3,1739,2159.0,420.0,sen_log,152.5,66.5,129.0,False,13290351,"[153,67]",json_ehandle,3
+8579084900,radiant,9351740,Yakult Brothers,obs,158847773,败犬的嘶吼,4,-21,339.0,360.0,obs_log,117.8,126.4,129.0,False,9635370,"[118,126]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,obs,158847773,败犬的嘶吼,4,103,463.0,360.0,obs_log,176.5,88.8,129.0,False,6358620,"[177,89]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,obs,158847773,败犬的嘶吼,4,382,597.0,215.0,obs_log,138.1,103.4,130.0,False,15451960,"[138,103]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,obs,158847773,败犬的嘶吼,4,607,967.0,360.0,obs_log,102.0,133.3,130.0,False,7637957,"[102,133]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,obs,158847773,败犬的嘶吼,4,650,1010.0,360.0,obs_log,117.8,94.3,131.2,False,10962908,"[118,94]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,obs,158847773,败犬的嘶吼,4,907,1267.0,360.0,obs_log,123.9,132.9,129.0,False,4982608,"[124,133]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,obs,158847773,败犬的嘶吼,4,1180,1484.0,304.0,obs_log,113.1,163.0,130.0,False,658701,"[113,163]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,obs,158847773,败犬的嘶吼,4,1338,1698.0,360.0,obs_log,128.9,126.1,129.0,False,13650837,"[129,126]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,obs,158847773,败犬的嘶吼,4,1583,1943.0,360.0,obs_log,87.1,146.6,129.0,False,6098114,"[87,147]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,obs,158847773,败犬的嘶吼,4,1852,1909.0,57.0,obs_log,163.6,134.1,132.1,False,3082345,"[164,134]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,obs,158847773,败犬的嘶吼,4,1976,2267.0,291.0,obs_log,118.4,151.8,130.0,False,15994194,"[118,152]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,obs,158847773,败犬的嘶吼,4,2277,2315.0,38.0,obs_log,117.5,94.1,131.2,False,11128352,"[118,94]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,obs,158847773,败犬的嘶吼,4,2355,2715.0,360.0,obs_log,66.2,142.2,132.2,False,3902253,"[66,142]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,obs,158847773,败犬的嘶吼,4,2455,2525.0,70.0,obs_log,93.9,119.8,132.2,False,16713435,"[94,120]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,obs,158847773,败犬的嘶吼,4,2782,2843.0,61.0,obs_log,94.1,119.7,132.2,False,4016378,"[94,120]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,obs,158847773,败犬的嘶吼,4,2852,,,obs_log,77.5,103.5,130.0,False,3934164,"[78,104]",,4
+8579084900,radiant,9351740,Yakult Brothers,obs,158847773,败犬的嘶吼,4,3041,3462.0,421.0,obs_log,100.0,76.6,130.0,False,16011381,"[100,77]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,38,101.0,63.0,sen_log,167.6,96.8,129.0,False,10913751,"[168,97]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,91,225.0,134.0,sen_log,156.3,88.4,129.0,False,2918878,"[156,88]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,291,711.0,420.0,sen_log,156.2,88.1,129.0,False,985731,"[156,88]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,400,821.0,421.0,sen_log,178.0,86.9,129.0,False,510857,"[178,87]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,558,656.0,98.0,sen_log,133.6,121.6,128.0,False,9734121,"[134,122]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,653,1073.0,420.0,sen_log,124.2,95.8,129.0,False,4983763,"[124,96]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,782,1202.0,420.0,sen_log,124.1,133.1,129.0,False,15894302,"[124,133]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,869,1289.0,420.0,sen_log,100.0,123.3,130.0,False,7048331,"[100,123]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,881,1301.0,420.0,sen_log,88.7,132.0,130.0,False,15370139,"[89,132]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,946,1087.0,141.0,sen_log,161.9,94.8,129.0,False,16058307,"[162,95]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,1056,1380.0,324.0,sen_log,153.5,116.7,130.0,False,7030433,"[154,117]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,1118,1538.0,420.0,sen_log,72.2,162.5,129.0,False,8488720,"[72,163]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,1305,1725.0,420.0,sen_log,138.9,76.8,128.0,False,14124802,"[139,77]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,1338,1758.0,420.0,sen_log,129.0,126.2,129.0,False,15355005,"[129,126]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,1348,1768.0,420.0,sen_log,118.0,118.6,129.0,False,10766534,"[118,119]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,1386,1807.0,421.0,sen_log,115.8,133.3,128.0,False,575009,"[116,133]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,1399,1647.0,248.0,sen_log,104.7,140.0,128.0,False,4653298,"[105,140]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,1479,1899.0,420.0,sen_log,123.7,98.3,129.0,False,14781507,"[124,98]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,1583,2003.0,420.0,sen_log,87.1,146.6,129.0,False,15895047,"[87,147]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,1587,1711.0,124.0,sen_log,185.3,74.8,130.0,False,2198006,"[185,75]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,1720,2140.0,420.0,sen_log,75.9,156.4,129.0,False,674498,"[76,156]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,1853,1912.0,59.0,sen_log,156.2,135.3,130.0,False,1639973,"[156,135]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,1953,2373.0,420.0,sen_log,117.6,133.6,128.0,False,10375117,"[118,134]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,1976,2266.0,290.0,sen_log,118.4,151.8,130.0,False,12846959,"[118,152]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,2275,2493.0,218.0,sen_log,111.6,96.3,129.0,False,11930897,"[112,96]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,2357,2777.0,420.0,sen_log,66.3,142.3,132.2,False,3050822,"[66,142]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,2420,2840.0,420.0,sen_log,85.6,102.2,130.0,False,13764784,"[86,102]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,2427,2847.0,420.0,sen_log,99.8,92.3,129.0,False,280677,"[100,92]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,2455,2527.0,72.0,sen_log,93.9,119.8,132.2,False,444795,"[94,120]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,2463,2681.0,218.0,sen_log,100.0,107.0,129.0,False,12337409,"[100,107]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,2506,2632.0,126.0,sen_log,95.8,79.1,130.0,False,11456014,"[96,79]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,2702,3122.0,420.0,sen_log,93.5,79.2,130.0,False,4442506,"[94,79]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,2753,2829.0,76.0,sen_log,115.3,87.4,129.0,False,8079996,"[115,87]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,2783,2842.0,59.0,sen_log,94.1,119.6,132.2,False,13700308,"[94,120]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,2850,3270.0,420.0,sen_log,81.0,99.9,130.0,False,9096626,"[81,100]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,2879,2903.0,24.0,sen_log,94.1,93.3,130.0,False,11637237,"[94,93]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,2977,3397.0,420.0,sen_log,92.8,132.0,130.0,False,773966,"[93,132]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,3000,3053.0,53.0,sen_log,93.7,93.4,130.0,False,12405927,"[94,93]",json_ehandle,4
+8579084900,radiant,9351740,Yakult Brothers,sen,158847773,败犬的嘶吼,4,3042,3462.0,420.0,sen_log,100.3,76.6,130.0,False,16208211,"[100,77]",json_ehandle,4
+8579084900,dire,9823272,Team Yandex,obs,312436974,CHIRA_JUNIOR,129,-30,330.0,360.0,obs_log,111.9,130.1,128.9,False,11339279,"[112,130]",json_ehandle,6
+8579084900,dire,9823272,Team Yandex,obs,312436974,CHIRA_JUNIOR,129,491,562.0,71.0,obs_log,129.8,126.1,129.0,False,7784561,"[130,126]",json_ehandle,6
+8579084900,dire,9823272,Team Yandex,sen,312436974,CHIRA_JUNIOR,129,317,562.0,245.0,sen_log,127.7,122.9,128.0,False,12471137,"[128,123]",json_ehandle,6
+8579084900,dire,9823272,Team Yandex,obs,93817671,vatson,131,-21,339.0,360.0,obs_log,77.6,151.1,129.0,False,1345061,"[78,151]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,obs,93817671,vatson,131,669,1030.0,361.0,obs_log,92.4,166.1,129.0,False,8735895,"[92,166]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,obs,93817671,vatson,131,995,1121.0,126.0,obs_log,77.4,167.1,129.0,False,16633284,"[77,167]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,obs,93817671,vatson,131,1230,1590.0,360.0,obs_log,64.7,177.6,129.8,False,15617052,"[65,178]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,obs,93817671,vatson,131,1337,1697.0,360.0,obs_log,106.3,120.0,130.0,False,297339,"[106,120]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,obs,93817671,vatson,131,1703,2063.0,360.0,obs_log,64.0,177.5,129.8,False,3116306,"[64,178]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,obs,93817671,vatson,131,2272,2632.0,360.0,obs_log,79.9,140.7,129.0,False,8801870,"[80,141]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,obs,93817671,vatson,131,2327,2687.0,360.0,obs_log,114.5,114.9,129.0,False,6899638,"[115,115]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,obs,93817671,vatson,131,2540,2900.0,360.0,obs_log,86.9,111.8,129.0,False,165826,"[87,112]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,obs,93817671,vatson,131,2758,,,obs_log,136.4,106.6,130.0,False,8720824,"[136,107]",,8
+8579084900,dire,9823272,Team Yandex,obs,93817671,vatson,131,2842,,,obs_log,116.6,70.4,129.1,False,1591367,"[117,70]",,8
+8579084900,dire,9823272,Team Yandex,obs,93817671,vatson,131,3053,,,obs_log,89.5,93.4,130.0,False,10209264,"[90,93]",,8
+8579084900,dire,9823272,Team Yandex,sen,93817671,vatson,131,81,501.0,420.0,sen_log,93.1,157.2,129.0,False,5769551,"[93,157]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,sen,93817671,vatson,131,108,171.0,63.0,sen_log,102.6,167.6,130.0,False,7293107,"[103,168]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,sen,93817671,vatson,131,601,1021.0,420.0,sen_log,114.4,124.3,129.0,False,12404454,"[114,124]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,sen,93817671,vatson,131,672,1092.0,420.0,sen_log,93.4,159.6,129.0,False,3443890,"[93,160]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,sen,93817671,vatson,131,741,876.0,135.0,sen_log,96.1,126.8,130.0,False,14748158,"[96,127]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,sen,93817671,vatson,131,942,1122.0,180.0,sen_log,74.7,167.9,129.0,False,13174443,"[75,168]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,sen,93817671,vatson,131,1119,1539.0,420.0,sen_log,72.4,184.4,130.0,False,10847754,"[72,184]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,sen,93817671,vatson,131,1320,1390.0,70.0,sen_log,116.7,130.2,128.0,False,15682228,"[117,130]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,sen,93817671,vatson,131,1504,1924.0,420.0,sen_log,112.1,125.8,129.0,False,15551143,"[112,126]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,sen,93817671,vatson,131,1555,1975.0,420.0,sen_log,109.9,171.7,129.0,False,6834551,"[110,172]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,sen,93817671,vatson,131,1605,2025.0,420.0,sen_log,186.5,74.5,130.0,False,4869273,"[187,75]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,sen,93817671,vatson,131,1645,2065.0,420.0,sen_log,100.0,136.1,130.0,False,11291547,"[100,136]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,sen,93817671,vatson,131,2072,2492.0,420.0,sen_log,115.1,153.9,130.0,False,12947328,"[115,154]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,sen,93817671,vatson,131,2226,2646.0,420.0,sen_log,151.2,122.6,130.0,False,5916642,"[151,123]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,sen,93817671,vatson,131,2313,2733.0,420.0,sen_log,118.2,94.3,131.2,False,8259863,"[118,94]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,sen,93817671,vatson,131,2327,2747.0,420.0,sen_log,114.5,114.9,129.0,False,1197655,"[115,115]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,sen,93817671,vatson,131,2541,2961.0,420.0,sen_log,85.4,114.0,129.0,False,640765,"[85,114]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,sen,93817671,vatson,131,2760,3180.0,420.0,sen_log,136.2,108.3,130.0,False,5375263,"[136,108]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,sen,93817671,vatson,131,2843,3263.0,420.0,sen_log,119.9,70.6,129.0,False,13405794,"[120,71]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,sen,93817671,vatson,131,3055,3475.0,420.0,sen_log,89.5,93.7,130.0,False,6554487,"[90,94]",json_ehandle,8
+8579084900,dire,9823272,Team Yandex,obs,103735745,lostreak chicken,132,308,404.0,96.0,obs_log,178.3,88.5,129.0,False,3164948,"[178,89]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,obs,103735745,lostreak chicken,132,514,874.0,360.0,obs_log,147.2,84.2,130.0,False,14453215,"[147,84]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,obs,103735745,lostreak chicken,132,637,997.0,360.0,obs_log,121.1,109.7,129.0,False,19101,"[121,110]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,obs,103735745,lostreak chicken,132,988,1311.0,323.0,obs_log,134.2,81.2,129.0,False,4867960,"[134,81]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,obs,103735745,lostreak chicken,132,1178,1538.0,360.0,obs_log,126.1,110.0,130.0,False,3460114,"[126,110]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,obs,103735745,lostreak chicken,132,1490,1850.0,360.0,obs_log,110.4,144.8,128.0,False,427583,"[110,145]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,obs,103735745,lostreak chicken,132,1768,2128.0,360.0,obs_log,112.2,62.2,129.0,False,1247676,"[112,62]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,obs,103735745,lostreak chicken,132,1858,2218.0,360.0,obs_log,110.8,164.5,130.0,False,5572513,"[111,165]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,obs,103735745,lostreak chicken,132,2199,2559.0,360.0,obs_log,143.7,122.1,130.0,False,2494153,"[144,122]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,sen,103735745,lostreak chicken,132,40,95.0,55.0,sen_log,156.9,86.9,129.0,False,51176,"[157,87]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,sen,103735745,lostreak chicken,132,92,512.0,420.0,sen_log,161.4,97.3,129.0,False,13224418,"[161,97]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,sen,103735745,lostreak chicken,132,223,293.0,70.0,sen_log,156.9,88.5,129.0,False,6374971,"[157,89]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,sen,103735745,lostreak chicken,132,593,1013.0,420.0,sen_log,130.3,102.6,130.0,False,2557834,"[130,103]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,sen,103735745,lostreak chicken,132,647,1067.0,420.0,sen_log,128.9,116.8,129.0,False,13043616,"[129,117]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,sen,103735745,lostreak chicken,132,990,1309.0,319.0,sen_log,134.3,81.1,129.0,False,10766353,"[134,81]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,sen,103735745,lostreak chicken,132,1085,1505.0,420.0,sen_log,158.8,95.8,129.0,False,15354602,"[159,96]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,sen,103735745,lostreak chicken,132,1173,1594.0,421.0,sen_log,130.6,103.6,130.0,False,9176944,"[131,104]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,sen,103735745,lostreak chicken,132,1375,1795.0,420.0,sen_log,152.9,121.6,130.0,False,15730469,"[153,122]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,sen,103735745,lostreak chicken,132,1480,1900.0,420.0,sen_log,105.6,163.0,130.0,False,230594,"[106,163]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,sen,103735745,lostreak chicken,132,1889,2309.0,420.0,sen_log,130.7,150.8,129.0,False,7375331,"[131,151]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,sen,103735745,lostreak chicken,132,1896,2316.0,420.0,sen_log,145.9,146.1,129.0,False,7784734,"[146,146]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,sen,103735745,lostreak chicken,132,1903,2324.0,421.0,sen_log,157.9,135.4,130.0,False,16059292,"[158,135]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,sen,103735745,lostreak chicken,132,1950,2370.0,420.0,sen_log,75.2,188.5,130.0,False,10702787,"[75,189]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,sen,103735745,lostreak chicken,132,2361,2781.0,420.0,sen_log,86.7,150.7,128.6,False,1674083,"[87,151]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,sen,103735745,lostreak chicken,132,2397,2461.0,64.0,sen_log,99.3,121.2,130.0,False,12143366,"[99,121]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,sen,103735745,lostreak chicken,132,2479,2899.0,420.0,sen_log,109.6,103.7,129.0,False,4345829,"[110,104]",json_ehandle,9
+8579084900,dire,9823272,Team Yandex,sen,103735745,lostreak chicken,132,2498,2517.0,19.0,sen_log,102.8,79.2,129.0,False,6770666,"[103,79]",json_ehandle,9

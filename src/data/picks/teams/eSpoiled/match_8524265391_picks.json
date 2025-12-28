@@ -1,0 +1,253 @@
+{
+  "match_id": 8524265391,
+  "picks_bans": [
+    {
+      "is_pick": false,
+      "hero_id": 2,
+      "team": 0,
+      "order": 0
+    },
+    {
+      "is_pick": false,
+      "hero_id": 28,
+      "team": 1,
+      "order": 1
+    },
+    {
+      "is_pick": false,
+      "hero_id": 66,
+      "team": 1,
+      "order": 2
+    },
+    {
+      "is_pick": false,
+      "hero_id": 98,
+      "team": 0,
+      "order": 3
+    },
+    {
+      "is_pick": false,
+      "hero_id": 89,
+      "team": 1,
+      "order": 4
+    },
+    {
+      "is_pick": false,
+      "hero_id": 136,
+      "team": 1,
+      "order": 5
+    },
+    {
+      "is_pick": false,
+      "hero_id": 53,
+      "team": 0,
+      "order": 6
+    },
+    {
+      "is_pick": true,
+      "hero_id": 64,
+      "team": 0,
+      "order": 7
+    },
+    {
+      "is_pick": true,
+      "hero_id": 38,
+      "team": 1,
+      "order": 8
+    },
+    {
+      "is_pick": false,
+      "hero_id": 93,
+      "team": 0,
+      "order": 9
+    },
+    {
+      "is_pick": false,
+      "hero_id": 128,
+      "team": 0,
+      "order": 10
+    },
+    {
+      "is_pick": false,
+      "hero_id": 102,
+      "team": 1,
+      "order": 11
+    },
+    {
+      "is_pick": true,
+      "hero_id": 72,
+      "team": 1,
+      "order": 12
+    },
+    {
+      "is_pick": true,
+      "hero_id": 99,
+      "team": 0,
+      "order": 13
+    },
+    {
+      "is_pick": true,
+      "hero_id": 123,
+      "team": 0,
+      "order": 14
+    },
+    {
+      "is_pick": true,
+      "hero_id": 120,
+      "team": 1,
+      "order": 15
+    },
+    {
+      "is_pick": true,
+      "hero_id": 126,
+      "team": 1,
+      "order": 16
+    },
+    {
+      "is_pick": true,
+      "hero_id": 17,
+      "team": 0,
+      "order": 17
+    },
+    {
+      "is_pick": false,
+      "hero_id": 87,
+      "team": 0,
+      "order": 18
+    },
+    {
+      "is_pick": false,
+      "hero_id": 94,
+      "team": 1,
+      "order": 19
+    },
+    {
+      "is_pick": false,
+      "hero_id": 129,
+      "team": 1,
+      "order": 20
+    },
+    {
+      "is_pick": false,
+      "hero_id": 10,
+      "team": 0,
+      "order": 21
+    },
+    {
+      "is_pick": true,
+      "hero_id": 109,
+      "team": 0,
+      "order": 22
+    },
+    {
+      "is_pick": true,
+      "hero_id": 12,
+      "team": 1,
+      "order": 23
+    }
+  ],
+  "radiant_picks": [
+    {
+      "hero_id": 64,
+      "hero_name": null
+    },
+    {
+      "hero_id": 99,
+      "hero_name": null
+    },
+    {
+      "hero_id": 123,
+      "hero_name": null
+    },
+    {
+      "hero_id": 17,
+      "hero_name": null
+    },
+    {
+      "hero_id": 109,
+      "hero_name": null
+    }
+  ],
+  "dire_picks": [
+    {
+      "hero_id": 38,
+      "hero_name": null
+    },
+    {
+      "hero_id": 72,
+      "hero_name": null
+    },
+    {
+      "hero_id": 120,
+      "hero_name": null
+    },
+    {
+      "hero_id": 126,
+      "hero_name": null
+    },
+    {
+      "hero_id": 12,
+      "hero_name": null
+    }
+  ],
+  "radiant_bans": [
+    {
+      "hero_id": 2,
+      "hero_name": null
+    },
+    {
+      "hero_id": 98,
+      "hero_name": null
+    },
+    {
+      "hero_id": 53,
+      "hero_name": null
+    },
+    {
+      "hero_id": 93,
+      "hero_name": null
+    },
+    {
+      "hero_id": 128,
+      "hero_name": null
+    },
+    {
+      "hero_id": 87,
+      "hero_name": null
+    },
+    {
+      "hero_id": 10,
+      "hero_name": null
+    }
+  ],
+  "dire_bans": [
+    {
+      "hero_id": 28,
+      "hero_name": null
+    },
+    {
+      "hero_id": 66,
+      "hero_name": null
+    },
+    {
+      "hero_id": 89,
+      "hero_name": null
+    },
+    {
+      "hero_id": 136,
+      "hero_name": null
+    },
+    {
+      "hero_id": 102,
+      "hero_name": null
+    },
+    {
+      "hero_id": 94,
+      "hero_name": null
+    },
+    {
+      "hero_id": 129,
+      "hero_name": null
+    }
+  ]
+}
