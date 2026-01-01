@@ -1,0 +1,68 @@
+{
+  "pipeline_results": {
+    "matches": {
+      "success": true,
+      "files": [
+        "/Users/ziweiren/Documents/development/dota2AI/dota2-hero-movements/src/sword/backend/data/matches/match_to_teams.json"
+      ],
+      "logs": [
+        "Read 7 ids from /Users/ziweiren/Documents/development/dota2AI/dota2-hero-movements/src/sword/backend/temp_match_ids.txt",
+        "Total distinct match ids to consider: 7",
+        "[8598861477] skipped (existing) -> /Users/ziweiren/Documents/development/dota2AI/dota2-hero-movements/src/sword/backend/data/matches/all/match_8598861477.json (no new team copies created)",
+        "[8598987393] skipped (existing) -> /Users/ziweiren/Documents/development/dota2AI/dota2-hero-movements/src/sword/backend/data/matches/all/match_8598987393.json (no new team copies created)",
+        "[8599091798] skipped (existing) -> /Users/ziweiren/Documents/development/dota2AI/dota2-hero-movements/src/sword/backend/data/matches/all/match_8599091798.json (no new team copies created)",
+        "[8599992855] skipped (existing) -> /Users/ziweiren/Documents/development/dota2AI/dota2-hero-movements/src/sword/backend/data/matches/all/match_8599992855.json (no new team copies created)",
+        "[8600068614] skipped (existing) -> /Users/ziweiren/Documents/development/dota2AI/dota2-hero-movements/src/sword/backend/data/matches/all/match_8600068614.json (no new team copies created)",
+        "[8602105739] skipped (existing) -> /Users/ziweiren/Documents/development/dota2AI/dota2-hero-movements/src/sword/backend/data/matches/all/match_8602105739.json (no new team copies created)",
+        "[8602246766] skipped (existing) -> /Users/ziweiren/Documents/development/dota2AI/dota2-hero-movements/src/sword/backend/data/matches/all/match_8602246766.json (no new team copies created)",
+        "Downloading 0 matches -> /Users/ziweiren/Documents/development/dota2AI/dota2-hero-movements/src/sword/backend/data/matches using template https://api.opendota.com/api/matches/{match_id}",
+        "Wrote match->teams map to /Users/ziweiren/Documents/development/dota2AI/dota2-hero-movements/src/sword/backend/data/matches/match_to_teams.json",
+        "Summary: downloaded=0, skipped_existing=7, failed=0",
+        "Skipped (existing) match ids (showing up to 50):",
+        "[8598861477]",
+        "[8598987393]",
+        "[8599091798]",
+        "[8599992855]",
+        "[8600068614]",
+        "[8602105739]",
+        "[8602246766]"
+      ],
+      "metadata": [
+        {
+          "match_id": "Unknown",
+          "start_time": "Unknown",
+          "radiant_team": "unknown",
+          "dire_team": "unknown",
+          "league": "Unknown"
+        }
+      ]
+    },
+    "obs_logs": {
+      "success": true,
+      "files": [],
+      "logs": []
+    },
+    "replays": {
+      "success": false,
+      "files": [],
+      "logs": []
+    },
+    "picks": {
+      "success": true,
+      "files": [
+        "/Users/ziweiren/Documents/development/dota2AI/dota2-hero-movements/src/sword/backend/data/picks/picks.csv"
+      ],
+      "logs": []
+    }
+  },
+  "table_data": [
+    {
+      "Match ID": "Unknown",
+      "Radiant Team": "unknown",
+      "Dire Team": "unknown",
+      "Obs Logs": "Downloaded",
+      "Replays": "Failed",
+      "Hero Picks": "Downloaded"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "table_data": [
+    {
+      "Match ID": "8615341751",
+      "Radiant Team": "Team Yandex",
+      "Dire Team": "Team Spirit",
+      "JSON": "downloaded",
+      "Obs Logs": "downloaded",
+      "Replays": "downloaded",
+      "Hero Picks": "downloaded"
+    },
+    {
+      "Match ID": "8615212174",
+      "Radiant Team": "Team Spirit",
+      "Dire Team": "Team Yandex",
+      "JSON": "downloaded",
+      "Obs Logs": "downloaded",
+      "Replays": "downloaded",
+      "Hero Picks": "downloaded"
+    }
+  ]
+}

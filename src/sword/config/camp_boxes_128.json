@@ -1,0 +1,44 @@
+[
+  {
+    "id": "r_small_safe",
+    "label": "Radiant Small (safe)",
+    "side": "radiant",
+    "type": "small",
+    "box": { "min_x": 20, "max_x": 28, "min_y": 92, "max_y": 100 }
+  },
+  {
+    "id": "r_medium_safe",
+    "label": "Radiant Medium (safe)",
+    "side": "radiant",
+    "type": "medium",
+    "box": { "min_x": 30, "max_x": 38, "min_y": 88, "max_y": 96 }
+  },
+  {
+    "id": "r_large_jungle",
+    "label": "Radiant Large (jungle)",
+    "side": "radiant",
+    "type": "large",
+    "box": { "min_x": 18, "max_x": 26, "min_y": 76, "max_y": 84 }
+  },
+  {
+    "id": "d_small_safe",
+    "label": "Dire Small (safe)",
+    "side": "dire",
+    "type": "small",
+    "box": { "min_x": 98, "max_x": 106, "min_y": 34, "max_y": 42 }
+  },
+  {
+    "id": "d_medium_safe",
+    "label": "Dire Medium (safe)",
+    "side": "dire",
+    "type": "medium",
+    "box": { "min_x": 92, "max_x": 100, "min_y": 30, "max_y": 38 }
+  },
+  {
+    "id": "d_large_jungle",
+    "label": "Dire Large (jungle)",
+    "side": "dire",
+    "type": "large",
+    "box": { "min_x": 102, "max_x": 110, "min_y": 48, "max_y": 56 }
+  }
+]
