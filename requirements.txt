@@ -1,6 +1,11 @@
-requests
-matplotlib
-seaborn
-numpy
-pandas
-jupyter
+streamlit>=1.32
+plotly>=5.22
+pandas>=2.0
+numpy>=1.24
+Pillow>=10.0
+requests>=2.31
+
+# Optional, if you read Parquet or use S3 later:
+pyarrow>=14.0
+boto3>=1.28
+s3fs>=2024.3.1
