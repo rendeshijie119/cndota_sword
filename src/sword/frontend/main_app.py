@@ -1,14 +1,12 @@
 import sys, pathlib, streamlit as st
 
-# Ensure repo root and 'src' are on sys.path for absolute imports
 THIS = pathlib.Path(__file__).resolve()
-REPO_ROOT = THIS.parents[3]  # .../cndota_sword
+REPO_ROOT = THIS.parents[3]
 SRC_DIR = REPO_ROOT / "src"
 for p in (str(REPO_ROOT), str(SRC_DIR)):
     if p not in sys.path:
         sys.path.insert(0, p)
 
-# Use absolute imports for pages
 from src.sword.frontend.pages import ward_plot_page, download_page
 
 st.set_page_config(page_title="CN Dota Sword", layout="wide")

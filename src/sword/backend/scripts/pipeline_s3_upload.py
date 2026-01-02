@@ -1,11 +1,23 @@
 from __future__ import annotations
 
-import os
+# Bootstrap sys.path so absolute imports work even on Streamlit Cloud
+import sys, pathlib, os
+THIS = pathlib.Path(__file__).resolve()
+SRC_DIR = THIS.parents[3]          # .../src
+REPO_ROOT = THIS.parents[4]        # repo root
+for p in (str(SRC_DIR), str(REPO_ROOT)):
+    if p not in sys.path:
+        sys.path.insert(0, p)
+
+# Prefer absolute import; fall back to local if needed
+try:
+    from src.sword.backend.scripts.storage_s3 import upload  # returns s3://bucket/key
+except Exception:
+    # Fallback: import from sibling file directly
+    from storage_s3 import upload
+
 from pathlib import Path
 from typing import Iterable, List, Dict, Tuple
-
-# Use absolute import to avoid relative-import issues in Cloud
-from src.sword.backend.scripts.storage_s3 import upload  # returns s3://bucket/key
 
 def _env(name: str, default: str = "") -> str:
     v = os.environ.get(name)
@@ -18,15 +30,6 @@ def safe_name(s: str) -> str:
     return "".join(c if c.isalnum() or c in "-_ ." else "_" for c in (s or "").strip())
 
 def infer_kind_and_key(local: Path, team_name: str) -> Tuple[str, str]:
-    """
-    根据本地文件路径推断类别(kind)与 S3 key。
-    约定：
-      - matches: src/sword/data/matches/**/<file>.json -> {prefix}matches/<file>.json
-      - obs_logs: src/sword/data/obs_logs/teams/<team_safe>/**/<file>.csv -> {prefix}obs_logs/teams/<team_safe>/<file>.csv
-      - replays: src/sword/data/replays/**/<file> -> {prefix}replays/<file>
-      - picks:   src/sword/data/picks/**/<file> -> {prefix}picks/<file>
-      - 其他：    {prefix}artifacts/<file>
-    """
     p = local.as_posix().lower()
     team_safe = safe_name(team_name)
     filename = local.name
@@ -49,11 +52,6 @@ def infer_kind_and_key(local: Path, team_name: str) -> Tuple[str, str]:
     return kind, key
 
 def upload_paths(paths: Iterable[Path], team_name: str) -> List[Dict]:
-    """
-    批量上传本地文件到 S3。
-    返回每个文件的上传结果：
-      [{"local": "...", "kind": "obs_logs", "key": "data/obs_logs/teams/...", "s3_url": "s3://bucket/key", "ok": True, "msg": "..."}]
-    """
     results: List[Dict] = []
     for p in paths:
         try:
