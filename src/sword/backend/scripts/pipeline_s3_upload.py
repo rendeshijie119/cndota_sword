@@ -17,7 +17,7 @@ Typical S3 key layout produced by this module (customize infer_kind_and_key if n
 Public API:
 - upload_paths(paths: Iterable[Path], team_name: str, bucket: str | None = None, prefix: str | None = None,
                make_presigned: bool = False, expires: int = 3600) -> list[dict]
-- infer_kind_and_key(local: Path, team_name: str) -> tuple[str, str]
+- infer_kind_and_key(local: Path, team_name: str, prefix: str) -> tuple[str, str]
 - safe_name(s: str) -> str
 """
 
@@ -29,7 +29,6 @@ from typing import Iterable, List, Dict, Tuple, Optional
 try:
     from .storage_s3 import upload, presigned_url  # type: ignore
 except Exception:
-    # If presigned_url is not defined in storage_s3, we still allow uploads.
     from .storage_s3 import upload  # type: ignore
     presigned_url = None  # type: ignore
 
@@ -45,10 +44,8 @@ def _normalize_prefix(p: Optional[str]) -> str:
     p = p.strip()
     if not p:
         return ""
-    # remove leading slashes
     while p.startswith("/"):
         p = p[1:]
-    # ensure trailing slash
     if not p.endswith("/"):
         p = p + "/"
     return p
@@ -65,7 +62,7 @@ def safe_name(s: str) -> str:
     return "".join(c if c.isalnum() or c in "-_ ." else "_" for c in (s or "").strip())
 
 
-def infer_kind_and_key(local: Path, team_name: str) -> Tuple[str, str]:
+def infer_kind_and_key(local: Path, team_name: str, prefix: str) -> Tuple[str, str]:
     """
     Infer artifact kind and S3 key for a given local file path.
 
@@ -83,19 +80,19 @@ def infer_kind_and_key(local: Path, team_name: str) -> Tuple[str, str]:
 
     if "/matches/" in pl and filename.lower().endswith(".json"):
         kind = "matches"
-        key = f"{S3_PREFIX}matches/{filename}"
+        key = f"{prefix}matches/{filename}"
     elif "/obs_logs/" in pl and "/teams/" in pl and filename.lower().endswith(".csv"):
         kind = "obs_logs"
-        key = f"{S3_PREFIX}obs_logs/teams/{team_safe}/{filename}"
+        key = f"{prefix}obs_logs/teams/{team_safe}/{filename}"
     elif "/replays/" in pl:
         kind = "replays"
-        key = f"{S3_PREFIX}replays/{filename}"
+        key = f"{prefix}replays/{filename}"
     elif "/picks/" in pl:
         kind = "picks"
-        key = f"{S3_PREFIX}picks/{filename}"
+        key = f"{prefix}picks/{filename}"
     else:
         kind = "artifacts"
-        key = f"{S3_PREFIX}artifacts/{filename}"
+        key = f"{prefix}artifacts/{filename}"
     return kind, key
 
 
@@ -131,23 +128,14 @@ def upload_one(
             return result
 
         pfx = _normalize_prefix(prefix or S3_PREFIX)
-        # Temporarily override global S3_PREFIX for key inference if explicit prefix provided
-        global S3_PREFIX
-        original_prefix = S3_PREFIX
-        if pfx != S3_PREFIX:
-            S3_PREFIX = pfx  # used by infer_kind_and_key
 
-        kind, key = infer_kind_and_key(local, team_name)
-        # restore original prefix after inference
-        S3_PREFIX = original_prefix
-
-        s3_url = upload(local, bkt, key)  # provided by storage_s3.py
+        kind, key = infer_kind_and_key(local, team_name, pfx)
+        s3_url = upload(local, bkt, key)
         ps_url = ""
         if make_presigned and callable(presigned_url):
             try:
                 ps_url = presigned_url(bkt, key, expires)  # type: ignore
             except Exception as e:
-                # do not fail upload if presigning fails
                 ps_url = ""
                 result.setdefault("warnings", []).append(f"presign failed: {e}")
 
@@ -207,7 +195,6 @@ if __name__ == "__main__":
     args = sys.argv[1:]
     team = args.pop(0)
 
-    # parse optional flags
     bkt = None
     pfx = None
     presign = False
