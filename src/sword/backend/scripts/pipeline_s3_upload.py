@@ -4,7 +4,8 @@ import os
 from pathlib import Path
 from typing import Iterable, List, Dict, Tuple
 
-from .storage_s3 import upload  # 你已有的封装：返回 s3://bucket/key
+# Use absolute import to avoid relative-import issues in Cloud
+from src.sword.backend.scripts.storage_s3 import upload  # returns s3://bucket/key
 
 def _env(name: str, default: str = "") -> str:
     v = os.environ.get(name)
